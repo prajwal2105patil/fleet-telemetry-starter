@@ -1,0 +1,2000 @@
+2026-10-27T08:00:00Z INFO [consumer] vin=5YJW7E0TS8N6GJWA2 invoice line created
+2026-10-27T08:00:01Z INFO [ingest] vin=5YJ06K4MU764UXSFU GET /v1/vehicles/latest 200
+2026-10-27T08:00:13Z INFO [api] vin=3HCVVU9GJ3DUJJSKX GET /v1/vehicles/latest 200
+2026-10-27T08:00:14Z INFO [billing] vin=1FA1M010M5CT56TRU event written
+2026-10-27T08:00:15Z INFO [consumer] vin=3HCNTJGCW5C0JFVX3 event written
+2026-10-27T08:00:19Z INFO [ingest] invoice line created
+2026-10-27T08:00:22Z INFO [billing] vin=3HC9BA7JMARTWU41Z event written
+2026-10-27T08:00:28Z INFO [ingest] vin=1FAUD7ZRLGSSUDR1Z invoice line created
+2026-10-27T08:00:29Z INFO [billing] vin=1FAATH60T10GR7BXR invoice line created
+2026-10-27T08:00:38Z INFO [ingest] GET /v1/vehicles/latest 200
+2026-10-27T08:00:40Z INFO [billing] vin=3HCSDH6WL29WHV0RR event written
+2026-10-27T08:00:43Z INFO [ingest] vin=3HCNTJGCW5C0JFVX3 invoice line created
+2026-10-27T08:00:56Z INFO [api] vin=2GB7ZZLTFVB1DLPRR event written
+2026-10-27T08:00:59Z INFO [consumer] vin=2GB4H6DWMHAJAL8ZT invoice line created
+2026-10-27T08:01:00Z INFO [consumer] vin=2GB301511FJZHM2JR heartbeat accepted
+2026-10-27T08:01:01Z INFO [consumer] vin=3HCUVH12ZKVCVFZ5T GET /v1/vehicles/latest 200
+2026-10-27T08:01:01Z INFO [api] vin=2GBEBEATPCD29V934 invoice line created
+2026-10-27T08:01:01Z INFO [consumer] vin=1FA2XU6A3H3KKGGGV invoice line created
+2026-10-27T08:01:09Z INFO [ingest] vin=1FAYF9MCS55L00V13 GET /v1/vehicles/latest 200
+2026-10-27T08:01:17Z INFO [consumer] vin=3HCSU8PJ7S73NGG4Z invoice line created
+2026-10-27T08:01:22Z WARN [api] vin=1FAY5ATPSEZTGAD15 retrying publish
+2026-10-27T08:01:33Z INFO [api] vin=5YJSB1Z78Z9X1UMBX GET /v1/vehicles/latest 200
+2026-10-27T08:01:35Z INFO [billing] vin=1FA6D0NU0692HBS08 invoice line created
+2026-10-27T08:01:37Z ERROR [api] vin=5YJ87CMU2K2C2YSD7 duplicate key on insert
+2026-10-27T08:01:47Z INFO [api] vin=1FA724G85EFXKEJUX GET /v1/vehicles/latest 200
+2026-10-27T08:01:47Z INFO [consumer] vin=1FAR5ZB3D290S1F0R invoice line created
+2026-10-27T08:01:48Z INFO [api] vin=3HCF296SPZDDV87VA invoice line created
+2026-10-27T08:01:54Z ERROR [consumer] failed to parse message
+2026-10-27T08:01:57Z INFO [ingest] vin=1FAJHADRJN20FTEBE event written
+2026-10-27T08:02:04Z INFO [ingest] vin=5YJ2MM42BN541APPU heartbeat accepted
+2026-10-27T08:02:16Z INFO [consumer] vin=2GBXZBZKN8WM8CFDR heartbeat accepted
+2026-10-27T08:02:19Z ERROR [consumer] vin=2GBKPE33Y63DP31B1 timeout calling OEM API
+2026-10-27T08:02:26Z INFO [consumer] vin=1FAUD7ZRLGSSUDR1Z GET /v1/vehicles/latest 200
+2026-10-27T08:02:28Z INFO [ingest] vin=1FA724G85EFXKEJUX event written
+2026-10-27T08:02:34Z WARN [billing] vin=2GBKBCS7E63N182SK odometer jump > 500 km
+2026-10-27T08:02:36Z INFO [billing] vin=2GB301511FJZHM2JR heartbeat accepted
+2026-10-27T08:02:42Z INFO [consumer] vin=1FAJHADRJN20FTEBE event written
+2026-10-27T08:02:44Z ERROR [consumer] vin=1FAGMJ7XSAT1S5UYW db connection refused
+2026-10-27T08:02:44Z INFO [api] vin=1FA28MVCAWGYV68J9 invoice line created
+2026-10-27T08:02:50Z INFO [ingest] vin=2GBFF8EJJ7LT4PNW2 invoice line created
+2026-10-27T08:02:54Z INFO [ingest] vin=5YJNESGWHCZ40E9YA event written
+2026-10-27T08:02:54Z ERROR [consumer] vin=2GB4H6DWMHAJAL8ZT failed to parse message
+2026-10-27T08:03:01Z INFO [api] vin=1FAWFSH3R155W4WDG GET /v1/vehicles/latest 200
+2026-10-27T08:03:02Z ERROR [ingest] vin=3HCWWU8GRJW5XU3FN timeout calling OEM API
+2026-10-27T08:03:03Z INFO [consumer] vin=1FAYH4J7ER1FGGX0W GET /v1/vehicles/latest 200
+2026-10-27T08:03:08Z INFO [api] vin=1FAUD7ZRLGSSUDR1Z heartbeat accepted
+2026-10-27T08:03:09Z INFO [ingest] vin=1FAVSEFUK1K1X0GFA heartbeat accepted
+2026-10-27T08:03:11Z INFO [consumer] vin=1FAY5ATPSEZTGAD15 invoice line created
+2026-10-27T08:03:12Z INFO [billing] vin=2GBFF8EJJ7LT4PNW2 invoice line created
+2026-10-27T08:03:16Z INFO [consumer] GET /v1/vehicles/latest 200
+2026-10-27T08:03:28Z INFO [api] vin=1FA1M010M5CT56TRU invoice line created
+2026-10-27T08:03:29Z INFO [consumer] vin=5YJUAL4YUKPYGF1GZ invoice line created
+2026-10-27T08:03:35Z INFO [consumer] vin=5YJT020C2DN0VE195 invoice line created
+2026-10-27T08:03:37Z INFO [consumer] vin=5YJ6TAHUYHV4L6AT9 event written
+2026-10-27T08:03:38Z INFO [consumer] vin=5YJ8ML8VJMX5DZA8J event written
+2026-10-27T08:03:40Z INFO [consumer] vin=5YJ87CMU2K2C2YSD7 invoice line created
+2026-10-27T08:03:45Z INFO [ingest] vin=3HC8V2C6FXTXH29A6 GET /v1/vehicles/latest 200
+2026-10-27T08:03:47Z INFO [api] vin=5YJF5HSPZ4LJPPDZU heartbeat accepted
+2026-10-27T08:03:49Z INFO [billing] vin=5YJUGJFM4593GBFZF event written
+2026-10-27T08:03:50Z INFO [ingest] GET /v1/vehicles/latest 200
+2026-10-27T08:03:51Z INFO [consumer] vin=3HCFRZRW3Y0TV6H7D event written
+2026-10-27T08:03:52Z INFO [consumer] vin=5YJLD9FMEES2HSCF3 invoice line created
+2026-10-27T08:03:54Z WARN [api] slow query 1200ms
+2026-10-27T08:04:00Z INFO [api] vin=2GBF8YMXDA5UPLL8F invoice line created
+2026-10-27T08:04:00Z INFO [consumer] vin=5YJDKUFCR306FG9J2 heartbeat accepted
+2026-10-27T08:04:00Z ERROR [ingest] vin=1FAWFSH3R155W4WDG db connection refused
+2026-10-27T08:04:01Z INFO [api] vin=3HCUZ92YBHTMTCG4Z event written
+2026-10-27T08:04:06Z INFO [billing] vin=2GBBM81HTT5PV8NHJ heartbeat accepted
+2026-10-27T08:04:06Z ERROR [api] vin=3HCZS3MF0E99B17C1 duplicate key on insert
+2026-10-27T08:04:07Z INFO [api] vin=1FAW9NK0LAX8BH0WS invoice line created
+2026-10-27T08:04:08Z INFO [consumer] vin=1FA6D0NU0692HBS08 GET /v1/vehicles/latest 200
+2026-10-27T08:04:10Z INFO [ingest] vin=3HCUVH12ZKVCVFZ5T GET /v1/vehicles/latest 200
+2026-10-27T08:04:14Z INFO [consumer] vin=1FAXKFSZ29DWTMB25 GET /v1/vehicles/latest 200
+2026-10-27T08:04:17Z INFO [ingest] vin=1FA085DPUJV58HBSL invoice line created
+2026-10-27T08:04:24Z INFO [consumer] vin=3HCUVH12ZKVCVFZ5T invoice line created
+2026-10-27T08:04:29Z INFO [api] vin=5YJ5FXZEVWLM09RHN invoice line created
+2026-10-27T08:04:30Z INFO [api] vin=3HCF296SPZDDV87VA GET /v1/vehicles/latest 200
+2026-10-27T08:04:35Z INFO [ingest] vin=1FANYR7Z9WLMVG7JT event written
+2026-10-27T08:04:37Z INFO [api] vin=1FAG20Y0KN929CCCJ heartbeat accepted
+2026-10-27T08:04:38Z INFO [consumer] vin=2GBM7SRWK6D33J1ST invoice line created
+2026-10-27T08:04:40Z INFO [consumer] vin=3HC16XNS1R3CX711K event written
+2026-10-27T08:04:46Z INFO [api] vin=2GB1YB8XM8PZTYUUA heartbeat accepted
+2026-10-27T08:04:47Z INFO [consumer] heartbeat accepted
+2026-10-27T08:04:47Z ERROR [api] vin=1FASJ7HP6T0LHLWGB failed to parse message
+2026-10-27T08:04:51Z INFO [billing] vin=1FAAYNJYMXDBKKH0E event written
+2026-10-27T08:04:51Z INFO [billing] vin=1FAREY2XBU58RZ14M GET /v1/vehicles/latest 200
+2026-10-27T08:04:53Z INFO [billing] vin=1FA6CVNCNCXW927TC heartbeat accepted
+2026-10-27T08:04:55Z INFO [consumer] vin=3HCUZ92YBHTMTCG4Z heartbeat accepted
+2026-10-27T08:04:55Z INFO [ingest] vin=3HCZS3MF0E99B17C1 event written
+2026-10-27T08:04:57Z WARN [ingest] vin=5YJN9H1W3DKJNY36K odometer jump > 500 km
+2026-10-27 INFO [ingest] truncated
+2026-10-27T08:05:01Z INFO [api] vin=3HCVVU9GJ3DUJJSKX event written
+2026-10-27T08:05:03Z INFO [ingest] vin=3HCDYUH04251YM880 event written
+2026-10-27T08:05:05Z ERROR [billing] vin=3HC4GHP45R3Y623GX timeout calling OEM API
+2026-10-27T08:05:05Z WARN [ingest] vin=5YJ31FSL1LJUWU8KE odometer jump > 500 km
+2026-10-27T08:05:08Z ERROR [ingest] vin=5YJ9H1NTC4AN04EYX failed to parse message
+2026-10-27T08:05:09Z WARN [ingest] vin=1FAJSVTX2XX5URENJ consumer lag 350
+2026-10-27T08:05:10Z INFO [api] vin=3HC1U3TF7BDZRECBS heartbeat accepted
+2026-10-27T08:05:20Z WARN [ingest] vin=1FAATH60T10GR7BXR odometer jump > 500 km
+2026-10-27T08:05:32Z INFO [consumer] vin=3HCPYPT98TDF4UCAY GET /v1/vehicles/latest 200
+2026-10-27T08:05:38Z INFO [consumer] GET /v1/vehicles/latest 200
+2026-10-27T08:05:44Z INFO [consumer] vin=2GBB2BF4J6MDT1XP6 event written
+2026-10-27T08:05:47Z INFO [api] vin=1FAVSEFUK1K1X0GFA invoice line created
+2026-10-27T08:05:49Z INFO [ingest] vin=5YJ5FXZEVWLM09RHN invoice line created
+2026-10-27T08:05:50Z ERROR [api] vin=1FADA3JREKAP960D7 failed to parse message
+2026-10-27T08:05:50Z INFO [consumer] vin=1FAFRH6HK8V9U377S heartbeat accepted
+2026-10-27T08:05:51Z INFO [ingest] vin=3HC4DVWZG9PK7RGZ0 event written
+2026-10-27T08:05:55Z INFO [consumer] vin=3HCZS3MF0E99B17C1 heartbeat accepted
+2026-10-27T08:06:00Z ERROR [billing] vin=5YJRTN4HRKUKEDLWV timeout calling OEM API
+2026-10-27T08:06:02Z INFO [ingest] vin=5YJ7XP0X3CRKBT3VK invoice line created
+2026-10-27T08:06:03Z ERROR [api] vin=2GBB7GV3FHKZWY6P7 duplicate key on insert
+2026-10-27T08:06:08Z INFO [api] vin=3HC1X8CESVRF4GG5L heartbeat accepted
+2026-10-27T08:06:08Z INFO [billing] GET /v1/vehicles/latest 200
+2026-10-27T08:06:09Z INFO [ingest] heartbeat accepted
+2026-10-27T08:06:11Z INFO [billing] vin=2GB380D9LEW92JBMN GET /v1/vehicles/latest 200
+2026-10-27T08:06:15Z INFO [billing] vin=3HC0L0ZPUELSL61UR GET /v1/vehicles/latest 200
+2026-10-27T08:06:18Z INFO [billing] vin=5YJU315EF29U068XA heartbeat accepted
+2026-10-27T08:06:26Z INFO [consumer] vin=5YJUGJFM4593GBFZF GET /v1/vehicles/latest 200
+2026-10-27T08:06:34Z INFO [consumer] vin=1FAXL60F4GS42F2WY GET /v1/vehicles/latest 200
+2026-10-27T08:06:39Z INFO [ingest] vin=5YJGDV13SLXXNL896 GET /v1/vehicles/latest 200
+2026-10-27T08:06:39Z ERROR [ingest] vin=3HCDYUH04251YM880 failed to parse message
+2026-10-27T08:06:43Z WARN [api] vin=1FAFRH6HK8V9U377S odometer jump > 500 km
+2026-10-27T08:06:44Z INFO [billing] vin=2GBXBPK2EWLS1Y1JF invoice line created
+2026-10-27T08:06:48Z INFO [consumer] vin=5YJUAL4YUKPYGF1GZ heartbeat accepted
+2026-10-27T08:06:49Z INFO [api] vin=2GB301511FJZHM2JR heartbeat accepted
+2026-10-27T08:06:51Z WARN [consumer] vin=1FADA3JREKAP960D7 odometer jump > 500 km
+2026-10-27T08:06:54Z INFO [consumer] vin=1FAYF9MCS55L00V13 event written
+2026-10-27T08:06:57Z INFO [ingest] vin=5YJT020C2DN0VE195 invoice line created
+2026-10-27T08:06:58Z INFO [api] vin=1FAM0XN6HT8X12HZZ GET /v1/vehicles/latest 200
+2026-10-27T08:06:59Z INFO [billing] vin=2GB4H6DWMHAJAL8ZT event written
+2026-10-27T08:07:02Z INFO [billing] vin=2GB56X3HZP5W6THFL heartbeat accepted
+
+2026-10-27T08:07:05Z INFO [consumer] vin=3HC8V2C6FXTXH29A6 GET /v1/vehicles/latest 200
+2026-10-27T08:07:14Z INFO [api] vin=1FAVSEFUK1K1X0GFA invoice line created
+2026-10-27T08:07:14Z INFO [consumer] vin=5YJ5FXZEVWLM09RHN event written
+2026-10-27T08:07:16Z INFO [billing] vin=2GBM7SRWK6D33J1ST heartbeat accepted
+2026-10-27T08:07:18Z INFO [ingest] vin=2GBKAUKJTMHBJAZSX GET /v1/vehicles/latest 200
+2026-10-27T08:07:21Z INFO [consumer] heartbeat accepted
+2026-10-27T08:07:27Z INFO [consumer] GET /v1/vehicles/latest 200
+2026-10-27T08:07:29Z INFO [consumer] vin=3HCVGNVR0MWAJUCDV GET /v1/vehicles/latest 200
+2026-10-27T08:07:33Z INFO [consumer] invoice line created
+2026-10-27T08:07:42Z WARN [billing] vin=1FAP136YL0WXFDKLD slow query 1200ms
+2026-10-27T08:07:44Z INFO [consumer] vin=5YJX655P97LFV9YFS heartbeat accepted
+2026-10-27T08:07:46Z INFO [consumer] vin=2GBXZBZKN8WM8CFDR invoice line created
+2026-10-27T08:08:06Z INFO [ingest] vin=1FAFRH6HK8V9U377S GET /v1/vehicles/latest 200
+2026-10-27T08:08:07Z INFO [consumer] vin=5YJK3G83UC0P55S0G invoice line created
+2026-10-27T08:08:09Z INFO [api] vin=5YJYKXXZ2J09GXS6H event written
+2026-10-27T08:08:12Z INFO [consumer] vin=5YJ87CMU2K2C2YSD7 event written
+2026-10-27T08:08:15Z INFO [ingest] vin=2GB1YB8XM8PZTYUUA invoice line created
+2026-10-27T08:08:16Z INFO [api] vin=5YJRTN4HRKUKEDLWV invoice line created
+2026-10-27T08:08:20Z INFO [api] vin=3HCW2GA90VWG7EYUX GET /v1/vehicles/latest 200
+2026-10-27T08:08:22Z INFO [api] vin=2GBT6TA6VLE5ZW4T6 invoice line created
+2026-10-27T08:08:22Z INFO [billing] vin=2GB001CK5005EJ02X GET /v1/vehicles/latest 200
+2026-10-27T08:08:31Z WARN [ingest] vin=5YJN9H1W3DKJNY36K consumer lag 350
+2026-10-27T08:08:38Z INFO [consumer] vin=1FAR5ZB3D290S1F0R heartbeat accepted
+2026-10-27T08:08:39Z INFO [billing] vin=3HC16XNS1R3CX711K GET /v1/vehicles/latest 200
+2026-10-27T08:08:44Z WARN [api] vin=3HCNTJGCW5C0JFVX3 retrying publish
+2026-10-27T08:08:46Z INFO [consumer] vin=5YJDKUFCR306FG9J2 GET /v1/vehicles/latest 200
+2026-10-27T08:08:46Z INFO [billing] vin=1FACX2UEPXP826KTJ heartbeat accepted
+2026-10-27T08:08:47Z INFO [api] vin=1FAKUFWF9PKX2EW4S heartbeat accepted
+2026-10-27T08:08:56Z ERROR [api] vin=1FASJ7HP6T0LHLWGB failed to parse message
+2026-10-27T08:09:00Z INFO [api] vin=2GBM7SRWK6D33J1ST event written
+2026-10-27T08:09:05Z INFO [api] vin=2GBFLSMELA357VCRV GET /v1/vehicles/latest 200
+2026-10-27T08:09:08Z INFO [api] invoice line created
+2026-10-27T08:09:16Z INFO [billing] vin=5YJ2MM42BN541APPU invoice line created
+2026-10-27T08:09:17Z WARN [consumer] vin=1FAYEYG1VTKYFKZW2 consumer lag 350
+2026-10-27T08:09:20Z WARN [consumer] vin=1FA641RS6ZKUNHC3B consumer lag 350
+2026-10-27T08:09:21Z INFO [billing] vin=1FA2XU6A3H3KKGGGV GET /v1/vehicles/latest 200
+2026-10-27T08:09:27Z INFO [ingest] vin=1FAF4MVXGFXVW54L5 event written
+2026-10-27T08:09:27Z INFO [consumer] vin=2GB4H6DWMHAJAL8ZT event written
+2026-10-27T08:09:27Z WARN [billing] vin=5YJ9838358LFBRVCU slow query 1200ms
+2026-10-27T08:09:28Z INFO [ingest] vin=5YJSU8SU5EVSUYXFJ event written
+2026-10-27T08:09:45Z INFO [ingest] vin=3HC2F026SRWFCF211 heartbeat accepted
+2026-10-27T08:09:46Z WARN [consumer] vin=2GBYZT7NSUWRWVP8X odometer jump > 500 km
+2026-10-27T08:09:47Z INFO [api] vin=1FAM0XN6HT8X12HZZ heartbeat accepted
+2026-10-27T08:09:50Z INFO [api] vin=1FAFRH6HK8V9U377S event written
+2026-10-27T08:09:52Z INFO [ingest] vin=5YJAV775YMDT7HE28 invoice line created
+2026-10-27T08:10:04Z INFO [ingest] vin=2GBUU5KCSV837DFU1 invoice line created
+2026-10-27T08:10:12Z WARN [ingest] vin=5YJZ4UDE209LBK5CJ odometer jump > 500 km
+2026-10-27T08:10:21Z INFO [billing] vin=5YJ6TAHUYHV4L6AT9 event written
+2026-10-27T08:10:24Z WARN [consumer] vin=3HCM75UM48F7Z3YXG retrying publish
+2026-10-27T08:10:30Z INFO [billing] vin=5YJ2MM42BN541APPU GET /v1/vehicles/latest 200
+2026-10-27T08:10:30Z ERROR [api] failed to parse message
+2026-10-27T08:10:32Z INFO [ingest] vin=3HC689HHU0C5P4GSW heartbeat accepted
+2026-10-27T08:10:33Z INFO [api] vin=5YJW7E0TS8N6GJWA2 event written
+2026-10-27T08:10:35Z INFO [ingest] invoice line created
+2026-10-27T08:10:37Z WARN [consumer] vin=5YJRTN4HRKUKEDLWV consumer lag 350
+2026-10-27T08:10:38Z ERROR [ingest] vin=3HCM75UM48F7Z3YXG timeout calling OEM API
+2026-10-27T08:10:38Z WARN [ingest] vin=2GBA2CMXRG8KYESZX odometer jump > 500 km
+2026-10-27T08:10:48Z INFO [consumer] vin=2GB001CK5005EJ02X heartbeat accepted
+2026-10-27T08:10:49Z INFO [api] vin=3HCPYPT98TDF4UCAY GET /v1/vehicles/latest 200
+2026-10-27T08:10:51Z INFO [ingest] vin=2GBEBEATPCD29V934 GET /v1/vehicles/latest 200
+2026-10-27T08:10:54Z INFO [billing] vin=5YJYKXXZ2J09GXS6H invoice line created
+2026-10-27T08:10:54Z INFO [ingest] vin=3HCWWU8GRJW5XU3FN GET /v1/vehicles/latest 200
+2026-10-27T08:10:55Z WARN [ingest] vin=2GB4H6DWMHAJAL8ZT odometer jump > 500 km
+2026-10-27T08:10:59Z INFO [consumer] vin=2GB7GS1ZVVB2UAD8V heartbeat accepted
+2026-10-27T08:11:02Z INFO [consumer] vin=3HC54AHEKC0K4JCW0 heartbeat accepted
+2026-10-27T08:11:08Z ERROR [api] vin=3HC16XNS1R3CX711K failed to parse message
+2026-10-27T08:11:22Z INFO [ingest] vin=2GB56X3HZP5W6THFL invoice line created
+2026-10-27T08:11:24Z INFO [api] vin=2GBXZBZKN8WM8CFDR event written
+2026-10-27T08:11:29Z ERROR [api] vin=1FALF84YGCRP7UCEU timeout calling OEM API
+2026-10-27T08:11:34Z INFO [billing] vin=5YJT020C2DN0VE195 invoice line created
+2026-10-27T08:11:38Z INFO [api] vin=5YJY5Y4JWXN7XM2XV GET /v1/vehicles/latest 200
+2026-10-27T08:11:40Z ERROR [consumer] vin=1FAYH4J7ER1FGGX0W timeout calling OEM API
+2026-10-27T08:11:42Z INFO [api] heartbeat accepted
+2026-10-27T08:11:43Z INFO [billing] vin=1FAYF9MCS55L00V13 GET /v1/vehicles/latest 200
+2026-10-27T08:11:45Z INFO [ingest] vin=5YJSU8SU5EVSUYXFJ invoice line created
+2026-10-27T08:11:59Z INFO [api] vin=1FAYF9MCS55L00V13 event written
+2026-10-27T08:12:04Z WARN [ingest] vin=1FA865XXK5E75WUDZ odometer jump > 500 km
+2026-10-27T08:12:05Z INFO [ingest] vin=3HCSU8PJ7S73NGG4Z event written
+2026-10-27T08:12:06Z INFO [consumer] vin=1FA28MVCAWGYV68J9 invoice line created
+2026-10-27T08:12:07Z INFO [api] vin=2GBX3K3P397DJPX71 heartbeat accepted
+2026-10-27T08:12:12Z INFO [consumer] vin=2GBKPE33Y63DP31B1 event written
+2026-10-27T08:12:21Z INFO [api] vin=2GBKEVG9CYJ1KLML5 GET /v1/vehicles/latest 200
+2026-10-27T08:12:25Z INFO [consumer] vin=2GB7ZZLTFVB1DLPRR GET /v1/vehicles/latest 200
+2026-10-27T08:12:32Z INFO [ingest] vin=5YJUAL4YUKPYGF1GZ heartbeat accepted
+2026-10-27T08:12:33Z WARN [ingest] consumer lag 350
+2026-10-27T08:12:37Z INFO [api] vin=5YJ2MM42BN541APPU heartbeat accepted
+2026-10-27T08:12:38Z INFO [ingest] vin=3HC2F026SRWFCF211 event written
+2026-10-27T08:12:47Z INFO [ingest] vin=1FACX2UEPXP826KTJ heartbeat accepted
+2026-10-27T08:12:48Z INFO [ingest] vin=5YJDGD2YGSNN5J4MU invoice line created
+2026-10-27T08:12:51Z ERROR [consumer] failed to parse message
+2026-10-27T08:12:52Z INFO [api] vin=5YJS5V5RSW7N056V1 invoice line created
+2026-10-27T08:13:05Z ERROR [ingest] vin=3HCZS3MF0E99B17C1 failed to parse message
+2026-10-27T08:13:05Z ERROR [billing] vin=1FA6CVNCNCXW927TC db connection refused
+2026-10-27T08:13:13Z INFO [billing] vin=5YJNESGWHCZ40E9YA heartbeat accepted
+2026-10-27T08:13:14Z INFO [consumer] vin=3HC2F026SRWFCF211 invoice line created
+2026-10-27T08:13:14Z INFO [ingest] vin=2GBWFJXHSWHM0K913 heartbeat accepted
+2026-10-27T08:13:15Z INFO [ingest] vin=2GB4H6DWMHAJAL8ZT event written
+2026-10-27T08:13:18Z WARN [api] vin=5YJAV775YMDT7HE28 slow query 1200ms
+2026-10-27T08:13:33Z INFO [ingest] vin=3HC9BA7JMARTWU41Z GET /v1/vehicles/latest 200
+2026-10-27T08:13:36Z INFO [ingest] vin=3HC6H1FV0NECRVFRG event written
+2026-10-27T08:13:38Z INFO [ingest] GET /v1/vehicles/latest 200
+2026-10-27T08:13:38Z WARN [consumer] vin=3HCZEZSGYJCZYM67M odometer jump > 500 km
+2026-10-27T08:13:50Z INFO [api] vin=2GB81Z1G7RL5ECVBX heartbeat accepted
+2026-10-27T08:13:52Z INFO [api] vin=1FANH7SP2SXV16ZWT GET /v1/vehicles/latest 200
+2026-10-27T08:13:54Z INFO [ingest] vin=5YJ5FXZEVWLM09RHN event written
+2026-10-27T08:13:59Z INFO [api] vin=5YJSB1Z78Z9X1UMBX heartbeat accepted
+2026-10-27T08:14:00Z INFO [ingest] vin=1FA1Z4XJSUFSVBWP9 heartbeat accepted
+2026-10-27T08:14:04Z ERROR [consumer] vin=3HC4DVWZG9PK7RGZ0 failed to parse message
+2026-10-27T08:14:06Z INFO [ingest] vin=5YJS5V5RSW7N056V1 event written
+2026-10-27T08:14:10Z INFO [consumer] vin=1FAR5ZB3D290S1F0R event written
+2026-10-27T08:14:12Z INFO [consumer] vin=5YJ9838358LFBRVCU invoice line created
+2026-10-27T08:14:13Z INFO [ingest] vin=1FAREY2XBU58RZ14M heartbeat accepted
+2026-10-27T08:14:15Z INFO [ingest] vin=3HCE9H9NZZKSGKTNM GET /v1/vehicles/latest 200
+2026-10-27T08:14:18Z INFO [consumer] heartbeat accepted
+2026-10-27T08:14:19Z WARN [consumer] vin=2GBFLSMELA357VCRV retrying publish
+2026-10-27T08:14:20Z INFO [billing] vin=2GBL377NVXVDFRCM3 GET /v1/vehicles/latest 200
+2026-10-27T08:14:34Z INFO [api] event written
+2026-10-27T08:14:37Z INFO [billing] vin=3HC0K7EFFF4G0JDYH GET /v1/vehicles/latest 200
+2026-10-27T08:14:37Z WARN [ingest] vin=2GBG1C7RN6ZWRRBN2 slow query 1200ms
+2026-10-27T08:14:39Z WARN [ingest] vin=3HCSDH6WL29WHV0RR slow query 1200ms
+2026-10-27T08:14:40Z INFO [consumer] vin=3HCYKJCV7J75AFBTP invoice line created
+2026-10-27T08:14:45Z INFO [api] GET /v1/vehicles/latest 200
+2026-10-27T08:14:46Z INFO [api] vin=2GBSKA3BRZAYA1WGP invoice line created
+2026-10-27T08:14:49Z INFO [api] vin=1FA3ABUVB94MGGKSN heartbeat accepted
+2026-10-27T08:14:51Z INFO [consumer] vin=1FAF4MVXGFXVW54L5 GET /v1/vehicles/latest 200
+2026-10-27T08:14:53Z INFO [billing] vin=1FA6BHL56A4NJWLUF invoice line created
+2026-10-27T08:14:53Z INFO [ingest] GET /v1/vehicles/latest 200
+2026-10-27T08:15:01Z INFO [billing] vin=5YJ037PSF50EHD9NK invoice line created
+2026-10-27T08:15:02Z INFO [consumer] GET /v1/vehicles/latest 200
+2026-10-27T08:15:08Z ERROR [consumer] vin=2GBKAUKJTMHBJAZSX failed to parse message
+2026-10-27T08:15:14Z INFO [consumer] vin=3HC420RJ98FDHKL4E heartbeat accepted
+2026-10-27T08:15:18Z INFO [api] vin=1FA1M010M5CT56TRU GET /v1/vehicles/latest 200
+2026-10-27T08:15:18Z INFO [consumer] vin=1FAL1LEFY7B4L4LDG GET /v1/vehicles/latest 200
+2026-10-27T08:15:18Z INFO [api] vin=1FA085DPUJV58HBSL invoice line created
+2026-10-27T08:15:21Z INFO [api] vin=3HC16XNS1R3CX711K GET /v1/vehicles/latest 200
+2026-10-27T08:15:21Z INFO [billing] vin=1FAR5ZB3D290S1F0R invoice line created
+2026-10-27T08:15:23Z INFO [api] vin=5YJ9H1NTC4AN04EYX heartbeat accepted
+2026-10-27T08:15:28Z INFO [consumer] vin=5YJNESGWHCZ40E9YA invoice line created
+2026-10-27T08:15:30Z INFO [api] vin=5YJNESGWHCZ40E9YA heartbeat accepted
+2026-10-27T08:15:38Z WARN [billing] vin=5YJSB1Z78Z9X1UMBX retrying publish
+2026-10-27T08:15:39Z WARN [consumer] vin=2GBT6TA6VLE5ZW4T6 consumer lag 350
+2026-10-27T08:15:42Z INFO [api] vin=5YJZ4UDE209LBK5CJ GET /v1/vehicles/latest 200
+2026-10-27T08:15:42Z INFO [api] vin=2GBBM81HTT5PV8NHJ event written
+2026-10-27T08:15:43Z WARN [ingest] vin=3HCUVH12ZKVCVFZ5T odometer jump > 500 km
+2026-10-27T08:15:50Z INFO [api] invoice line created
+2026-10-27T08:15:51Z INFO [billing] vin=5YJJKEAL5ZPK35PFG invoice line created
+2026-10-27T08:15:57Z INFO [consumer] vin=1FA6D0NU0692HBS08 invoice line created
+2026-10-27T08:16:01Z WARN [ingest] slow query 1200ms
+2026-10-27T08:16:03Z INFO [ingest] vin=5YJU315EF29U068XA invoice line created
+2026-10-27T08:16:06Z INFO [billing] vin=1FAUSRJGF4CBFPR9B heartbeat accepted
+2026-10-27T08:16:14Z INFO [billing] vin=1FA6D0NU0692HBS08 invoice line created
+2026-10-27T08:16:16Z INFO [api] vin=2GB001CK5005EJ02X GET /v1/vehicles/latest 200
+2026-10-27T08:16:16Z INFO [api] vin=3HCUNH6FPBDYSJPEP invoice line created
+2026-10-27T08:16:23Z INFO [billing] event written
+2026-10-27T08:16:29Z ERROR [api] vin=3HC2TAPEC4ZEDE7CV failed to parse message
+2026-10-27T08:16:29Z WARN [consumer] vin=3HCUVH12ZKVCVFZ5T consumer lag 350
+2026-10-27T08:16:30Z INFO [api] vin=5YJ7XP0X3CRKBT3VK GET /v1/vehicles/latest 200
+2026-10-27T08:16:33Z INFO [ingest] vin=3HC420RJ98FDHKL4E event written
+2026-10-27T08:16:34Z INFO [api] vin=5YJFYHC6DL428B14M invoice line created
+2026-10-27T08:16:41Z ERROR [billing] vin=3HCWNKSD2XJB8VT32 timeout calling OEM API
+2026-10-27T08:16:43Z INFO [consumer] GET /v1/vehicles/latest 200
+2026-10-27T08:16:48Z INFO [consumer] vin=2GB001CK5005EJ02X GET /v1/vehicles/latest 200
+2026-10-27T08:16:48Z INFO [consumer] vin=1FAVSEFUK1K1X0GFA heartbeat accepted
+2026-10-27T08:16:49Z WARN [api] vin=5YJ5XEWCHBYGLSMLY slow query 1200ms
+2026-10-27T08:16:52Z ERROR [ingest] vin=1FAUSRJGF4CBFPR9B duplicate key on insert
+2026-10-27T08:16:53Z INFO [consumer] vin=2GB380D9LEW92JBMN GET /v1/vehicles/latest 200
+2026-10-27T08:16:55Z INFO [ingest] vin=5YJW7E0TS8N6GJWA2 event written
+2026-10-27T08:16:59Z INFO [consumer] vin=1FA724G85EFXKEJUX GET /v1/vehicles/latest 200
+2026-10-27T08:17:00Z INFO [consumer] vin=1FAYEYG1VTKYFKZW2 GET /v1/vehicles/latest 200
+2026-10-27T08:17:05Z WARN [api] vin=3HC420RJ98FDHKL4E retrying publish
+2026-10-27T08:17:07Z WARN [billing] vin=1FAW13R8RU48B1Y2L consumer lag 350
+2026-10-27T08:17:07Z INFO [billing] vin=1FADA3JREKAP960D7 event written
+2026-10-27T08:17:19Z INFO [billing] vin=1FA2XU6A3H3KKGGGV GET /v1/vehicles/latest 200
+2026-10-27T08:17:19Z ERROR [api] duplicate key on insert
+2026-10-27T08:17:25Z INFO [billing] vin=5YJYKXXZ2J09GXS6H event written
+2026-10-27T08:17:32Z INFO [consumer] vin=2GB7ZZLTFVB1DLPRR GET /v1/vehicles/latest 200
+2026-10-27T08:17:32Z WARN [billing] vin=2GBT6TA6VLE5ZW4T6 odometer jump > 500 km
+2026-10-27T08:17:42Z INFO [consumer] vin=5YJ5XEWCHBYGLSMLY GET /v1/vehicles/latest 200
+2026-10-27T08:17:43Z INFO [consumer] vin=1FAJHADRJN20FTEBE invoice line created
+2026-10-27T08:17:47Z ERROR [api] vin=2GB7ZZLTFVB1DLPRR duplicate key on insert
+2026-10-27T08:17:48Z INFO [api] GET /v1/vehicles/latest 200
+2026-10-27T08:17:48Z INFO [consumer] heartbeat accepted
+2026-10-27T08:17:51Z INFO [billing] vin=3HC4853UP9HZ4HV8W GET /v1/vehicles/latest 200
+2026-10-27T08:17:55Z INFO [api] vin=3HCVVU9GJ3DUJJSKX heartbeat accepted
+2026-10-27T08:17:56Z INFO [consumer] vin=1FADA3JREKAP960D7 GET /v1/vehicles/latest 200
+2026-10-27T08:17:57Z INFO [billing] vin=2GBKAUKJTMHBJAZSX heartbeat accepted
+2026-10-27T08:17:57Z INFO [api] vin=3HCVGNVR0MWAJUCDV invoice line created
+2026-10-27T08:18:11Z INFO [consumer] vin=5YJRTN4HRKUKEDLWV GET /v1/vehicles/latest 200
+2026-10-27T08:18:15Z INFO [ingest] vin=5YJJKEAL5ZPK35PFG heartbeat accepted
+2026-10-27T08:18:18Z INFO [ingest] vin=5YJT020C2DN0VE195 GET /v1/vehicles/latest 200
+2026-10-27T08:18:20Z INFO [api] vin=1FA1Z4XJSUFSVBWP9 event written
+2026-10-27T08:18:30Z INFO [api] heartbeat accepted
+2026-10-27T08:18:31Z INFO [api] vin=2GBXZBZKN8WM8CFDR event written
+2026-10-27T08:18:33Z WARN [ingest] vin=3HCSGZ3KSLM3BMY3S odometer jump > 500 km
+2026-10-27T08:18:36Z INFO [billing] vin=5YJ31FSL1LJUWU8KE event written
+2026-10-27T08:18:38Z ERROR [consumer] timeout calling OEM API
+2026-10-27T08:18:46Z INFO [consumer] event written
+2026-10-27T08:18:53Z INFO [billing] vin=3HC2TAPEC4ZEDE7CV invoice line created
+2026-10-27T08:18:58Z INFO [billing] vin=2GB81Z1G7RL5ECVBX GET /v1/vehicles/latest 200
+2026-10-27T08:19:00Z INFO [consumer] vin=2GBB006JFEW2733EJ heartbeat accepted
+2026-10-27T08:19:02Z INFO [billing] vin=3HC4BUBMUWYZAMK2E event written
+2026-10-27T08:19:03Z INFO [billing] vin=1FAVSEFUK1K1X0GFA invoice line created
+2026-10-27T08:19:04Z INFO [api] vin=2GB4H6DWMHAJAL8ZT heartbeat accepted
+2026-10-27T08:19:06Z WARN [ingest] vin=3HC420RJ98FDHKL4E retrying publish
+2026-10-27T08:19:18Z INFO [api] vin=3HC420RJ98FDHKL4E event written
+2026-10-27T08:19:25Z INFO [consumer] invoice line created
+2026-10-27T08:19:27Z INFO [billing] vin=5YJW7E0TS8N6GJWA2 GET /v1/vehicles/latest 200
+2026-10-27T08:19:31Z INFO [ingest] event written
+2026-10-27T08:19:32Z INFO [ingest] vin=3HCNTJGCW5C0JFVX3 invoice line created
+2026-10-27T08:19:35Z ERROR [billing] vin=5YJ8ML8VJMX5DZA8J db connection refused
+2026-10-27T08:19:35Z INFO [ingest] vin=3HCVGNVR0MWAJUCDV GET /v1/vehicles/latest 200
+2026-10-27T08:19:36Z ERROR [consumer] vin=1FA1M010M5CT56TRU timeout calling OEM API
+2026-10-27T08:19:41Z WARN [billing] vin=3HCZEZSGYJCZYM67M odometer jump > 500 km
+2026-10-27T08:19:49Z WARN [consumer] vin=5YJ5HSREYBRRAEDRE odometer jump > 500 km
+2026-10-27T08:19:57Z WARN [api] vin=1FAG20Y0KN929CCCJ odometer jump > 500 km
+2026-10-27T08:19:58Z WARN [consumer] vin=1FA38S785BFVR2SW0 retrying publish
+2026-10-27T08:19:59Z INFO [ingest] vin=3HCUNH6FPBDYSJPEP heartbeat accepted
+2026-10-27T08:20:00Z INFO [api] vin=3HCW2GA90VWG7EYUX heartbeat accepted
+2026-10-27T08:20:02Z INFO [billing] vin=3HCWWU8GRJW5XU3FN GET /v1/vehicles/latest 200
+2026-10-27T08:20:21Z INFO [ingest] vin=3HC8V2C6FXTXH29A6 invoice line created
+2026-10-27T08:20:21Z INFO [consumer] vin=1FAFRH6HK8V9U377S event written
+2026-10-27T08:20:23Z INFO [consumer] vin=1FAWFSH3R155W4WDG invoice line created
+2026-10-27T08:20:25Z ERROR [billing] vin=3HCKR3WUDM48DZ1X3 db connection refused
+2026-10-27T08:20:27Z INFO [billing] vin=5YJR9ZE2C4B6EX423 event written
+2026-10-27T08:20:33Z INFO [consumer] vin=3HCE9H9NZZKSGKTNM heartbeat accepted
+2026-10-27T08:20:34Z WARN [api] vin=1FAUD7ZRLGSSUDR1Z consumer lag 350
+2026-10-27T08:20:35Z INFO [consumer] vin=3HC16XNS1R3CX711K invoice line created
+2026-10-27T08:20:41Z INFO [consumer] vin=1FAJHADRJN20FTEBE event written
+2026-10-27T08:20:42Z INFO [consumer] vin=1FAW13R8RU48B1Y2L invoice line created
+2026-10-27T08:20:45Z ERROR [ingest] db connection refused
+2026-10-27T08:20:50Z INFO [api] vin=1FA3RXS3XUE0H9DMR event written
+2026-10-27T08:20:50Z WARN [consumer] vin=5YJGDV13SLXXNL896 retrying publish
+2026-10-27T08:20:55Z WARN [ingest] vin=3HCM75UM48F7Z3YXG odometer jump > 500 km
+2026-10-27T08:21:00Z ERROR [api] vin=2GB09ULT7VYH6EKR2 failed to parse message
+2026-10-27T08:21:12Z INFO [api] vin=5YJZ4UDE209LBK5CJ event written
+2026-10-27T08:21:17Z INFO [api] vin=3HC9BA7JMARTWU41Z GET /v1/vehicles/latest 200
+2026-10-27T08:21:19Z INFO [consumer] vin=1FA6CVNCNCXW927TC invoice line created
+2026-10-27T08:21:19Z INFO [billing] vin=2GB7ZZLTFVB1DLPRR invoice line created
+2026-10-27T08:21:26Z INFO [billing] vin=5YJ037PSF50EHD9NK heartbeat accepted
+2026-10-27T08:21:33Z INFO [api] vin=3HCSGZ3KSLM3BMY3S heartbeat accepted
+2026-10-27T08:21:43Z ERROR [ingest] vin=1FA865XXK5E75WUDZ failed to parse message
+2026-10-27T08:21:45Z INFO [api] vin=1FAXL60F4GS42F2WY event written
+2026-10-27T08:21:55Z INFO [api] GET /v1/vehicles/latest 200
+2026-10-27T08:21:57Z WARN [ingest] vin=5YJ8ML8VJMX5DZA8J odometer jump > 500 km
+2026-10-27T08:22:01Z INFO [consumer] vin=5YJZE2P4P8UXVYJ8Y invoice line created
+2026-10-27T08:22:11Z INFO [consumer] vin=5YJ5HSREYBRRAEDRE heartbeat accepted
+2026-10-27T08:22:16Z ERROR [api] vin=2GBTGHR9ACASC701K db connection refused
+2026-10-27T08:22:29Z INFO [billing] GET /v1/vehicles/latest 200
+2026-10-27T08:22:33Z INFO [ingest] GET /v1/vehicles/latest 200
+2026-10-27T08:22:36Z INFO [consumer] vin=3HCWNKSD2XJB8VT32 GET /v1/vehicles/latest 200
+2026-10-27T08:22:37Z INFO [api] vin=5YJY5Y4JWXN7XM2XV GET /v1/vehicles/latest 200
+2026-10-27T08:22:55Z INFO [ingest] vin=2GBU20HNMB6P5VE38 heartbeat accepted
+2026-10-27T08:22:56Z INFO [ingest] vin=5YJF5HSPZ4LJPPDZU invoice line created
+2026-10-27T08:22:58Z INFO [billing] vin=1FAXL60F4GS42F2WY GET /v1/vehicles/latest 200
+2026-10-27T08:22:58Z INFO [ingest] vin=1FA724G85EFXKEJUX heartbeat accepted
+2026-10-27T08:23:02Z INFO [consumer] vin=1FAAYNJYMXDBKKH0E event written
+2026-10-27T08:23:06Z INFO [api] vin=5YJX655P97LFV9YFS invoice line created
+2026-10-27T08:23:10Z INFO [consumer] vin=1FAAYNJYMXDBKKH0E event written
+2026-10-27T08:23:10Z INFO [api] vin=3HC54AHEKC0K4JCW0 heartbeat accepted
+2026-10-27T08:23:15Z INFO [ingest] event written
+2026-10-27T08:23:15Z WARN [billing] vin=3HC2F026SRWFCF211 consumer lag 350
+2026-10-27T08:23:18Z INFO [ingest] vin=1FA1M010M5CT56TRU event written
+2026-10-27T08:23:19Z WARN [ingest] vin=2GBKAUKJTMHBJAZSX consumer lag 350
+2026-10-27T08:23:23Z INFO [consumer] vin=5YJN9H1W3DKJNY36K event written
+2026-10-27T08:23:26Z WARN [consumer] vin=5YJ6TAHUYHV4L6AT9 odometer jump > 500 km
+2026-10-27T08:23:27Z INFO [api] vin=5YJSB1Z78Z9X1UMBX event written
+2026-10-27T08:23:31Z WARN [ingest] vin=1FADA3JREKAP960D7 slow query 1200ms
+2026-10-27T08:23:38Z INFO [billing] vin=2GBJ3HE7509G59RCW heartbeat accepted
+2026-10-27T08:23:42Z INFO [api] vin=1FAAYNJYMXDBKKH0E heartbeat accepted
+2026-10-27T08:23:50Z ERROR [consumer] vin=2GBE5GDAFSL387P2D duplicate key on insert
+2026-10-27T08:23:50Z INFO [ingest] vin=2GBM7SRWK6D33J1ST event written
+2026-10-27T08:24:00Z INFO [consumer] vin=2GB7ZZLTFVB1DLPRR invoice line created
+2026-10-27T08:24:03Z WARN [api] vin=5YJU315EF29U068XA consumer lag 350
+2026-10-27T08:24:04Z ERROR [consumer] vin=2GBUU5KCSV837DFU1 duplicate key on insert
+2026-10-27T08:24:13Z INFO [billing] vin=3HCKR3WUDM48DZ1X3 invoice line created
+2026-10-27T08:24:14Z WARN [billing] vin=5YJ5FXZEVWLM09RHN odometer jump > 500 km
+2026-10-27T08:24:17Z INFO [consumer] vin=5YJ5XEWCHBYGLSMLY heartbeat accepted
+2026-10-27T08:24:17Z INFO [api] vin=2GBFLSMELA357VCRV heartbeat accepted
+2026-10-27T08:24:22Z WARN [ingest] vin=3HCE9H9NZZKSGKTNM retrying publish
+2026-10-27T08:24:25Z WARN [api] vin=2GBF8YMXDA5UPLL8F consumer lag 350
+2026-10-27T08:24:27Z INFO [ingest] vin=1FALF84YGCRP7UCEU heartbeat accepted
+2026-10-27T08:24:27Z INFO [ingest] vin=1FAJSVTX2XX5URENJ event written
+2026-10-27T08:24:30Z INFO [billing] vin=3HC7NGBPLVF7HW278 heartbeat accepted
+2026-10-27T08:24:32Z INFO [api] vin=1FALF84YGCRP7UCEU event written
+2026-10-27T08:24:34Z INFO [api] vin=1FAR5ZB3D290S1F0R invoice line created
+2026-10-27T08:24:36Z INFO [consumer] vin=2GBUUJGSSDRRDG3Y7 heartbeat accepted
+2026-10-27T08:24:38Z INFO [billing] vin=5YJSB1Z78Z9X1UMBX event written
+2026-10-27T08:24:39Z WARN [ingest] vin=2GBB006JFEW2733EJ consumer lag 350
+2026-10-27T08:24:43Z INFO [api] vin=2GBYZT7NSUWRWVP8X heartbeat accepted
+2026-10-27T08:24:44Z INFO [ingest] vin=1FA6D0NU0692HBS08 invoice line created
+2026-10-27T08:24:49Z INFO [api] vin=2GB001CK5005EJ02X invoice line created
+2026-10-27T08:24:50Z INFO [api] vin=2GBBM81HTT5PV8NHJ GET /v1/vehicles/latest 200
+2026-10-27T08:24:53Z WARN [consumer] vin=2GBFLSMELA357VCRV slow query 1200ms
+2026-10-27T08:24:58Z INFO [consumer] invoice line created
+2026-10-27T08:25:01Z INFO [consumer] vin=5YJ037PSF50EHD9NK heartbeat accepted
+2026-10-27T08:25:03Z INFO [consumer] vin=2GB380D9LEW92JBMN GET /v1/vehicles/latest 200
+2026-10-27T08:25:04Z INFO [api] GET /v1/vehicles/latest 200
+2026-10-27T08:25:06Z INFO [billing] vin=5YJW3HJCCW8HGSJ16 heartbeat accepted
+2026-10-27T08:25:08Z INFO [consumer] vin=2GBX3K3P397DJPX71 GET /v1/vehicles/latest 200
+2026-10-27T08:25:12Z INFO [billing] vin=2GBKBCS7E63N182SK invoice line created
+2026-10-27T08:25:13Z INFO [api] vin=2GBC2Y4GAGTR9R502 event written
+2026-10-27T08:25:14Z INFO [consumer] vin=5YJAV775YMDT7HE28 heartbeat accepted
+2026-10-27T08:25:15Z INFO [consumer] vin=2GBSKA3BRZAYA1WGP event written
+2026-10-27T08:25:17Z INFO [billing] vin=3HCSU8PJ7S73NGG4Z invoice line created
+2026-10-27T08:25:24Z INFO [consumer] heartbeat accepted
+2026-10-27T08:25:31Z INFO [ingest] vin=1FADVZ04KS3MLMF1S invoice line created
+2026-10-27T08:25:33Z INFO [api] vin=1FAYEYG1VTKYFKZW2 invoice line created
+2026-10-27T08:25:35Z INFO [consumer] event written
+2026-10-27T08:25:41Z INFO [consumer] vin=2GB301511FJZHM2JR GET /v1/vehicles/latest 200
+2026-10-27T08:25:49Z INFO [consumer] vin=3HC2TAPEC4ZEDE7CV invoice line created
+2026-10-27T08:25:49Z INFO [api] vin=2GB7GS1ZVVB2UAD8V event written
+2026-10-27T08:25:53Z INFO [ingest] vin=2GBXBPK2EWLS1Y1JF GET /v1/vehicles/latest 200
+2026-10-27T08:25:53Z INFO [billing] vin=2GBFF8EJJ7LT4PNW2 heartbeat accepted
+2026-10-27T08:25:55Z INFO [ingest] vin=1FAYF9MCS55L00V13 GET /v1/vehicles/latest 200
+2026-10-27T08:26:00Z INFO [consumer] vin=1FAW2U985FC4XTBFR event written
+2026-10-27T08:26:01Z INFO [consumer] vin=3HC0L0ZPUELSL61UR GET /v1/vehicles/latest 200
+2026-10-27T08:26:03Z INFO [billing] GET /v1/vehicles/latest 200
+2026-10-27T08:26:05Z INFO [api] vin=5YJT020C2DN0VE195 GET /v1/vehicles/latest 200
+2026-10-27T08:26:05Z INFO [api] event written
+2026-10-27T08:26:10Z INFO [ingest] vin=2GB9JEU3Y9UAVW8K5 GET /v1/vehicles/latest 200
+2026-10-27T08:26:12Z INFO [api] vin=1FA6D0NU0692HBS08 GET /v1/vehicles/latest 200
+2026-10-27T08:26:12Z WARN [consumer] vin=3HC4GHP45R3Y623GX slow query 1200ms
+2026-10-27T08:26:24Z INFO [ingest] vin=5YJUAL4YUKPYGF1GZ invoice line created
+2026-10-27T08:26:26Z INFO [ingest] vin=2GBJ3HE7509G59RCW invoice line created
+2026-10-27T08:26:35Z INFO [ingest] vin=1FA1M010M5CT56TRU event written
+2026-10-27T08:26:36Z INFO [ingest] vin=1FAUSRJGF4CBFPR9B GET /v1/vehicles/latest 200
+2026-10-27T08:26:38Z ERROR [ingest] vin=2GBWFJXHSWHM0K913 failed to parse message
+2026-10-27T08:26:39Z INFO [consumer] vin=3HCUVH12ZKVCVFZ5T event written
+2026-10-27T08:26:51Z INFO [ingest] vin=5YJ5HSREYBRRAEDRE heartbeat accepted
+2026-10-27T08:26:52Z INFO [ingest] vin=2GBDAPWPJTVXHA84M event written
+2026-10-27T08:26:56Z ERROR [ingest] vin=5YJ2MM42BN541APPU timeout calling OEM API
+2026-10-27T08:26:56Z INFO [consumer] vin=5YJUAL4YUKPYGF1GZ heartbeat accepted
+2026-10-27T08:27:05Z ERROR [consumer] vin=5YJNESGWHCZ40E9YA timeout calling OEM API
+2026-10-27T08:27:09Z WARN [ingest] vin=3HCUVH12ZKVCVFZ5T odometer jump > 500 km
+2026-10-27T08:27:11Z INFO [consumer] vin=5YJYWXJL48XMZRM1W invoice line created
+2026-10-27T08:27:12Z INFO [ingest] vin=2GBG1C7RN6ZWRRBN2 invoice line created
+2026-10-27T08:27:14Z INFO [api] vin=1FA085DPUJV58HBSL heartbeat accepted
+2026-10-27T08:27:18Z INFO [ingest] vin=3HC1U3TF7BDZRECBS GET /v1/vehicles/latest 200
+2026-10-27T08:27:18Z INFO [api] vin=3HC1U3TF7BDZRECBS GET /v1/vehicles/latest 200
+2026-10-27T08:27:20Z INFO [consumer] vin=1FA865XXK5E75WUDZ GET /v1/vehicles/latest 200
+2026-10-27T08:27:22Z INFO [billing] vin=3HCW2GA90VWG7EYUX GET /v1/vehicles/latest 200
+2026-10-27T08:27:23Z INFO [billing] vin=1FAKUFWF9PKX2EW4S heartbeat accepted
+2026-10-27T08:27:24Z WARN [consumer] vin=5YJYKXXZ2J09GXS6H slow query 1200ms
+2026-10-27T08:27:34Z ERROR [consumer] vin=3HC54AHEKC0K4JCW0 db connection refused
+2026-10-27T08:27:35Z INFO [ingest] vin=3HCCD0VEF916C5NX7 heartbeat accepted
+2026-10-27T08:27:37Z WARN [billing] vin=1FA1YJF490B0WMPY8 consumer lag 350
+2026-10-27T08:27:48Z INFO [consumer] vin=5YJS5V5RSW7N056V1 invoice line created
+2026-10-27T08:27:50Z WARN [consumer] vin=5YJY5Y4JWXN7XM2XV odometer jump > 500 km
+2026-10-27T08:28:00Z INFO [ingest] vin=5YJ5FXZEVWLM09RHN invoice line created
+2026-10-27T08:28:04Z WARN [billing] vin=1FAWFSH3R155W4WDG odometer jump > 500 km
+2026-10-27T08:28:05Z INFO [consumer] vin=2GBTGHR9ACASC701K heartbeat accepted
+2026-10-27T08:28:07Z INFO [ingest] vin=2GB7GS1ZVVB2UAD8V heartbeat accepted
+2026-10-27T08:28:15Z INFO [api] vin=5YJX655P97LFV9YFS invoice line created
+2026-10-27T08:28:18Z INFO [billing] vin=1FAXKFSZ29DWTMB25 event written
+2026-10-27T08:28:27Z WARN [billing] slow query 1200ms
+2026-10-27T08:28:30Z WARN [ingest] vin=3HCYKJCV7J75AFBTP slow query 1200ms
+2026-10-27T08:28:32Z WARN [ingest] vin=3HCUVH12ZKVCVFZ5T odometer jump > 500 km
+2026-10-27T08:28:33Z WARN [consumer] vin=1FAG20Y0KN929CCCJ slow query 1200ms
+2026-10-27T08:28:34Z INFO [api] vin=1FA38S785BFVR2SW0 invoice line created
+2026-10-27T08:28:41Z INFO [ingest] heartbeat accepted
+2026-10-27T08:28:43Z WARN [ingest] vin=5YJW3HJCCW8HGSJ16 odometer jump > 500 km
+2026-10-27T08:28:49Z WARN [consumer] vin=1FA085DPUJV58HBSL slow query 1200ms
+2026-10-27T08:28:50Z INFO [ingest] vin=1FAVSEFUK1K1X0GFA invoice line created
+2026-10-27T08:28:55Z INFO [ingest] vin=5YJNESGWHCZ40E9YA GET /v1/vehicles/latest 200
+2026-10-27T08:29:05Z WARN [consumer] vin=1FAG20Y0KN929CCCJ slow query 1200ms
+2026-10-27T08:29:14Z INFO [billing] vin=3HCUVH12ZKVCVFZ5T GET /v1/vehicles/latest 200
+2026-10-27T08:29:14Z INFO [ingest] vin=2GBF8YMXDA5UPLL8F GET /v1/vehicles/latest 200
+2026-10-27T08:29:15Z INFO [ingest] vin=3HCK41E57293C0FGS GET /v1/vehicles/latest 200
+2026-10-27T08:29:18Z INFO [billing] vin=3HCTNUJWF9LKLYCBF event written
+2026-10-27T08:29:37Z INFO [api] vin=1FAAYNJYMXDBKKH0E heartbeat accepted
+2026-10-27T08:29:40Z ERROR [api] vin=5YJYWXJL48XMZRM1W failed to parse message
+2026-10-27T08:29:42Z INFO [consumer] vin=3HCH3WB7TRD7L1KSC invoice line created
+2026-10-27T08:29:44Z INFO [ingest] vin=3HCFRZRW3Y0TV6H7D invoice line created
+2026-10-27T08:29:46Z INFO [consumer] vin=3HCNTJGCW5C0JFVX3 event written
+2026-10-27T08:29:50Z INFO [ingest] vin=2GB7ZZLTFVB1DLPRR heartbeat accepted
+2026-10-27T08:29:51Z INFO [consumer] vin=5YJW3HJCCW8HGSJ16 GET /v1/vehicles/latest 200
+2026-10-27T08:29:51Z INFO [consumer] vin=2GBJTD70GHVFLU59K invoice line created
+2026-10-27T08:29:53Z INFO [ingest] vin=1FAW13R8RU48B1Y2L GET /v1/vehicles/latest 200
+2026-10-27T08:30:01Z INFO [billing] vin=2GBF8YMXDA5UPLL8F GET /v1/vehicles/latest 200
+2026-10-27T08:30:02Z INFO [consumer] vin=2GBKPE33Y63DP31B1 invoice line created
+2026-10-27T08:30:08Z INFO [ingest] vin=3HC54AHEKC0K4JCW0 invoice line created
+2026-10-27T08:30:09Z WARN [billing] vin=2GBSKA3BRZAYA1WGP consumer lag 350
+2026-10-27T08:30:12Z INFO [api] vin=5YJZ4UDE209LBK5CJ event written
+2026-10-27T08:30:19Z INFO [ingest] vin=2GBKEVG9CYJ1KLML5 event written
+2026-10-27T08:30:23Z INFO [api] vin=3HC6H1FV0NECRVFRG event written
+2026-10-27T08:30:23Z INFO [api] vin=1FAATH60T10GR7BXR GET /v1/vehicles/latest 200
+2026-10-27T08:30:24Z WARN [ingest] vin=2GBTGHR9ACASC701K slow query 1200ms
+2026-10-27T08:30:33Z INFO [consumer] GET /v1/vehicles/latest 200
+2026-10-27T08:30:38Z WARN [consumer] vin=1FAYEYG1VTKYFKZW2 slow query 1200ms
+2026-10-27T08:30:38Z INFO [ingest] vin=2GB09ULT7VYH6EKR2 GET /v1/vehicles/latest 200
+2026-10-27T08:30:42Z WARN [api] vin=1FAG20Y0KN929CCCJ retrying publish
+2026-10-27T08:30:43Z INFO [ingest] vin=1FAKUFWF9PKX2EW4S GET /v1/vehicles/latest 200
+2026-10-27T08:30:51Z INFO [consumer] vin=3HCVVU9GJ3DUJJSKX heartbeat accepted
+2026-10-27T08:31:03Z INFO [consumer] vin=3HCDYUH04251YM880 GET /v1/vehicles/latest 200
+2026-10-27T08:31:19Z ERROR [api] vin=5YJ5FXZEVWLM09RHN failed to parse message
+2026-10-27T08:31:20Z ERROR [ingest] vin=1FASJ7HP6T0LHLWGB db connection refused
+2026-10-27T08:31:22Z INFO [ingest] vin=2GBES0VL5WAWGJTHG invoice line created
+2026-10-27T08:31:23Z ERROR [consumer] vin=2GBC2Y4GAGTR9R502 duplicate key on insert
+2026-10-27T08:31:28Z INFO [consumer] vin=2GBG1C7RN6ZWRRBN2 event written
+2026-10-27T08:31:39Z INFO [ingest] vin=5YJW7E0TS8N6GJWA2 heartbeat accepted
+2026-10-27T08:31:42Z WARN [api] vin=2GBG1C7RN6ZWRRBN2 odometer jump > 500 km
+2026-10-27T08:31:43Z WARN [api] slow query 1200ms
+2026-10-27T08:31:43Z INFO [api] vin=3HC3B8VW7S2W6EDL5 event written
+2026-10-27T08:31:52Z INFO [api] vin=2GB9JEU3Y9UAVW8K5 GET /v1/vehicles/latest 200
+2026-10-27T08:31:55Z INFO [consumer] vin=1FAG20Y0KN929CCCJ invoice line created
+2026-10-27T08:31:59Z WARN [ingest] vin=3HCSDH6WL29WHV0RR retrying publish
+2026-10-27T08:32:03Z INFO [ingest] GET /v1/vehicles/latest 200
+2026-10-27T08:32:07Z INFO [ingest] vin=5YJDGD2YGSNN5J4MU event written
+2026-10-27T08:32:12Z INFO [api] vin=2GB5MLPNJC4F4NKTX event written
+2026-10-27T08:32:12Z WARN [ingest] vin=1FAR5ZB3D290S1F0R consumer lag 350
+2026-10-27T08:32:13Z INFO [billing] vin=2GBL377NVXVDFRCM3 invoice line created
+2026-10-27T08:32:14Z INFO [billing] vin=5YJX655P97LFV9YFS event written
+2026-10-27T08:32:16Z INFO [consumer] vin=1FA6D0NU0692HBS08 invoice line created
+2026-10-27T08:32:22Z INFO [billing] vin=5YJSU8SU5EVSUYXFJ GET /v1/vehicles/latest 200
+2026-10-27T08:32:26Z INFO [ingest] vin=1FAUSRJGF4CBFPR9B invoice line created
+2026-10-27T08:32:29Z INFO [consumer] event written
+2026-10-27T08:32:32Z INFO [ingest] vin=2GB56X3HZP5W6THFL heartbeat accepted
+2026-10-27T08:32:35Z INFO [ingest] vin=1FA1YJF490B0WMPY8 heartbeat accepted
+2026-10-27T08:32:35Z INFO [consumer] vin=2GBX3K3P397DJPX71 event written
+2026-10-27T08:32:36Z INFO [ingest] vin=2GB56X3HZP5W6THFL GET /v1/vehicles/latest 200
+2026-10-27T08:32:38Z WARN [ingest] consumer lag 350
+2026-10-27T08:32:39Z INFO [ingest] vin=3HCZEZSGYJCZYM67M GET /v1/vehicles/latest 200
+2026-10-27T08:32:41Z INFO [ingest] vin=2GBC5DSC25RPDJ9VR heartbeat accepted
+2026-10-27T08:32:41Z INFO [consumer] vin=1FANH7SP2SXV16ZWT event written
+2026-10-27T08:32:51Z INFO [consumer] vin=1FAW13R8RU48B1Y2L event written
+2026-10-27T08:32:58Z ERROR [consumer] vin=2GBX3K3P397DJPX71 db connection refused
+2026-10-27T08:33:03Z WARN [api] vin=3HCKR3WUDM48DZ1X3 slow query 1200ms
+2026-10-27T08:33:03Z INFO [billing] vin=5YJT020C2DN0VE195 heartbeat accepted
+2026-10-27T08:33:07Z INFO [ingest] vin=5YJ31FSL1LJUWU8KE invoice line created
+2026-10-27T08:33:23Z ERROR [api] vin=1FAGMJ7XSAT1S5UYW db connection refused
+2026-10-27T08:33:27Z INFO [consumer] vin=3HC16XNS1R3CX711K heartbeat accepted
+2026-10-27T08:33:34Z INFO [ingest] vin=5YJ5FXZEVWLM09RHN GET /v1/vehicles/latest 200
+2026-10-27T08:33:45Z INFO [billing] vin=3HC689HHU0C5P4GSW invoice line created
+2026-10-27T08:33:45Z ERROR [ingest] vin=2GBL377NVXVDFRCM3 db connection refused
+2026-10-27T08:33:46Z INFO [ingest] vin=2GB09ULT7VYH6EKR2 event written
+2026-10-27T08:33:53Z INFO [api] vin=5YJLD9FMEES2HSCF3 heartbeat accepted
+2026-10-27T08:33:56Z INFO [ingest] vin=5YJW3HJCCW8HGSJ16 GET /v1/vehicles/latest 200
+2026-10-27T08:34:07Z INFO [api] event written
+2026-10-27T08:34:07Z INFO [api] vin=2GB3TVWSGD28KD0A4 GET /v1/vehicles/latest 200
+2026-10-27T08:34:07Z INFO [ingest] vin=2GBTGHR9ACASC701K GET /v1/vehicles/latest 200
+2026-10-27T08:34:09Z WARN [api] vin=2GB301511FJZHM2JR retrying publish
+2026-10-27T08:34:09Z ERROR [consumer] vin=3HC420RJ98FDHKL4E duplicate key on insert
+2026-10-27T08:34:15Z WARN [api] vin=1FAYEYG1VTKYFKZW2 consumer lag 350
+2026-10-27T08:34:15Z INFO [api] vin=1FA6CVNCNCXW927TC GET /v1/vehicles/latest 200
+2026-10-27T08:34:17Z INFO [consumer] vin=1FAYF9MCS55L00V13 invoice line created
+2026-10-27T08:34:28Z INFO [ingest] vin=1FA6D0NU0692HBS08 GET /v1/vehicles/latest 200
+2026-10-27T08:34:31Z INFO [api] vin=5YJRTN4HRKUKEDLWV heartbeat accepted
+2026-10-27T08:34:42Z INFO [ingest] vin=5YJW3HJCCW8HGSJ16 GET /v1/vehicles/latest 200
+2026-10-27T08:34:49Z ERROR [api] vin=1FACX2UEPXP826KTJ timeout calling OEM API
+2026-10-27T08:34:49Z WARN [consumer] vin=2GB380D9LEW92JBMN odometer jump > 500 km
+2026-10-27T08:34:53Z WARN [consumer] vin=2GB7GS1ZVVB2UAD8V consumer lag 350
+2026-10-27T08:35:02Z INFO [billing] vin=1FAVSEFUK1K1X0GFA GET /v1/vehicles/latest 200
+2026-10-27T08:35:13Z INFO [ingest] vin=1FAAYNJYMXDBKKH0E heartbeat accepted
+2026-10-27T08:35:15Z WARN [api] vin=5YJ6TAHUYHV4L6AT9 odometer jump > 500 km
+2026-10-27T08:35:18Z WARN [ingest] vin=2GBEBEATPCD29V934 consumer lag 350
+2026-10-27T08:35:19Z INFO [ingest] invoice line created
+2026-10-27T08:35:24Z INFO [consumer] vin=3HCUZ92YBHTMTCG4Z invoice line created
+2026-10-27T08:35:32Z INFO [billing] vin=1FA28MVCAWGYV68J9 event written
+2026-10-27T08:35:44Z INFO [billing] vin=2GBT6TA6VLE5ZW4T6 GET /v1/vehicles/latest 200
+2026-10-27T08:35:47Z INFO [consumer] vin=3HC3B8VW7S2W6EDL5 event written
+2026-10-27T08:35:57Z INFO [api] vin=2GB4H6DWMHAJAL8ZT GET /v1/vehicles/latest 200
+2026-10-27T08:36:03Z INFO [ingest] vin=3HCH3WB7TRD7L1KSC invoice line created
+2026-10-27T08:36:04Z WARN [ingest] vin=5YJNESGWHCZ40E9YA odometer jump > 500 km
+2026-10-27T08:36:10Z WARN [api] vin=3HC0L0ZPUELSL61UR consumer lag 350
+2026-10-27T08:36:15Z WARN [consumer] vin=2GBF8YMXDA5UPLL8F slow query 1200ms
+2026-10-27T08:36:17Z INFO [billing] vin=2GBEBEATPCD29V934 heartbeat accepted
+2026-10-27T08:36:17Z INFO [ingest] vin=1FAWFSH3R155W4WDG GET /v1/vehicles/latest 200
+2026-10-27T08:36:18Z INFO [consumer] vin=5YJW3HJCCW8HGSJ16 invoice line created
+2026-10-27T08:36:26Z INFO [billing] vin=5YJZE2P4P8UXVYJ8Y invoice line created
+2026-10-27T08:36:27Z INFO [billing] vin=2GBTGHR9ACASC701K event written
+2026-10-27T08:36:28Z WARN [billing] vin=1FASJ7HP6T0LHLWGB slow query 1200ms
+2026-10-27T08:36:30Z INFO [api] vin=3HCXST2JW6XEA6GEP invoice line created
+2026-10-27T08:36:32Z ERROR [api] vin=3HC7NGBPLVF7HW278 duplicate key on insert
+2026-10-27T08:36:32Z INFO [consumer] vin=5YJFYHC6DL428B14M GET /v1/vehicles/latest 200
+2026-10-27T08:36:34Z WARN [ingest] vin=2GBWFJXHSWHM0K913 retrying publish
+2026-10-27T08:36:36Z INFO [ingest] vin=3HCFRZRW3Y0TV6H7D heartbeat accepted
+2026-10-27T08:36:40Z INFO [ingest] vin=3HC16XNS1R3CX711K event written
+2026-10-27T08:36:46Z INFO [ingest] event written
+2026-10-27T08:36:47Z INFO [ingest] vin=2GBBM81HTT5PV8NHJ heartbeat accepted
+2026-10-27T08:36:47Z INFO [consumer] vin=5YJZ4UDE209LBK5CJ event written
+2026-10-27T08:36:49Z INFO [ingest] vin=2GBWFJXHSWHM0K913 invoice line created
+2026-10-27T08:36:52Z INFO [consumer] vin=5YJT020C2DN0VE195 invoice line created
+2026-10-27T08:36:55Z INFO [billing] vin=3HCUZ92YBHTMTCG4Z GET /v1/vehicles/latest 200
+2026-10-27T08:36:56Z INFO [consumer] vin=3HC50FNDU1CENP7PY GET /v1/vehicles/latest 200
+2026-10-27T08:36:58Z INFO [consumer] vin=1FAW2U985FC4XTBFR event written
+2026-10-27T08:36:59Z INFO [consumer] vin=1FAUSRJGF4CBFPR9B GET /v1/vehicles/latest 200
+2026-10-27T08:37:01Z INFO [billing] vin=2GBFF8EJJ7LT4PNW2 invoice line created
+2026-10-27T08:37:02Z INFO [ingest] heartbeat accepted
+2026-10-27T08:37:02Z INFO [billing] vin=5YJYKXXZ2J09GXS6H invoice line created
+2026-10-27T08:37:03Z INFO [consumer] vin=2GB56X3HZP5W6THFL heartbeat accepted
+2026-10-27T08:37:19Z INFO [api] vin=2GB001CK5005EJ02X GET /v1/vehicles/latest 200
+2026-10-27T08:37:22Z INFO [billing] vin=2GBES0VL5WAWGJTHG GET /v1/vehicles/latest 200
+2026-10-27T08:37:26Z WARN [consumer] vin=3HC2F026SRWFCF211 odometer jump > 500 km
+2026-10-27T08:37:30Z ERROR [consumer] vin=5YJFYHC6DL428B14M timeout calling OEM API
+2026-10-27T08:37:33Z INFO [ingest] vin=1FAM0XN6HT8X12HZZ event written
+2026-10-27T08:37:33Z INFO [consumer] vin=5YJFYHC6DL428B14M GET /v1/vehicles/latest 200
+2026-10-27T08:37:40Z WARN [consumer] vin=5YJY5Y4JWXN7XM2XV odometer jump > 500 km
+2026-10-27T08:37:47Z ERROR [ingest] vin=2GBEBEATPCD29V934 timeout calling OEM API
+2026-10-27T08:38:00Z WARN [api] vin=1FADVZ04KS3MLMF1S consumer lag 350
+2026-10-27T08:38:02Z INFO [ingest] event written
+2026-10-27T08:38:04Z INFO [billing] vin=1FA1Z4XJSUFSVBWP9 GET /v1/vehicles/latest 200
+2026-10-27T08:38:06Z INFO [consumer] GET /v1/vehicles/latest 200
+2026-10-27T08:38:10Z WARN [api] vin=3HCYZ6UWTRHNXHMNP odometer jump > 500 km
+2026-10-27T08:38:11Z INFO [ingest] vin=2GBU20HNMB6P5VE38 invoice line created
+2026-10-27T08:38:12Z WARN [billing] vin=3HCPYPT98TDF4UCAY slow query 1200ms
+2026-10-27T08:38:20Z INFO [api] vin=3HC4BUBMUWYZAMK2E GET /v1/vehicles/latest 200
+2026-10-27T08:38:29Z INFO [consumer] vin=2GBXBPK2EWLS1Y1JF heartbeat accepted
+2026-10-27T08:38:31Z INFO [api] vin=3HC2F026SRWFCF211 invoice line created
+2026-10-27T08:38:33Z INFO [api] vin=2GBT6TA6VLE5ZW4T6 GET /v1/vehicles/latest 200
+2026-10-27T08:38:38Z INFO [api] vin=5YJ2MM42BN541APPU GET /v1/vehicles/latest 200
+2026-10-27T08:38:38Z WARN [ingest] vin=2GBUUJGSSDRRDG3Y7 retrying publish
+2026-10-27T08:38:40Z INFO [billing] vin=5YJ9838358LFBRVCU event written
+2026-10-27T08:38:49Z INFO [consumer] vin=5YJ8ML8VJMX5DZA8J invoice line created
+2026-10-27T08:38:50Z INFO [ingest] vin=2GBKAUKJTMHBJAZSX heartbeat accepted
+2026-10-27T08:38:54Z INFO [api] vin=3HC420RJ98FDHKL4E heartbeat accepted
+2026-10-27T08:38:56Z ERROR [ingest] vin=3HCF296SPZDDV87VA db connection refused
+2026-10-27T08:39:09Z INFO [ingest] vin=1FAWFSH3R155W4WDG GET /v1/vehicles/latest 200
+2026-10-27T08:39:09Z WARN [billing] vin=5YJDKUFCR306FG9J2 consumer lag 350
+2026-10-27T08:39:10Z INFO [consumer] vin=1FAZJMJ49DHKWLLXR GET /v1/vehicles/latest 200
+2026-10-27T08:39:11Z INFO [api] event written
+2026-10-27T08:39:13Z INFO [ingest] vin=1FAXL60F4GS42F2WY invoice line created
+2026-10-27T08:39:15Z INFO [ingest] vin=5YJY5Y4JWXN7XM2XV event written
+2026-10-27T08:39:22Z INFO [api] vin=1FAY5ATPSEZTGAD15 GET /v1/vehicles/latest 200
+2026-10-27T08:39:27Z INFO [ingest] vin=3HCCD0VEF916C5NX7 heartbeat accepted
+2026-10-27T08:39:30Z INFO [consumer] vin=1FAREY2XBU58RZ14M heartbeat accepted
+2026-10-27T08:39:38Z ERROR [consumer] vin=5YJ9H1NTC4AN04EYX timeout calling OEM API
+2026-10-27T08:39:42Z INFO [ingest] vin=3HC2F026SRWFCF211 invoice line created
+2026-10-27T08:39:45Z INFO [api] vin=3HCFRZRW3Y0TV6H7D event written
+2026-10-27T08:39:48Z INFO [consumer] vin=5YJ1T6V48KNVPDDXD event written
+2026-10-27T08:39:50Z INFO [consumer] vin=5YJN9H1W3DKJNY36K GET /v1/vehicles/latest 200
+2026-10-27T08:39:50Z INFO [billing] vin=3HCZS3MF0E99B17C1 heartbeat accepted
+2026-10-27T08:39:51Z INFO [consumer] invoice line created
+2026-10-27T08:39:52Z WARN [api] vin=2GBKPE33Y63DP31B1 odometer jump > 500 km
+2026-10-27T08:40:00Z INFO [billing] vin=3HCFRZRW3Y0TV6H7D heartbeat accepted
+2026-10-27T08:40:03Z INFO [ingest] vin=1FAYEYG1VTKYFKZW2 heartbeat accepted
+2026-10-27T08:40:06Z INFO [consumer] vin=1FAYEYG1VTKYFKZW2 invoice line created
+2026-10-27T08:40:07Z INFO [billing] vin=2GB81Z1G7RL5ECVBX invoice line created
+2026-10-27T08:40:10Z INFO [billing] vin=3HCWWU8GRJW5XU3FN event written
+2026-10-27T08:40:11Z INFO [consumer] vin=3HCZS3MF0E99B17C1 event written
+2026-10-27T08:40:16Z WARN [ingest] vin=2GBX3K3P397DJPX71 slow query 1200ms
+2026-10-27T08:40:21Z WARN [ingest] vin=1FAUSRJGF4CBFPR9B slow query 1200ms
+2026-10-27T08:40:21Z INFO [billing] vin=1FAF4MVXGFXVW54L5 heartbeat accepted
+2026-10-27T08:40:23Z WARN [api] vin=1FAVSEFUK1K1X0GFA slow query 1200ms
+2026-10-27T08:40:36Z INFO [ingest] vin=2GBC2Y4GAGTR9R502 event written
+2026-10-27T08:40:37Z WARN [consumer] vin=5YJJKEAL5ZPK35PFG consumer lag 350
+2026-10-27T08:40:40Z INFO [ingest] vin=2GB5MLPNJC4F4NKTX heartbeat accepted
+2026-10-27T08:40:46Z INFO [ingest] event written
+2026-10-27T08:40:51Z INFO [consumer] vin=5YJU315EF29U068XA event written
+2026-10-27T08:40:52Z INFO [ingest] event written
+2026-10-27T08:40:52Z INFO [ingest] vin=5YJ06K4MU764UXSFU invoice line created
+2026-10-27T08:40:52Z INFO [ingest] vin=1FAJHADRJN20FTEBE heartbeat accepted
+2026-10-27T08:40:56Z INFO [billing] vin=5YJK3G83UC0P55S0G heartbeat accepted
+2026-10-27T08:41:00Z INFO [ingest] vin=5YJSU8SU5EVSUYXFJ GET /v1/vehicles/latest 200
+2026-10-27T08:41:02Z INFO [billing] vin=3HCTNUJWF9LKLYCBF heartbeat accepted
+2026-10-27T08:41:02Z INFO [api] vin=5YJGDV13SLXXNL896 heartbeat accepted
+2026-10-27T08:41:02Z INFO [ingest] vin=2GBJ3HE7509G59RCW event written
+2026-10-27T08:41:03Z ERROR [billing] vin=2GBFLSMELA357VCRV failed to parse message
+2026-10-27T08:41:06Z INFO [consumer] vin=5YJGDV13SLXXNL896 heartbeat accepted
+2026-10-27T08:41:06Z WARN [ingest] vin=5YJFYHC6DL428B14M consumer lag 350
+2026-10-27T08:41:07Z ERROR [api] vin=5YJSB1Z78Z9X1UMBX timeout calling OEM API
+2026-10-27T08:41:22Z ERROR [api] vin=3HCE9H9NZZKSGKTNM duplicate key on insert
+2026-10-27T08:41:31Z INFO [consumer] vin=5YJSU8SU5EVSUYXFJ GET /v1/vehicles/latest 200
+2026-10-27T08:41:35Z INFO [ingest] GET /v1/vehicles/latest 200
+2026-10-27T08:41:36Z INFO [api] vin=3HC5HP8F95D6J936D event written
+2026-10-27T08:41:41Z INFO [ingest] vin=1FAGMJ7XSAT1S5UYW GET /v1/vehicles/latest 200
+2026-10-27T08:41:52Z INFO [ingest] vin=5YJYWXJL48XMZRM1W GET /v1/vehicles/latest 200
+2026-10-27T08:41:56Z INFO [api] vin=1FA28MVCAWGYV68J9 GET /v1/vehicles/latest 200
+2026-10-27T08:42:16Z INFO [billing] vin=1FA865XXK5E75WUDZ event written
+2026-10-27T08:42:16Z INFO [billing] vin=2GBKPE33Y63DP31B1 event written
+2026-10-27T08:42:19Z ERROR [api] vin=3HCUZ92YBHTMTCG4Z failed to parse message
+2026-10-27T08:42:27Z INFO [ingest] heartbeat accepted
+2026-10-27T08:42:30Z INFO [consumer] vin=2GBL377NVXVDFRCM3 event written
+2026-10-27T08:42:30Z INFO [consumer] vin=2GBBM81HTT5PV8NHJ GET /v1/vehicles/latest 200
+2026-10-27T08:42:32Z INFO [api] vin=2GBKAUKJTMHBJAZSX heartbeat accepted
+2026-10-27T08:42:35Z INFO [ingest] vin=2GBFLSMELA357VCRV GET /v1/vehicles/latest 200
+2026-10-27T08:42:39Z INFO [ingest] vin=2GBSKA3BRZAYA1WGP GET /v1/vehicles/latest 200
+2026-10-27T08:42:41Z INFO [api] vin=3HCYKJCV7J75AFBTP invoice line created
+2026-10-27T08:42:46Z INFO [billing] vin=3HCWNKSD2XJB8VT32 GET /v1/vehicles/latest 200
+2026-10-27T08:42:47Z INFO [billing] vin=3HCYKJCV7J75AFBTP event written
+2026-10-27T08:42:50Z INFO [ingest] vin=2GBJTD70GHVFLU59K event written
+2026-10-27T08:42:50Z INFO [ingest] vin=1FAFRH6HK8V9U377S heartbeat accepted
+2026-10-27T08:42:57Z INFO [consumer] vin=2GBXBPK2EWLS1Y1JF GET /v1/vehicles/latest 200
+2026-10-27T08:42:59Z ERROR [ingest] vin=5YJ7XP0X3CRKBT3VK timeout calling OEM API
+2026-10-27T08:42:59Z INFO [ingest] vin=1FA38S785BFVR2SW0 invoice line created
+2026-10-27T08:42:59Z INFO [ingest] vin=2GBE5GDAFSL387P2D heartbeat accepted
+2026-10-27T08:43:00Z ERROR [ingest] vin=3HC0K7EFFF4G0JDYH db connection refused
+2026-10-27T08:43:01Z INFO [ingest] vin=3HCWWU8GRJW5XU3FN heartbeat accepted
+2026-10-27T08:43:07Z INFO [api] vin=3HCW2GA90VWG7EYUX invoice line created
+2026-10-27T08:43:07Z INFO [ingest] vin=3HC4BUBMUWYZAMK2E heartbeat accepted
+2026-10-27T08:43:08Z INFO [consumer] GET /v1/vehicles/latest 200
+2026-10-27T08:43:10Z WARN [billing] vin=5YJT020C2DN0VE195 odometer jump > 500 km
+2026-10-27T08:43:12Z INFO [api] vin=2GBL377NVXVDFRCM3 event written
+2026-10-27T08:43:14Z INFO [ingest] event written
+2026-10-27T08:43:16Z WARN [consumer] vin=3HCUVH12ZKVCVFZ5T retrying publish
+2026-10-27T08:43:17Z INFO [billing] vin=1FANYR7Z9WLMVG7JT GET /v1/vehicles/latest 200
+2026-10-27T08:43:20Z WARN [api] vin=3HCWWU8GRJW5XU3FN consumer lag 350
+2026-10-27T08:43:23Z INFO [ingest] vin=2GBM7SRWK6D33J1ST invoice line created
+2026-10-27T08:43:26Z INFO [api] vin=2GBJ3HE7509G59RCW invoice line created
+2026-10-27T08:43:28Z WARN [ingest] vin=1FAUD7ZRLGSSUDR1Z odometer jump > 500 km
+2026-10-27T08:43:31Z INFO [ingest] vin=3HCVGNVR0MWAJUCDV event written
+2026-10-27T08:43:32Z WARN [api] consumer lag 350
+2026-10-27T08:43:41Z INFO [api] vin=3HCK41E57293C0FGS invoice line created
+2026-10-27T08:43:42Z WARN [consumer] vin=1FAM0XN6HT8X12HZZ slow query 1200ms
+2026-10-27T08:43:46Z INFO [consumer] event written
+2026-10-27T08:43:50Z INFO [consumer] vin=3HC4GHP45R3Y623GX event written
+2026-10-27T08:43:57Z INFO [consumer] vin=5YJ5FXZEVWLM09RHN event written
+2026-10-27T08:43:58Z INFO [ingest] vin=5YJF5HSPZ4LJPPDZU GET /v1/vehicles/latest 200
+2026-10-27T08:44:03Z INFO [consumer] vin=1FAY5ATPSEZTGAD15 event written
+2026-10-27T08:44:06Z ERROR [consumer] vin=1FAFRH6HK8V9U377S failed to parse message
+2026-10-27T08:44:06Z INFO [billing] vin=2GB001CK5005EJ02X GET /v1/vehicles/latest 200
+2026-10-27T08:44:07Z INFO [billing] invoice line created
+2026-10-27T08:44:07Z INFO [ingest] vin=2GBFF8EJJ7LT4PNW2 GET /v1/vehicles/latest 200
+2026-10-27T08:44:09Z INFO [billing] vin=1FA1M010M5CT56TRU invoice line created
+2026-10-27T08:44:16Z ERROR [consumer] vin=1FAF4MVXGFXVW54L5 failed to parse message
+2026-10-27T08:44:17Z WARN [ingest] vin=1FAAYNJYMXDBKKH0E consumer lag 350
+2026-10-27T08:44:27Z INFO [ingest] event written
+2026-10-27T08:44:29Z WARN [billing] vin=3HCCD0VEF916C5NX7 retrying publish
+2026-10-27T08:44:33Z INFO [consumer] vin=5YJF5HSPZ4LJPPDZU event written
+2026-10-27T08:44:45Z INFO [api] vin=2GBE5GDAFSL387P2D invoice line created
+2026-10-27T08:44:49Z INFO [billing] vin=3HCFRZRW3Y0TV6H7D invoice line created
+2026-10-27T08:44:53Z INFO [consumer] vin=1FAYG5G6AK3KE7TY2 heartbeat accepted
+2026-10-27T08:45:11Z INFO [api] vin=5YJFYHC6DL428B14M heartbeat accepted
+2026-10-27T08:45:13Z INFO [ingest] vin=5YJW3HJCCW8HGSJ16 GET /v1/vehicles/latest 200
+2026-10-27T08:45:15Z INFO [ingest] vin=5YJNESGWHCZ40E9YA heartbeat accepted
+2026-10-27T08:45:15Z INFO [ingest] vin=2GBXBPK2EWLS1Y1JF event written
+2026-10-27T08:45:16Z INFO [api] vin=5YJJKEAL5ZPK35PFG event written
+2026-10-27T08:45:23Z WARN [ingest] vin=1FAZJMJ49DHKWLLXR slow query 1200ms
+2026-10-27T08:45:26Z INFO [consumer] vin=2GB7GS1ZVVB2UAD8V GET /v1/vehicles/latest 200
+2026-10-27T08:45:27Z INFO [consumer] vin=2GBES0VL5WAWGJTHG event written
+2026-10-27T08:45:33Z INFO [consumer] vin=1FAWFSH3R155W4WDG GET /v1/vehicles/latest 200
+2026-10-27T08:45:34Z INFO [api] vin=5YJDKUFCR306FG9J2 GET /v1/vehicles/latest 200
+2026-10-27T08:45:37Z INFO [api] vin=5YJ9838358LFBRVCU invoice line created
+2026-10-27T08:45:40Z INFO [ingest] vin=3HC1X8CESVRF4GG5L heartbeat accepted
+2026-10-27T08:45:42Z INFO [billing] vin=3HCTNUJWF9LKLYCBF GET /v1/vehicles/latest 200
+2026-10-27T08:45:45Z INFO [consumer] vin=5YJDGD2YGSNN5J4MU event written
+2026-10-27T08:45:57Z INFO [api] vin=2GBC5DSC25RPDJ9VR GET /v1/vehicles/latest 200
+2026-10-27T08:45:58Z WARN [billing] vin=3HCUHBY4UETE8690D retrying publish
+2026-10-27T08:45:58Z INFO [ingest] vin=3HCFRZRW3Y0TV6H7D event written
+2026-10-27T08:46:00Z INFO [consumer] vin=5YJ5HSREYBRRAEDRE event written
+2026-10-27T08:46:04Z ERROR [api] vin=2GBB7GV3FHKZWY6P7 db connection refused
+2026-10-27T08:46:11Z INFO [billing] vin=3HCWWU8GRJW5XU3FN event written
+2026-10-27T08:46:12Z INFO [ingest] vin=3HCW2GA90VWG7EYUX heartbeat accepted
+2026-10-27T08:46:13Z INFO [billing] vin=3HC4GHP45R3Y623GX event written
+2026-10-27T08:46:16Z INFO [billing] vin=5YJDGD2YGSNN5J4MU event written
+2026-10-27T08:46:18Z INFO [consumer] vin=2GB81Z1G7RL5ECVBX GET /v1/vehicles/latest 200
+2026-10-27T08:46:21Z WARN [api] vin=3HC8V2C6FXTXH29A6 odometer jump > 500 km
+2026-10-27T08:46:22Z INFO [consumer] vin=1FAW2U985FC4XTBFR heartbeat accepted
+2026-10-27T08:46:23Z INFO [api] vin=1FAJHADRJN20FTEBE GET /v1/vehicles/latest 200
+2026-10-27T08:46:25Z INFO [consumer] vin=1FAP136YL0WXFDKLD event written
+2026-10-27T08:46:26Z INFO [ingest] vin=3HCTNUJWF9LKLYCBF event written
+2026-10-27T08:46:33Z ERROR [ingest] vin=1FAYG5G6AK3KE7TY2 db connection refused
+2026-10-27T08:46:34Z INFO [billing] vin=3HCHYL6TMAYVNM249 heartbeat accepted
+2026-10-27T08:46:36Z WARN [consumer] vin=5YJ6VWXF6A0NVWS60 retrying publish
+2026-10-27T08:46:36Z WARN [billing] vin=3HCCD0VEF916C5NX7 consumer lag 350
+2026-10-27T08:46:37Z INFO [consumer] vin=2GBB006JFEW2733EJ heartbeat accepted
+2026-10-27T08:46:38Z WARN [ingest] vin=2GBKEVG9CYJ1KLML5 odometer jump > 500 km
+2026-10-27T08:46:54Z ERROR [api] duplicate key on insert
+2026-10-27T08:46:56Z INFO [api] vin=5YJF5HSPZ4LJPPDZU event written
+2026-10-27T08:46:58Z ERROR [api] vin=2GBBM81HTT5PV8NHJ failed to parse message
+2026-10-27T08:46:58Z INFO [consumer] vin=5YJW3HJCCW8HGSJ16 GET /v1/vehicles/latest 200
+2026-10-27T08:47:04Z INFO [ingest] vin=5YJ87CMU2K2C2YSD7 heartbeat accepted
+2026-10-27T08:47:04Z WARN [ingest] vin=2GBA2CMXRG8KYESZX retrying publish
+2026-10-27T08:47:07Z INFO [billing] vin=2GB1YB8XM8PZTYUUA heartbeat accepted
+2026-10-27T08:47:08Z INFO [ingest] vin=1FAJHADRJN20FTEBE invoice line created
+2026-10-27T08:47:09Z INFO [ingest] vin=5YJ8ML8VJMX5DZA8J heartbeat accepted
+2026-10-27T08:47:12Z ERROR [ingest] vin=5YJZ4UDE209LBK5CJ db connection refused
+2026-10-27T08:47:14Z INFO [api] vin=5YJ31FSL1LJUWU8KE heartbeat accepted
+2026-10-27T08:47:15Z ERROR [ingest] vin=5YJ9H1NTC4AN04EYX failed to parse message
+2026-10-27T08:47:17Z INFO [consumer] vin=1FAUSRJGF4CBFPR9B heartbeat accepted
+2026-10-27T08:47:17Z INFO [api] vin=3HCFRZRW3Y0TV6H7D event written
+2026-10-27T08:47:49Z INFO [consumer] event written
+2026-10-27T08:47:51Z WARN [consumer] vin=5YJZ4UDE209LBK5CJ consumer lag 350
+2026-10-27T08:47:54Z INFO [api] invoice line created
+2026-10-27T08:47:57Z INFO [ingest] vin=3HCXST2JW6XEA6GEP heartbeat accepted
+2026-10-27T08:47:57Z INFO [ingest] vin=1FAW9NK0LAX8BH0WS invoice line created
+2026-10-27T08:47:59Z INFO [api] event written
+2026-10-27T08:48:02Z INFO [consumer] vin=3HCSDH6WL29WHV0RR GET /v1/vehicles/latest 200
+2026-10-27T08:48:02Z WARN [billing] vin=1FAR5ZB3D290S1F0R consumer lag 350
+2026-10-27T08:48:04Z INFO [consumer] vin=1FA724G85EFXKEJUX GET /v1/vehicles/latest 200
+2026-10-27T08:48:07Z INFO [consumer] vin=2GBYZT7NSUWRWVP8X heartbeat accepted
+2026-10-27T08:48:08Z INFO [ingest] vin=2GBC2Y4GAGTR9R502 event written
+2026-10-27T08:48:10Z WARN [api] vin=1FAXL60F4GS42F2WY odometer jump > 500 km
+2026-10-27T08:48:11Z INFO [ingest] vin=3HC3B8VW7S2W6EDL5 GET /v1/vehicles/latest 200
+2026-10-27T08:48:20Z INFO [ingest] vin=5YJR9ZE2C4B6EX423 event written
+2026-10-27T08:48:23Z INFO [billing] vin=3HC2F026SRWFCF211 heartbeat accepted
+2026-10-27T08:48:27Z INFO [ingest] vin=1FAG20Y0KN929CCCJ invoice line created
+2026-10-27T08:48:41Z INFO [ingest] vin=3HCK41E57293C0FGS event written
+2026-10-27T08:48:56Z WARN [ingest] vin=1FAYEYG1VTKYFKZW2 consumer lag 350
+2026-10-27T08:49:02Z INFO [ingest] invoice line created
+2026-10-27T08:49:02Z INFO [consumer] vin=2GBKPE33Y63DP31B1 invoice line created
+2026-10-27T08:49:03Z INFO [billing] vin=5YJ87CMU2K2C2YSD7 GET /v1/vehicles/latest 200
+2026-10-27T08:49:06Z ERROR [api] vin=1FAUSRJGF4CBFPR9B failed to parse message
+2026-10-27T08:49:08Z INFO [api] vin=3HCFRZRW3Y0TV6H7D invoice line created
+2026-10-27T08:49:10Z INFO [api] vin=5YJT020C2DN0VE195 GET /v1/vehicles/latest 200
+2026-10-27T08:49:12Z INFO [consumer] vin=2GB301511FJZHM2JR invoice line created
+2026-10-27T08:49:15Z INFO [consumer] vin=3HCNTJGCW5C0JFVX3 heartbeat accepted
+2026-10-27T08:49:21Z WARN [ingest] vin=3HCH3WB7TRD7L1KSC consumer lag 350
+2026-10-27T08:49:21Z INFO [billing] vin=5YJF5HSPZ4LJPPDZU invoice line created
+2026-10-27T08:49:32Z INFO [consumer] invoice line created
+2026-10-27T08:49:32Z WARN [ingest] retrying publish
+2026-10-27T08:49:41Z INFO [billing] vin=2GBXBPK2EWLS1Y1JF invoice line created
+2026-10-27T08:49:41Z INFO [consumer] vin=5YJ1T6V48KNVPDDXD heartbeat accepted
+2026-10-27T08:49:47Z INFO [consumer] vin=2GBJ3HE7509G59RCW heartbeat accepted
+2026-10-27T08:49:54Z INFO [consumer] vin=1FA38S785BFVR2SW0 event written
+2026-10-27T08:50:03Z INFO [consumer] vin=1FA38S785BFVR2SW0 event written
+2026-10-27T08:50:05Z ERROR [api] failed to parse message
+2026-10-27 INFO [ingest] truncated
+2026-10-27T08:50:12Z INFO [billing] vin=3HC2F026SRWFCF211 GET /v1/vehicles/latest 200
+2026-10-27T08:50:18Z INFO [api] invoice line created
+2026-10-27T08:50:24Z INFO [billing] vin=5YJ6VWXF6A0NVWS60 event written
+2026-10-27T08:50:24Z WARN [api] vin=3HCVVU9GJ3DUJJSKX retrying publish
+2026-10-27T08:50:27Z INFO [ingest] invoice line created
+2026-10-27T08:50:28Z INFO [billing] vin=1FAF4MVXGFXVW54L5 GET /v1/vehicles/latest 200
+2026-10-27T08:50:30Z INFO [ingest] vin=5YJK3G83UC0P55S0G event written
+2026-10-27T08:50:31Z INFO [ingest] vin=1FA1Z4XJSUFSVBWP9 heartbeat accepted
+2026-10-27T08:50:37Z INFO [api] vin=2GBSKA3BRZAYA1WGP invoice line created
+2026-10-27T08:50:38Z WARN [api] vin=2GBX3K3P397DJPX71 slow query 1200ms
+2026-10-27T08:50:38Z INFO [ingest] vin=5YJYWXJL48XMZRM1W event written
+2026-10-27T08:50:39Z INFO [consumer] vin=2GBB2BF4J6MDT1XP6 GET /v1/vehicles/latest 200
+2026-10-27T08:50:39Z INFO [api] vin=1FANH7SP2SXV16ZWT invoice line created
+2026-10-27T08:50:39Z INFO [consumer] vin=5YJ5XEWCHBYGLSMLY event written
+2026-10-27T08:50:41Z INFO [api] vin=1FAW13R8RU48B1Y2L GET /v1/vehicles/latest 200
+2026-10-27T08:50:47Z ERROR [ingest] vin=2GB09ULT7VYH6EKR2 timeout calling OEM API
+2026-10-27T08:50:50Z INFO [api] vin=1FACX2UEPXP826KTJ GET /v1/vehicles/latest 200
+2026-10-27T08:50:51Z INFO [consumer] vin=5YJFYHC6DL428B14M event written
+2026-10-27T08:50:52Z INFO [billing] vin=3HCS8YT886LZLJ8MD invoice line created
+2026-10-27T08:50:57Z INFO [api] vin=3HC8V2C6FXTXH29A6 GET /v1/vehicles/latest 200
+2026-10-27T08:50:59Z INFO [consumer] vin=5YJ8ML8VJMX5DZA8J invoice line created
+2026-10-27T08:50:59Z INFO [consumer] vin=3HC4853UP9HZ4HV8W invoice line created
+2026-10-27T08:51:05Z INFO [ingest] vin=1FA2XU6A3H3KKGGGV invoice line created
+2026-10-27T08:51:05Z INFO [ingest] vin=3HCUNH6FPBDYSJPEP invoice line created
+2026-10-27T08:51:05Z INFO [ingest] vin=5YJLD9FMEES2HSCF3 GET /v1/vehicles/latest 200
+2026-10-27T08:51:12Z ERROR [ingest] vin=2GBB7GV3FHKZWY6P7 failed to parse message
+2026-10-27T08:51:14Z INFO [consumer] vin=3HCXST2JW6XEA6GEP GET /v1/vehicles/latest 200
+2026-10-27T08:51:18Z INFO [api] event written
+2026-10-27T08:51:23Z INFO [ingest] vin=1FAW13R8RU48B1Y2L heartbeat accepted
+2026-10-27T08:51:24Z INFO [ingest] vin=2GBB2BF4J6MDT1XP6 heartbeat accepted
+2026-10-27T08:51:26Z WARN [consumer] retrying publish
+2026-10-27T08:51:29Z INFO [consumer] vin=2GBB2BF4J6MDT1XP6 GET /v1/vehicles/latest 200
+2026-10-27T08:51:34Z INFO [billing] vin=1FAP136YL0WXFDKLD GET /v1/vehicles/latest 200
+2026-10-27T08:51:34Z INFO [ingest] invoice line created
+2026-10-27T08:51:38Z INFO [consumer] vin=3HCM75UM48F7Z3YXG invoice line created
+2026-10-27T08:51:48Z INFO [billing] vin=1FAVSEFUK1K1X0GFA heartbeat accepted
+2026-10-27T08:51:50Z WARN [billing] vin=3HCWNKSD2XJB8VT32 slow query 1200ms
+2026-10-27T08:51:54Z WARN [consumer] vin=2GB1YB8XM8PZTYUUA odometer jump > 500 km
+2026-10-27T08:51:55Z INFO [ingest] event written
+2026-10-27T08:52:06Z INFO [consumer] vin=5YJGDV13SLXXNL896 invoice line created
+2026-10-27T08:52:11Z WARN [consumer] vin=3HCVGNVR0MWAJUCDV consumer lag 350
+2026-10-27T08:52:12Z INFO [consumer] vin=1FAZJMJ49DHKWLLXR GET /v1/vehicles/latest 200
+2026-10-27T08:52:15Z INFO [api] vin=1FADA3JREKAP960D7 event written
+2026-10-27T08:52:15Z INFO [ingest] vin=2GB4H6DWMHAJAL8ZT invoice line created
+2026-10-27T08:52:18Z INFO [api] vin=3HCWWU8GRJW5XU3FN invoice line created
+2026-10-27T08:52:20Z INFO [consumer] vin=3HC5HP8F95D6J936D heartbeat accepted
+2026-10-27T08:52:20Z INFO [ingest] vin=3HCYKJCV7J75AFBTP heartbeat accepted
+2026-10-27T08:52:22Z INFO [api] vin=2GBT6TA6VLE5ZW4T6 GET /v1/vehicles/latest 200
+2026-10-27T08:52:25Z INFO [consumer] vin=3HCFRZRW3Y0TV6H7D heartbeat accepted
+2026-10-27T08:52:25Z ERROR [api] vin=5YJVSWHDS36EH8B9S db connection refused
+2026-10-27T08:52:40Z INFO [billing] vin=2GBX3K3P397DJPX71 GET /v1/vehicles/latest 200
+2026-10-27T08:52:40Z ERROR [ingest] vin=1FALF84YGCRP7UCEU timeout calling OEM API
+2026-10-27T08:52:41Z WARN [ingest] vin=2GBC5DSC25RPDJ9VR odometer jump > 500 km
+2026-10-27T08:52:43Z INFO [api] vin=3HCVVU9GJ3DUJJSKX invoice line created
+2026-10-27T08:52:48Z INFO [billing] invoice line created
+2026-10-27T08:52:55Z WARN [consumer] vin=2GB56X3HZP5W6THFL slow query 1200ms
+2026-10-27T08:53:04Z INFO [api] vin=3HCYKJCV7J75AFBTP event written
+2026-10-27T08:53:04Z INFO [ingest] vin=1FAATH60T10GR7BXR heartbeat accepted
+2026-10-27T08:53:07Z INFO [consumer] vin=3HC3B8VW7S2W6EDL5 invoice line created
+2026-10-27T08:53:11Z INFO [api] vin=1FA1M010M5CT56TRU event written
+2026-10-27T08:53:11Z WARN [consumer] vin=3HCHYL6TMAYVNM249 retrying publish
+2026-10-27T08:53:13Z INFO [api] GET /v1/vehicles/latest 200
+2026-10-27T08:53:13Z INFO [ingest] vin=2GBWFJXHSWHM0K913 heartbeat accepted
+2026-10-27T08:53:14Z INFO [billing] invoice line created
+2026-10-27T08:53:22Z WARN [ingest] vin=3HCUZ92YBHTMTCG4Z retrying publish
+2026-10-27T08:53:24Z INFO [billing] vin=5YJY5Y4JWXN7XM2XV invoice line created
+2026-10-27T08:53:27Z ERROR [consumer] db connection refused
+2026-10-27T08:53:29Z INFO [billing] vin=3HC6H1FV0NECRVFRG event written
+2026-10-27T08:53:30Z INFO [api] vin=5YJT020C2DN0VE195 GET /v1/vehicles/latest 200
+2026-10-27T08:53:30Z INFO [ingest] vin=5YJ31FSL1LJUWU8KE event written
+2026-10-27T08:53:35Z ERROR [ingest] vin=2GBEBEATPCD29V934 timeout calling OEM API
+2026-10-27T08:53:45Z INFO [api] vin=2GB9JEU3Y9UAVW8K5 invoice line created
+2026-10-27T08:53:50Z INFO [api] vin=1FAL1LEFY7B4L4LDG heartbeat accepted
+2026-10-27T08:53:55Z INFO [api] heartbeat accepted
+2026-10-27T08:54:08Z INFO [ingest] vin=2GBXZBZKN8WM8CFDR heartbeat accepted
+2026-10-27T08:54:09Z INFO [api] vin=5YJK3G83UC0P55S0G invoice line created
+2026-10-27T08:54:09Z INFO [consumer] vin=1FAFRH6HK8V9U377S GET /v1/vehicles/latest 200
+2026-10-27T08:54:13Z INFO [consumer] vin=1FAL1LEFY7B4L4LDG invoice line created
+2026-10-27T08:54:17Z INFO [ingest] vin=5YJY5Y4JWXN7XM2XV event written
+2026-10-27T08:54:23Z INFO [ingest] vin=1FAATH60T10GR7BXR invoice line created
+2026-10-27T08:54:28Z INFO [ingest] vin=2GBF8YMXDA5UPLL8F invoice line created
+2026-10-27T08:54:29Z INFO [api] vin=1FA724G85EFXKEJUX event written
+2026-10-27T08:54:31Z INFO [ingest] vin=5YJ5XEWCHBYGLSMLY heartbeat accepted
+2026-10-27T08:54:38Z WARN [consumer] vin=3HCPYPT98TDF4UCAY slow query 1200ms
+2026-10-27T08:54:39Z INFO [ingest] vin=5YJNESGWHCZ40E9YA heartbeat accepted
+2026-10-27T08:54:45Z INFO [consumer] vin=2GBB006JFEW2733EJ GET /v1/vehicles/latest 200
+2026-10-27T08:54:48Z INFO [ingest] vin=3HCF296SPZDDV87VA invoice line created
+2026-10-27T08:54:51Z INFO [consumer] vin=5YJ87CMU2K2C2YSD7 event written
+2026-10-27T08:54:59Z WARN [billing] vin=1FA6BHL56A4NJWLUF consumer lag 350
+2026-10-27T08:55:00Z WARN [consumer] vin=1FAWFSH3R155W4WDG consumer lag 350
+2026-10-27T08:55:02Z INFO [api] vin=5YJ31FSL1LJUWU8KE heartbeat accepted
+2026-10-27T08:55:03Z INFO [api] vin=3HCK41E57293C0FGS heartbeat accepted
+2026-10-27T08:55:04Z ERROR [api] vin=2GBKEVG9CYJ1KLML5 duplicate key on insert
+2026-10-27T08:55:04Z WARN [consumer] vin=2GBUUJGSSDRRDG3Y7 odometer jump > 500 km
+2026-10-27T08:55:07Z INFO [consumer] vin=2GBA2CMXRG8KYESZX heartbeat accepted
+2026-10-27T08:55:33Z INFO [ingest] vin=5YJRTN4HRKUKEDLWV GET /v1/vehicles/latest 200
+2026-10-27T08:55:36Z INFO [billing] vin=5YJ1T6V48KNVPDDXD heartbeat accepted
+2026-10-27T08:55:37Z ERROR [consumer] vin=3HC7NGBPLVF7HW278 db connection refused
+2026-10-27T08:55:38Z INFO [ingest] vin=5YJ5XEWCHBYGLSMLY invoice line created
+2026-10-27T08:55:40Z INFO [consumer] vin=5YJK3G83UC0P55S0G event written
+2026-10-27T08:55:41Z INFO [ingest] vin=1FA724G85EFXKEJUX invoice line created
+2026-10-27T08:55:43Z INFO [billing] vin=5YJRTN4HRKUKEDLWV invoice line created
+2026-10-27T08:55:46Z INFO [consumer] vin=5YJDS81HS8EA0XJ13 heartbeat accepted
+2026-10-27T08:55:52Z INFO [consumer] vin=3HCCD0VEF916C5NX7 GET /v1/vehicles/latest 200
+2026-10-27T08:55:52Z ERROR [consumer] vin=3HCPYPT98TDF4UCAY failed to parse message
+2026-10-27T08:55:54Z INFO [ingest] vin=1FAUD7ZRLGSSUDR1Z invoice line created
+2026-10-27T08:56:02Z INFO [consumer] GET /v1/vehicles/latest 200
+2026-10-27T08:56:07Z INFO [ingest] vin=3HCSDH6WL29WHV0RR event written
+2026-10-27T08:56:14Z INFO [api] vin=2GBXZBZKN8WM8CFDR event written
+2026-10-27T08:56:18Z INFO [billing] vin=1FACX2UEPXP826KTJ heartbeat accepted
+2026-10-27T08:56:21Z WARN [api] vin=3HCKR3WUDM48DZ1X3 consumer lag 350
+2026-10-27T08:56:23Z INFO [ingest] heartbeat accepted
+2026-10-27T08:56:24Z INFO [ingest] vin=1FAJHADRJN20FTEBE event written
+2026-10-27T08:56:25Z INFO [consumer] vin=5YJ2MM42BN541APPU event written
+2026-10-27T08:56:26Z INFO [api] vin=5YJX655P97LFV9YFS invoice line created
+2026-10-27T08:56:29Z INFO [consumer] vin=2GBFF8EJJ7LT4PNW2 invoice line created
+2026-10-27T08:56:34Z ERROR [consumer] vin=5YJR9ZE2C4B6EX423 db connection refused
+2026-10-27T08:56:37Z INFO [ingest] vin=3HCUHBY4UETE8690D event written
+2026-10-27T08:56:41Z INFO [consumer] vin=3HCXST2JW6XEA6GEP invoice line created
+2026-10-27T08:56:41Z INFO [consumer] vin=3HCPYPT98TDF4UCAY heartbeat accepted
+2026-10-27T08:56:41Z INFO [ingest] vin=2GBJTD70GHVFLU59K GET /v1/vehicles/latest 200
+2026-10-27T08:56:53Z INFO [ingest] vin=1FAW13R8RU48B1Y2L heartbeat accepted
+2026-10-27T08:56:55Z WARN [billing] retrying publish
+2026-10-27T08:56:59Z INFO [api] vin=1FA1YJF490B0WMPY8 event written
+2026-10-27T08:56:59Z INFO [consumer] vin=5YJRTN4HRKUKEDLWV GET /v1/vehicles/latest 200
+2026-10-27T08:57:06Z INFO [api] invoice line created
+2026-10-27T08:57:06Z INFO [api] vin=2GB001CK5005EJ02X GET /v1/vehicles/latest 200
+2026-10-27T08:57:06Z INFO [api] vin=3HC5HP8F95D6J936D invoice line created
+2026-10-27T08:57:07Z INFO [ingest] vin=2GBL377NVXVDFRCM3 heartbeat accepted
+2026-10-27T08:57:10Z INFO [ingest] vin=1FAUSRJGF4CBFPR9B GET /v1/vehicles/latest 200
+2026-10-27T08:57:10Z INFO [ingest] vin=5YJW3HJCCW8HGSJ16 GET /v1/vehicles/latest 200
+2026-10-27T08:57:17Z INFO [consumer] vin=5YJGDV13SLXXNL896 heartbeat accepted
+2026-10-27T08:57:18Z INFO [ingest] vin=5YJ5XEWCHBYGLSMLY event written
+2026-10-27T08:57:21Z INFO [ingest] vin=5YJR9ZE2C4B6EX423 GET /v1/vehicles/latest 200
+2026-10-27T08:57:24Z WARN [consumer] vin=5YJU315EF29U068XA consumer lag 350
+2026-10-27T08:57:30Z INFO [ingest] vin=2GBT6TA6VLE5ZW4T6 event written
+2026-10-27T08:57:31Z WARN [consumer] odometer jump > 500 km
+2026-10-27T08:57:37Z INFO [api] vin=3HCFRZRW3Y0TV6H7D invoice line created
+2026-10-27T08:57:37Z INFO [api] vin=3HC0L0ZPUELSL61UR invoice line created
+2026-10-27T08:57:44Z INFO [ingest] vin=5YJVSWHDS36EH8B9S event written
+2026-10-27T08:57:45Z ERROR [billing] vin=5YJ037PSF50EHD9NK timeout calling OEM API
+2026-10-27T08:57:47Z INFO [consumer] vin=5YJUAL4YUKPYGF1GZ invoice line created
+2026-10-27T08:58:00Z INFO [consumer] vin=1FAJHADRJN20FTEBE event written
+2026-10-27T08:58:05Z INFO [api] vin=1FA1Z4XJSUFSVBWP9 GET /v1/vehicles/latest 200
+2026-10-27T08:58:08Z INFO [ingest] vin=1FACX2UEPXP826KTJ event written
+2026-10-27T08:58:17Z INFO [api] vin=5YJLD9FMEES2HSCF3 invoice line created
+2026-10-27T08:58:19Z INFO [api] vin=5YJGDV13SLXXNL896 event written
+2026-10-27T08:58:31Z INFO [billing] GET /v1/vehicles/latest 200
+2026-10-27T08:58:38Z INFO [api] GET /v1/vehicles/latest 200
+2026-10-27T08:58:41Z INFO [consumer] vin=5YJ5FXZEVWLM09RHN heartbeat accepted
+2026-10-27T08:58:48Z INFO [billing] vin=1FASJ7HP6T0LHLWGB event written
+2026-10-27T08:58:49Z INFO [consumer] vin=1FASJ7HP6T0LHLWGB event written
+2026-10-27T08:58:51Z INFO [ingest] vin=2GBBM81HTT5PV8NHJ GET /v1/vehicles/latest 200
+2026-10-27T08:58:52Z INFO [api] vin=1FACX2UEPXP826KTJ heartbeat accepted
+2026-10-27T08:58:52Z INFO [consumer] vin=2GBBM81HTT5PV8NHJ heartbeat accepted
+2026-10-27T08:58:53Z INFO [api] vin=1FALF84YGCRP7UCEU heartbeat accepted
+2026-10-27T08:58:55Z ERROR billing timeout calling OEM API
+2026-10-27T08:59:01Z INFO [consumer] vin=3HCLD2WR4FGAP7EJR heartbeat accepted
+2026-10-27T08:59:01Z INFO [ingest] vin=1FA28MVCAWGYV68J9 event written
+2026-10-27T08:59:02Z ERROR [consumer] vin=2GBXBPK2EWLS1Y1JF duplicate key on insert
+2026-10-27T08:59:03Z ERROR [consumer] vin=5YJ7XP0X3CRKBT3VK timeout calling OEM API
+2026-10-27T08:59:09Z WARN [billing] vin=3HCK41E57293C0FGS retrying publish
+2026-10-27T08:59:18Z INFO [ingest] vin=2GBES0VL5WAWGJTHG heartbeat accepted
+2026-10-27T08:59:21Z WARN [ingest] vin=1FA6BHL56A4NJWLUF consumer lag 350
+2026-10-27T08:59:24Z INFO [billing] heartbeat accepted
+2026-10-27T08:59:25Z INFO [ingest] vin=2GBJ3HE7509G59RCW heartbeat accepted
+2026-10-27T08:59:25Z INFO [consumer] vin=3HC0L0ZPUELSL61UR invoice line created
+2026-10-27T08:59:26Z WARN [consumer] vin=5YJ037PSF50EHD9NK odometer jump > 500 km
+2026-10-27T08:59:33Z ERROR [ingest] vin=3HC0L0ZPUELSL61UR db connection refused
+2026-10-27T08:59:33Z INFO [ingest] vin=2GBFLSMELA357VCRV event written
+2026-10-27T08:59:33Z INFO [ingest] vin=2GB7GS1ZVVB2UAD8V heartbeat accepted
+2026-10-27T08:59:40Z ERROR [ingest] vin=2GBTGHR9ACASC701K db connection refused
+2026-10-27T08:59:43Z INFO [ingest] vin=5YJ06K4MU764UXSFU invoice line created
+2026-10-27T08:59:51Z INFO [billing] vin=5YJVSWHDS36EH8B9S heartbeat accepted
+2026-10-27T08:59:51Z INFO [ingest] vin=2GBU20HNMB6P5VE38 event written
+2026-10-27T08:59:51Z INFO [consumer] vin=2GB5MLPNJC4F4NKTX event written
+2026-10-27T08:59:51Z INFO [consumer] vin=5YJ9H1NTC4AN04EYX event written
+2026-10-27T08:59:56Z INFO [consumer] event written
+2026-10-27T08:59:58Z INFO [api] vin=5YJ8ML8VJMX5DZA8J heartbeat accepted
+2026-10-27T09:00:14Z INFO [billing] event written
+2026-10-27T09:00:15Z INFO [consumer] event written
+2026-10-27T09:00:17Z INFO [ingest] vin=5YJT020C2DN0VE195 event written
+2026-10-27T09:00:18Z INFO [billing] vin=1FAVSEFUK1K1X0GFA GET /v1/vehicles/latest 200
+2026-10-27T09:00:23Z INFO [consumer] vin=5YJU315EF29U068XA event written
+2026-10-27T09:00:24Z INFO [ingest] vin=1FAFRH6HK8V9U377S event written
+2026-10-27T09:00:26Z INFO [api] vin=5YJW3HJCCW8HGSJ16 invoice line created
+2026-10-27T09:00:29Z INFO [ingest] vin=1FA1YJF490B0WMPY8 invoice line created
+2026-10-27T09:00:34Z INFO [api] vin=2GBDAPWPJTVXHA84M GET /v1/vehicles/latest 200
+2026-10-27T09:00:35Z INFO [api] heartbeat accepted
+2026-10-27T09:00:37Z INFO [ingest] vin=1FALF84YGCRP7UCEU invoice line created
+2026-10-27T09:00:38Z INFO [ingest] vin=1FAUD7ZRLGSSUDR1Z invoice line created
+2026-10-27T09:00:39Z INFO [ingest] vin=1FAAYNJYMXDBKKH0E event written
+2026-10-27T09:00:40Z INFO [api] vin=5YJY5Y4JWXN7XM2XV GET /v1/vehicles/latest 200
+2026-10-27T09:00:41Z INFO [api] vin=3HC3B8VW7S2W6EDL5 heartbeat accepted
+2026-10-27T09:00:42Z WARN [api] vin=1FAW9NK0LAX8BH0WS retrying publish
+2026-10-27T09:00:44Z WARN [api] vin=2GBXBPK2EWLS1Y1JF odometer jump > 500 km
+2026-10-27T09:00:50Z INFO [api] vin=1FA1Z4XJSUFSVBWP9 GET /v1/vehicles/latest 200
+2026-10-27T09:01:07Z INFO [api] heartbeat accepted
+2026-10-27T09:01:08Z ERROR [billing] vin=5YJSU8SU5EVSUYXFJ db connection refused
+2026-10-27T09:01:10Z ERROR [consumer] vin=2GB3TVWSGD28KD0A4 duplicate key on insert
+2026-10-27T09:01:11Z WARN [billing] vin=5YJX655P97LFV9YFS odometer jump > 500 km
+2026-10-27T09:01:25Z ERROR [api] vin=5YJ6TAHUYHV4L6AT9 duplicate key on insert
+2026-10-27T09:01:26Z INFO [api] invoice line created
+2026-10-27T09:01:29Z INFO [billing] GET /v1/vehicles/latest 200
+2026-10-27T09:01:29Z INFO [consumer] vin=1FA3ABUVB94MGGKSN invoice line created
+2026-10-27T09:01:35Z WARN [ingest] vin=1FAVSEFUK1K1X0GFA retrying publish
+2026-10-27T09:01:45Z INFO [api] vin=5YJAV775YMDT7HE28 invoice line created
+2026-10-27T09:01:47Z INFO [api] GET /v1/vehicles/latest 200
+2026-10-27T09:01:50Z INFO [consumer] vin=3HC9BA7JMARTWU41Z heartbeat accepted
+2026-10-27T09:02:00Z INFO [api] vin=5YJDGD2YGSNN5J4MU GET /v1/vehicles/latest 200
+2026-10-27T09:02:01Z ERROR [ingest] vin=1FASJ7HP6T0LHLWGB db connection refused
+2026-10-27T09:02:06Z INFO [ingest] GET /v1/vehicles/latest 200
+2026-10-27T09:02:10Z ERROR [consumer] vin=1FAM0XN6HT8X12HZZ duplicate key on insert
+2026-10-27T09:02:17Z INFO [api] vin=2GBC5DSC25RPDJ9VR event written
+2026-10-27T09:02:17Z INFO [billing] vin=5YJUGJFM4593GBFZF invoice line created
+2026-10-27T09:02:18Z INFO [ingest] vin=2GBYZT7NSUWRWVP8X heartbeat accepted
+2026-10-27T09:02:21Z INFO [consumer] vin=5YJ06K4MU764UXSFU invoice line created
+2026-10-27T09:02:28Z INFO [consumer] vin=3HCSDH6WL29WHV0RR GET /v1/vehicles/latest 200
+2026-10-27T09:02:29Z WARN [ingest] consumer lag 350
+2026-10-27T09:02:39Z ERROR [ingest] timeout calling OEM API
+2026-10-27T09:02:48Z INFO [ingest] vin=3HCYZ6UWTRHNXHMNP heartbeat accepted
+2026-10-27T09:02:48Z ERROR [ingest] vin=3HCS8YT886LZLJ8MD duplicate key on insert
+2026-10-27T09:02:51Z INFO [ingest] vin=3HCSU8PJ7S73NGG4Z event written
+2026-10-27T09:02:52Z ERROR [ingest] vin=5YJS5V5RSW7N056V1 timeout calling OEM API
+2026-10-27T09:02:55Z INFO [consumer] vin=3HC50FNDU1CENP7PY invoice line created
+2026-10-27T09:02:55Z WARN [consumer] odometer jump > 500 km
+2026-10-27T09:03:02Z ERROR [billing] vin=5YJUAL4YUKPYGF1GZ timeout calling OEM API
+2026-10-27T09:03:14Z INFO [api] vin=1FAP136YL0WXFDKLD GET /v1/vehicles/latest 200
+2026-10-27T09:03:14Z WARN [api] slow query 1200ms
+2026-10-27T09:03:16Z WARN [consumer] vin=5YJZE2P4P8UXVYJ8Y retrying publish
+2026-10-27T09:03:17Z INFO [billing] vin=3HCVVU9GJ3DUJJSKX event written
+2026-10-27T09:03:21Z WARN [consumer] vin=1FADVZ04KS3MLMF1S consumer lag 350
+2026-10-27T09:03:22Z INFO [api] vin=5YJW3HJCCW8HGSJ16 heartbeat accepted
+2026-10-27T09:03:22Z INFO [billing] vin=1FAYEYG1VTKYFKZW2 event written
+2026-10-27T09:03:24Z ERROR [ingest] vin=2GB3TVWSGD28KD0A4 duplicate key on insert
+2026-10-27T09:03:26Z INFO [ingest] vin=1FA865XXK5E75WUDZ heartbeat accepted
+2026-10-27T09:03:31Z ERROR [api] vin=1FAAYNJYMXDBKKH0E duplicate key on insert
+2026-10-27T09:03:32Z INFO [api] vin=3HCHYL6TMAYVNM249 invoice line created
+2026-10-27T09:03:35Z INFO [ingest] vin=5YJFYHC6DL428B14M heartbeat accepted
+2026-10-27T09:03:39Z ERROR [api] failed to parse message
+2026-10-27T09:03:41Z INFO [ingest] vin=2GBE5GDAFSL387P2D invoice line created
+2026-10-27T09:03:45Z INFO [api] vin=3HC6H1FV0NECRVFRG event written
+2026-10-27T09:03:47Z INFO [billing] vin=3HC1U3TF7BDZRECBS heartbeat accepted
+2026-10-27T09:03:48Z ERROR [ingest] vin=3HCWWU8GRJW5XU3FN failed to parse message
+2026-10-27T09:03:48Z INFO [consumer] vin=5YJDS81HS8EA0XJ13 invoice line created
+2026-10-27T09:03:49Z INFO [billing] vin=3HCF296SPZDDV87VA GET /v1/vehicles/latest 200
+2026-10-27T09:03:49Z ERROR [ingest] vin=5YJR9ZE2C4B6EX423 timeout calling OEM API
+2026-10-27T09:03:54Z INFO [billing] vin=3HC4GHP45R3Y623GX event written
+2026-10-27T09:03:55Z INFO [ingest] vin=3HCCD0VEF916C5NX7 invoice line created
+2026-10-27T09:04:00Z INFO [billing] invoice line created
+2026-10-27T09:04:03Z INFO [ingest] vin=1FAREY2XBU58RZ14M heartbeat accepted
+2026-10-27T09:04:05Z INFO [ingest] vin=3HCUZ92YBHTMTCG4Z GET /v1/vehicles/latest 200
+2026-10-27T09:04:12Z WARN [api] vin=5YJ037PSF50EHD9NK retrying publish
+2026-10-27T09:04:27Z INFO [consumer] vin=2GBB2BF4J6MDT1XP6 heartbeat accepted
+2026-10-27T09:04:32Z WARN [ingest] vin=1FAJHADRJN20FTEBE odometer jump > 500 km
+2026-10-27T09:04:32Z INFO [ingest] vin=5YJ5XEWCHBYGLSMLY invoice line created
+2026-10-27T09:04:32Z INFO [billing] vin=3HCK41E57293C0FGS heartbeat accepted
+2026-10-27T09:04:33Z INFO [billing] vin=1FARM6DSH6J6X5945 event written
+2026-10-27T09:04:37Z ERROR [consumer] vin=3HC6H1FV0NECRVFRG duplicate key on insert
+2026-10-27T09:04:39Z INFO [billing] vin=1FAVSEFUK1K1X0GFA GET /v1/vehicles/latest 200
+2026-10-27T09:04:43Z INFO [api] vin=5YJJKEAL5ZPK35PFG GET /v1/vehicles/latest 200
+2026-10-27T09:04:43Z INFO [consumer] vin=2GBYZT7NSUWRWVP8X invoice line created
+2026-10-27T09:04:47Z ERROR [consumer] duplicate key on insert
+2026-10-27T09:04:54Z INFO [ingest] vin=2GB380D9LEW92JBMN GET /v1/vehicles/latest 200
+2026-10-27T09:05:02Z ERROR [billing] vin=1FASJ7HP6T0LHLWGB duplicate key on insert
+2026-10-27T09:05:06Z INFO [consumer] vin=2GB7GS1ZVVB2UAD8V event written
+2026-10-27T09:05:09Z INFO [api] event written
+2026-10-27T09:05:10Z ERROR [consumer] vin=5YJZ4UDE209LBK5CJ db connection refused
+2026-10-27T09:05:14Z ERROR [consumer] vin=3HC54AHEKC0K4JCW0 failed to parse message
+2026-10-27T09:05:18Z INFO [api] vin=5YJUGJFM4593GBFZF GET /v1/vehicles/latest 200
+2026-10-27T09:05:20Z INFO [api] vin=2GBKPE33Y63DP31B1 GET /v1/vehicles/latest 200
+2026-10-27T09:05:21Z INFO [billing] vin=5YJAV775YMDT7HE28 invoice line created
+2026-10-27T09:05:27Z INFO [consumer] vin=5YJNESGWHCZ40E9YA GET /v1/vehicles/latest 200
+2026-10-27T09:05:28Z INFO [api] vin=3HC16XNS1R3CX711K invoice line created
+2026-10-27T09:05:31Z INFO [billing] vin=2GB380D9LEW92JBMN heartbeat accepted
+2026-10-27T09:05:37Z INFO [ingest] vin=1FA724G85EFXKEJUX event written
+2026-10-27T09:05:40Z INFO [consumer] GET /v1/vehicles/latest 200
+2026-10-27T09:05:42Z INFO [billing] vin=2GBE5GDAFSL387P2D invoice line created
+2026-10-27T09:05:47Z INFO [api] vin=3HCWNKSD2XJB8VT32 GET /v1/vehicles/latest 200
+2026-10-27T09:05:47Z INFO [api] vin=2GBXBPK2EWLS1Y1JF GET /v1/vehicles/latest 200
+2026-10-27T09:05:48Z WARN [billing] vin=2GBU20HNMB6P5VE38 odometer jump > 500 km
+2026-10-27T09:05:51Z INFO [consumer] vin=5YJDGD2YGSNN5J4MU invoice line created
+2026-10-27T09:05:53Z INFO [api] heartbeat accepted
+2026-10-27T09:05:55Z INFO [billing] vin=2GBE5GDAFSL387P2D invoice line created
+2026-10-27T09:05:55Z INFO [ingest] vin=3HC4DVWZG9PK7RGZ0 event written
+2026-10-27T09:06:00Z ERROR [consumer] vin=1FARM6DSH6J6X5945 db connection refused
+2026-10-27T09:06:00Z INFO [ingest] vin=3HCVGNVR0MWAJUCDV GET /v1/vehicles/latest 200
+2026-10-27T09:06:02Z INFO [consumer] invoice line created
+2026-10-27T09:06:05Z INFO [consumer] vin=3HCHYL6TMAYVNM249 heartbeat accepted
+2026-10-27T09:06:06Z INFO [api] vin=1FA6BHL56A4NJWLUF invoice line created
+2026-10-27T09:06:09Z INFO [ingest] vin=5YJW3HJCCW8HGSJ16 heartbeat accepted
+2026-10-27T09:06:13Z WARN [api] vin=3HCM75UM48F7Z3YXG consumer lag 350
+2026-10-27T09:06:13Z INFO [consumer] vin=2GBT6TA6VLE5ZW4T6 GET /v1/vehicles/latest 200
+2026-10-27T09:06:17Z WARN [consumer] vin=2GBC5DSC25RPDJ9VR odometer jump > 500 km
+2026-10-27T09:06:17Z WARN [api] vin=1FA6D0NU0692HBS08 retrying publish
+2026-10-27T09:06:19Z INFO [ingest] vin=5YJZ4UDE209LBK5CJ invoice line created
+2026-10-27T09:06:20Z INFO [consumer] vin=1FASJ7HP6T0LHLWGB GET /v1/vehicles/latest 200
+2026-10-27T09:06:26Z INFO [consumer] vin=2GBT6TA6VLE5ZW4T6 heartbeat accepted
+2026-10-27T09:06:29Z INFO [api] vin=3HCXST2JW6XEA6GEP GET /v1/vehicles/latest 200
+2026-10-27T09:06:30Z INFO [consumer] vin=5YJN9H1W3DKJNY36K event written
+2026-10-27T09:06:32Z WARN [billing] vin=5YJFYHC6DL428B14M retrying publish
+2026-10-27T09:06:33Z INFO [consumer] vin=3HCE9H9NZZKSGKTNM invoice line created
+2026-10-27T09:06:34Z WARN [api] vin=1FAUD7ZRLGSSUDR1Z odometer jump > 500 km
+2026-10-27T09:06:42Z INFO [consumer] vin=1FAVSEFUK1K1X0GFA event written
+2026-10-27T09:06:46Z INFO [billing] vin=3HCUVH12ZKVCVFZ5T invoice line created
+2026-10-27T09:06:50Z INFO [consumer] heartbeat accepted
+2026-10-27T09:06:53Z INFO [api] vin=1FALF84YGCRP7UCEU heartbeat accepted
+2026-10-27T09:06:54Z INFO [billing] vin=2GB9JEU3Y9UAVW8K5 heartbeat accepted
+2026-10-27T09:06:55Z INFO [api] vin=5YJK3G83UC0P55S0G invoice line created
+2026-10-27T09:06:55Z INFO [ingest] vin=5YJR9ZE2C4B6EX423 GET /v1/vehicles/latest 200
+2026-10-27T09:06:56Z INFO [billing] heartbeat accepted
+2026-10-27T09:07:08Z INFO [api] vin=5YJSU8SU5EVSUYXFJ GET /v1/vehicles/latest 200
+2026-10-27T09:07:09Z INFO [consumer] vin=1FAREY2XBU58RZ14M GET /v1/vehicles/latest 200
+2026-10-27T09:07:20Z WARN [consumer] vin=5YJ9838358LFBRVCU slow query 1200ms
+2026-10-27T09:07:25Z INFO [api] vin=5YJ5HSREYBRRAEDRE heartbeat accepted
+2026-10-27T09:07:27Z INFO [consumer] vin=3HCNTJGCW5C0JFVX3 heartbeat accepted
+2026-10-27T09:07:34Z INFO [api] vin=5YJR9ZE2C4B6EX423 GET /v1/vehicles/latest 200
+2026-10-27T09:07:35Z ERROR [billing] vin=3HCZEZSGYJCZYM67M db connection refused
+2026-10-27T09:07:36Z ERROR [consumer] vin=5YJDKUFCR306FG9J2 timeout calling OEM API
+2026-10-27T09:07:44Z INFO [api] vin=5YJJKEAL5ZPK35PFG heartbeat accepted
+2026-10-27T09:07:52Z ERROR [consumer] duplicate key on insert
+2026-10-27T09:07:58Z INFO [api] vin=1FAYH4J7ER1FGGX0W heartbeat accepted
+2026-10-27T09:07:59Z WARN [consumer] vin=1FA1Z4XJSUFSVBWP9 retrying publish
+2026-10-27T09:07:59Z INFO [ingest] vin=5YJYKXXZ2J09GXS6H GET /v1/vehicles/latest 200
+2026-10-27T09:08:04Z INFO [billing] heartbeat accepted
+2026-10-27T09:08:04Z INFO [ingest] vin=1FAUSRJGF4CBFPR9B event written
+2026-10-27T09:08:16Z ERROR [api] vin=5YJZE2P4P8UXVYJ8Y timeout calling OEM API
+2026-10-27T09:08:18Z INFO [ingest] vin=1FA3ABUVB94MGGKSN heartbeat accepted
+2026-10-27T09:08:19Z INFO [ingest] vin=2GBX3K3P397DJPX71 heartbeat accepted
+2026-10-27T09:08:22Z INFO [billing] event written
+2026-10-27T09:08:33Z INFO [api] vin=3HCUNH6FPBDYSJPEP event written
+2026-10-27T09:08:40Z WARN [api] vin=5YJ31FSL1LJUWU8KE consumer lag 350
+2026-10-27T09:08:42Z INFO [ingest] vin=2GBTGHR9ACASC701K GET /v1/vehicles/latest 200
+2026-10-27T09:08:44Z INFO [billing] event written
+2026-10-27T09:08:45Z INFO [ingest] vin=5YJ6TAHUYHV4L6AT9 GET /v1/vehicles/latest 200
+2026-10-27T09:08:54Z INFO [ingest] vin=2GBXBPK2EWLS1Y1JF invoice line created
+2026-10-27T09:08:56Z INFO [ingest] vin=1FAVSEFUK1K1X0GFA GET /v1/vehicles/latest 200
+2026-10-27T09:08:59Z WARN [ingest] vin=5YJ6VWXF6A0NVWS60 consumer lag 350
+2026-10-27T09:09:00Z ERROR [consumer] vin=3HCFRZRW3Y0TV6H7D duplicate key on insert
+2026-10-27T09:09:04Z ERROR [consumer] duplicate key on insert
+2026-10-27T09:09:08Z INFO [billing] vin=1FADA3JREKAP960D7 event written
+2026-10-27T09:09:13Z WARN [consumer] vin=5YJ06K4MU764UXSFU odometer jump > 500 km
+2026-10-27T09:09:13Z INFO [billing] vin=1FAAYNJYMXDBKKH0E GET /v1/vehicles/latest 200
+2026-10-27T09:09:15Z WARN [api] vin=1FA6D0NU0692HBS08 odometer jump > 500 km
+2026-10-27T09:09:17Z WARN [consumer] vin=2GBG1C7RN6ZWRRBN2 odometer jump > 500 km
+2026-10-27T09:09:27Z INFO [ingest] GET /v1/vehicles/latest 200
+2026-10-27T09:09:28Z WARN [ingest] slow query 1200ms
+2026-10-27T09:09:29Z ERROR [consumer] timeout calling OEM API
+2026-10-27T09:09:33Z INFO [ingest] vin=5YJAV775YMDT7HE28 invoice line created
+2026-10-27T09:09:35Z INFO [ingest] GET /v1/vehicles/latest 200
+2026-10-27T09:09:39Z ERROR [billing] vin=5YJ9838358LFBRVCU duplicate key on insert
+2026-10-27T09:09:48Z INFO [api] GET /v1/vehicles/latest 200
+2026-10-27T09:09:51Z INFO [api] vin=5YJF5HSPZ4LJPPDZU GET /v1/vehicles/latest 200
+2026-10-27T09:09:56Z INFO [consumer] vin=3HC1X8CESVRF4GG5L event written
+2026-10-27T09:10:10Z ERROR billing timeout calling OEM API
+2026-10-27T09:10:16Z INFO [billing] vin=1FA724G85EFXKEJUX invoice line created
+2026-10-27T09:10:17Z INFO [consumer] vin=1FAYEYG1VTKYFKZW2 event written
+2026-10-27T09:10:20Z INFO [api] heartbeat accepted
+2026-10-27T09:10:22Z INFO [billing] vin=2GB380D9LEW92JBMN heartbeat accepted
+2026-10-27T09:10:23Z INFO [api] vin=3HCNTJGCW5C0JFVX3 invoice line created
+2026-10-27T09:10:23Z INFO [consumer] vin=5YJNESGWHCZ40E9YA heartbeat accepted
+2026-10-27T09:10:36Z INFO [api] vin=5YJ87CMU2K2C2YSD7 event written
+2026-10-27T09:10:37Z INFO [billing] vin=3HCM75UM48F7Z3YXG heartbeat accepted
+2026-10-27T09:10:43Z ERROR [api] vin=3HCUZ92YBHTMTCG4Z timeout calling OEM API
+2026-10-27T09:10:46Z WARN [ingest] vin=1FAR5ZB3D290S1F0R consumer lag 350
+2026-10-27T09:10:46Z INFO [consumer] vin=1FA38S785BFVR2SW0 heartbeat accepted
+2026-10-27T09:10:49Z INFO [ingest] vin=2GBG1C7RN6ZWRRBN2 heartbeat accepted
+2026-10-27T09:10:51Z INFO [consumer] vin=1FAM0XN6HT8X12HZZ event written
+2026-10-27T09:10:55Z ERROR [billing] vin=1FA1YJF490B0WMPY8 db connection refused
+2026-10-27T09:10:56Z INFO [api] vin=2GBBM81HTT5PV8NHJ event written
+2026-10-27T09:10:57Z INFO [ingest] vin=1FAJSVTX2XX5URENJ GET /v1/vehicles/latest 200
+2026-10-27T09:11:00Z INFO [api] vin=1FA1Z4XJSUFSVBWP9 event written
+2026-10-27T09:11:09Z INFO [consumer] vin=3HCSGZ3KSLM3BMY3S GET /v1/vehicles/latest 200
+2026-10-27T09:11:09Z INFO [ingest] vin=2GB7ZZLTFVB1DLPRR heartbeat accepted
+2026-10-27T09:11:09Z INFO [consumer] vin=2GB4H6DWMHAJAL8ZT heartbeat accepted
+2026-10-27T09:11:16Z INFO [consumer] vin=1FANYR7Z9WLMVG7JT GET /v1/vehicles/latest 200
+2026-10-27T09:11:25Z INFO [ingest] vin=5YJSB1Z78Z9X1UMBX invoice line created
+2026-10-27T09:11:29Z INFO [ingest] vin=1FACX2UEPXP826KTJ event written
+2026-10-27T09:11:30Z INFO [api] vin=2GBXBPK2EWLS1Y1JF GET /v1/vehicles/latest 200
+2026-10-27T09:11:32Z WARN [consumer] vin=5YJ5XEWCHBYGLSMLY slow query 1200ms
+2026-10-27T09:11:40Z INFO [api] vin=3HC1U3TF7BDZRECBS invoice line created
+2026-10-27T09:11:42Z ERROR [api] duplicate key on insert
+2026-10-27T09:11:46Z ERROR [consumer] vin=3HCPYPT98TDF4UCAY duplicate key on insert
+2026-10-27T09:11:48Z INFO [ingest] heartbeat accepted
+2026-10-27T09:11:51Z ERROR [api] vin=3HCLD2WR4FGAP7EJR db connection refused
+2026-10-27T09:11:58Z INFO [ingest] heartbeat accepted
+2026-10-27T09:11:59Z WARN [ingest] vin=5YJ6TAHUYHV4L6AT9 retrying publish
+2026-10-27T09:12:01Z INFO [api] vin=2GBYZT7NSUWRWVP8X GET /v1/vehicles/latest 200
+2026-10-27T09:12:02Z INFO [api] vin=2GB7ZZLTFVB1DLPRR heartbeat accepted
+2026-10-27T09:12:02Z INFO [ingest] vin=2GBXBPK2EWLS1Y1JF invoice line created
+2026-10-27T09:12:09Z INFO [api] vin=1FA1M010M5CT56TRU heartbeat accepted
+2026-10-27T09:12:13Z WARN [consumer] vin=3HCNTJGCW5C0JFVX3 consumer lag 350
+2026-10-27T09:12:14Z INFO [api] vin=2GBM7SRWK6D33J1ST event written
+2026-10-27T09:12:16Z WARN [ingest] vin=1FAYG5G6AK3KE7TY2 slow query 1200ms
+2026-10-27T09:12:18Z ERROR [consumer] vin=1FA6BHL56A4NJWLUF timeout calling OEM API
+2026-10-27T09:12:18Z INFO [ingest] vin=3HC4GHP45R3Y623GX event written
+2026-10-27T09:12:20Z WARN [api] vin=3HCVVU9GJ3DUJJSKX retrying publish
+2026-10-27T09:12:23Z WARN [api] vin=5YJFYHC6DL428B14M slow query 1200ms
+2026-10-27T09:12:28Z INFO [ingest] vin=5YJNESGWHCZ40E9YA GET /v1/vehicles/latest 200
+2026-10-27T09:12:28Z INFO [ingest] vin=1FA6BHL56A4NJWLUF invoice line created
+2026-10-27T09:12:33Z INFO [billing] vin=3HCCD0VEF916C5NX7 event written
+2026-10-27T09:12:37Z WARN [ingest] vin=3HCCD0VEF916C5NX7 consumer lag 350
+2026-10-27T09:12:53Z ERROR [consumer] vin=3HCLD2WR4FGAP7EJR timeout calling OEM API
+2026-10-27T09:12:55Z INFO [api] vin=1FAAYNJYMXDBKKH0E GET /v1/vehicles/latest 200
+2026-10-27T09:12:57Z INFO [billing] vin=5YJ9838358LFBRVCU invoice line created
+2026-10-27T09:12:58Z WARN [ingest] vin=5YJGDV13SLXXNL896 odometer jump > 500 km
+2026-10-27T09:12:59Z INFO [consumer] vin=3HC0K7EFFF4G0JDYH invoice line created
+2026-10-27T09:13:00Z INFO [consumer] vin=3HCXST2JW6XEA6GEP GET /v1/vehicles/latest 200
+2026-10-27T09:13:04Z INFO [api] vin=3HCUVH12ZKVCVFZ5T event written
+2026-10-27T09:13:07Z INFO [consumer] vin=1FAG20Y0KN929CCCJ event written
+2026-10-27T09:13:08Z WARN [consumer] vin=3HCSDH6WL29WHV0RR consumer lag 350
+2026-10-27T09:13:09Z INFO [billing] vin=5YJJKEAL5ZPK35PFG heartbeat accepted
+2026-10-27T09:13:09Z ERROR [ingest] vin=2GBA2CMXRG8KYESZX timeout calling OEM API
+2026-10-27T09:13:12Z INFO [consumer] vin=3HCCD0VEF916C5NX7 event written
+2026-10-27T09:13:15Z ERROR [consumer] vin=1FA38S785BFVR2SW0 failed to parse message
+2026-10-27T09:13:19Z ERROR billing timeout calling OEM API
+2026-10-27T09:13:22Z ERROR [api] vin=3HCUZ92YBHTMTCG4Z duplicate key on insert
+2026-10-27T09:13:27Z INFO [ingest] vin=1FACX2UEPXP826KTJ heartbeat accepted
+2026-10-27T09:13:27Z INFO [billing] vin=2GBWFJXHSWHM0K913 event written
+2026-10-27T09:13:28Z WARN [ingest] vin=2GBB2BF4J6MDT1XP6 consumer lag 350
+2026-10-27T09:13:33Z INFO [ingest] vin=5YJZ4UDE209LBK5CJ invoice line created
+2026-10-27T09:13:34Z INFO [ingest] vin=2GB7ZZLTFVB1DLPRR invoice line created
+2026-10-27T09:13:35Z ERROR [consumer] vin=3HCZS3MF0E99B17C1 timeout calling OEM API
+2026-10-27T09:13:36Z INFO [ingest] vin=2GB81Z1G7RL5ECVBX GET /v1/vehicles/latest 200
+2026-10-27T09:13:46Z INFO [consumer] vin=2GBBM81HTT5PV8NHJ invoice line created
+2026-10-27T09:13:51Z INFO [ingest] vin=3HCH3WB7TRD7L1KSC event written
+2026-10-27T09:13:51Z INFO [consumer] vin=2GB7ZZLTFVB1DLPRR heartbeat accepted
+2026-10-27T09:13:54Z ERROR [ingest] vin=1FAL1LEFY7B4L4LDG failed to parse message
+2026-10-27T09:13:55Z INFO [consumer] vin=1FAR5ZB3D290S1F0R invoice line created
+2026-10-27T09:13:58Z INFO [ingest] vin=1FAM0XN6HT8X12HZZ invoice line created
+2026-10-27T09:14:00Z INFO [consumer] vin=1FALF84YGCRP7UCEU event written
+2026-10-27T09:14:09Z WARN [billing] slow query 1200ms
+2026-10-27T09:14:15Z ERROR [billing] vin=1FA6BHL56A4NJWLUF duplicate key on insert
+2026-10-27T09:14:18Z INFO [consumer] invoice line created
+2026-10-27T09:14:19Z ERROR [consumer] vin=5YJSB1Z78Z9X1UMBX db connection refused
+2026-10-27T09:14:22Z INFO [api] vin=1FAFRH6HK8V9U377S invoice line created
+2026-10-27T09:14:32Z INFO [ingest] vin=1FAL1LEFY7B4L4LDG heartbeat accepted
+2026-10-27T09:14:33Z WARN [consumer] vin=2GBGFZ3RD137S7WF2 consumer lag 350
+2026-10-27 INFO [billing] truncated
+2026-10-27T09:14:41Z INFO [consumer] vin=1FA6D0NU0692HBS08 invoice line created
+2026-10-27T09:14:43Z INFO [api] vin=3HCYKJCV7J75AFBTP invoice line created
+2026-10-27T09:14:52Z INFO [consumer] vin=5YJYKXXZ2J09GXS6H heartbeat accepted
+2026-10-27T09:14:54Z INFO [api] vin=5YJK3G83UC0P55S0G event written
+2026-10-27T09:15:02Z INFO [api] invoice line created
+2026-10-27T09:15:03Z INFO [billing] vin=5YJDS81HS8EA0XJ13 event written
+2026-10-27T09:15:04Z WARN [api] vin=3HCW2GA90VWG7EYUX odometer jump > 500 km
+2026-10-27T09:15:06Z WARN [api] vin=5YJJKEAL5ZPK35PFG consumer lag 350
+2026-10-27T09:15:12Z WARN [api] vin=5YJN9H1W3DKJNY36K consumer lag 350
+2026-10-27T09:15:12Z INFO [ingest] vin=3HCZEZSGYJCZYM67M GET /v1/vehicles/latest 200
+2026-10-27T09:15:20Z WARN [api] vin=3HCUZ92YBHTMTCG4Z odometer jump > 500 km
+2026-10-27T09:15:26Z INFO [consumer] vin=5YJSU8SU5EVSUYXFJ GET /v1/vehicles/latest 200
+2026-10-27T09:15:27Z ERROR [billing] duplicate key on insert
+2026-10-27T09:15:27Z WARN [consumer] vin=2GB9JEU3Y9UAVW8K5 retrying publish
+2026-10-27T09:15:27Z WARN [api] vin=1FAL1LEFY7B4L4LDG slow query 1200ms
+2026-10-27T09:15:32Z ERROR [api] vin=2GBKBCS7E63N182SK timeout calling OEM API
+2026-10-27T09:15:32Z ERROR [billing] vin=1FA3RXS3XUE0H9DMR db connection refused
+2026-10-27T09:15:36Z INFO [billing] vin=5YJ5HSREYBRRAEDRE invoice line created
+2026-10-27T09:15:42Z INFO [consumer] GET /v1/vehicles/latest 200
+2026-10-27T09:15:45Z INFO [billing] vin=5YJ2MM42BN541APPU event written
+2026-10-27T09:15:48Z WARN [api] vin=3HCTNUJWF9LKLYCBF consumer lag 350
+2026-10-27T09:15:50Z INFO [ingest] vin=5YJSB1Z78Z9X1UMBX event written
+2026-10-27T09:15:59Z INFO [api] vin=1FA6D0NU0692HBS08 heartbeat accepted
+2026-10-27T09:16:03Z INFO [consumer] vin=3HCUHBY4UETE8690D event written
+2026-10-27T09:16:18Z INFO [api] vin=2GBL377NVXVDFRCM3 heartbeat accepted
+2026-10-27T09:16:19Z INFO [consumer] vin=3HCM75UM48F7Z3YXG event written
+2026-10-27T09:16:21Z INFO [consumer] vin=2GBB006JFEW2733EJ heartbeat accepted
+2026-10-27T09:16:23Z INFO [api] vin=5YJT020C2DN0VE195 heartbeat accepted
+2026-10-27T09:16:25Z ERROR [ingest] vin=1FANH7SP2SXV16ZWT db connection refused
+2026-10-27T09:16:30Z WARN [api] vin=2GBX3K3P397DJPX71 retrying publish
+2026-10-27T09:16:36Z INFO [consumer] vin=1FA724G85EFXKEJUX GET /v1/vehicles/latest 200
+2026-10-27T09:16:47Z INFO [billing] vin=5YJDS81HS8EA0XJ13 event written
+2026-10-27T09:16:57Z INFO [ingest] vin=1FAGMJ7XSAT1S5UYW heartbeat accepted
+2026-10-27T09:16:57Z WARN [ingest] vin=2GBES0VL5WAWGJTHG consumer lag 350
+2026-10-27T09:16:58Z WARN [api] vin=3HC9BA7JMARTWU41Z consumer lag 350
+2026-10-27T09:16:59Z INFO [billing] vin=5YJNESGWHCZ40E9YA invoice line created
+2026-10-27T09:17:00Z INFO [consumer] vin=1FAAYNJYMXDBKKH0E event written
+2026-10-27T09:17:02Z INFO [api] invoice line created
+2026-10-27T09:17:03Z INFO [api] vin=5YJN9H1W3DKJNY36K GET /v1/vehicles/latest 200
+2026-10-27T09:17:16Z INFO [billing] invoice line created
+2026-10-27T09:17:17Z WARN [billing] vin=2GB001CK5005EJ02X slow query 1200ms
+2026-10-27T09:17:19Z WARN [ingest] vin=3HC3B8VW7S2W6EDL5 slow query 1200ms
+2026-10-27T09:17:22Z ERROR [billing] vin=3HC0K7EFFF4G0JDYH db connection refused
+2026-10-27T09:17:25Z INFO [billing] vin=5YJ31FSL1LJUWU8KE invoice line created
+2026-10-27T09:17:35Z INFO [billing] vin=3HCYKJCV7J75AFBTP event written
+2026-10-27T09:17:36Z INFO [ingest] vin=2GBWFJXHSWHM0K913 heartbeat accepted
+2026-10-27T09:17:36Z INFO [api] vin=3HCVGNVR0MWAJUCDV event written
+2026-10-27T09:17:36Z INFO [api] event written
+2026-10-27T09:17:40Z WARN [api] vin=2GBKEVG9CYJ1KLML5 retrying publish
+2026-10-27T09:17:40Z ERROR [billing] vin=1FA085DPUJV58HBSL duplicate key on insert
+2026-10-27T09:17:40Z INFO [consumer] vin=1FAF4MVXGFXVW54L5 event written
+2026-10-27T09:17:42Z WARN [api] odometer jump > 500 km
+2026-10-27T09:17:43Z ERROR [billing] duplicate key on insert
+2026-10-27T09:17:48Z INFO [api] vin=2GBB006JFEW2733EJ event written
+2026-10-27T09:17:56Z INFO [billing] vin=3HCSGZ3KSLM3BMY3S GET /v1/vehicles/latest 200
+2026-10-27T09:18:05Z INFO [billing] vin=5YJYWXJL48XMZRM1W event written
+2026-10-27T09:18:17Z WARN [billing] vin=3HCUNH6FPBDYSJPEP slow query 1200ms
+2026-10-27T09:18:18Z INFO [billing] vin=2GBXZBZKN8WM8CFDR event written
+2026-10-27T09:18:21Z ERROR [consumer] vin=2GBDAPWPJTVXHA84M db connection refused
+2026-10-27T09:18:22Z ERROR [ingest] vin=3HC16XNS1R3CX711K failed to parse message
+2026-10-27T09:18:26Z INFO [ingest] vin=3HC50FNDU1CENP7PY event written
+2026-10-27T09:18:29Z INFO [consumer] vin=1FAR5ZB3D290S1F0R GET /v1/vehicles/latest 200
+2026-10-27T09:18:37Z ERROR [consumer] vin=5YJSB1Z78Z9X1UMBX duplicate key on insert
+2026-10-27T09:18:46Z WARN [consumer] vin=5YJRTN4HRKUKEDLWV slow query 1200ms
+2026-10-27T09:18:46Z INFO [ingest] vin=2GBXBPK2EWLS1Y1JF invoice line created
+2026-10-27T09:18:48Z INFO [api] vin=3HC7NGBPLVF7HW278 event written
+2026-10-27T09:19:03Z INFO [api] vin=3HCUNH6FPBDYSJPEP heartbeat accepted
+2026-10-27T09:19:09Z ERROR [billing] vin=3HCHYL6TMAYVNM249 failed to parse message
+2026-10-27T09:19:11Z WARN [billing] vin=2GBFF8EJJ7LT4PNW2 retrying publish
+2026-10-27T09:19:13Z INFO [ingest] vin=2GBT6TA6VLE5ZW4T6 invoice line created
+2026-10-27T09:19:15Z INFO [ingest] vin=1FA085DPUJV58HBSL heartbeat accepted
+2026-10-27T09:19:18Z INFO [ingest] vin=5YJSB1Z78Z9X1UMBX GET /v1/vehicles/latest 200
+2026-10-27T09:19:18Z ERROR [api] vin=3HCK41E57293C0FGS timeout calling OEM API
+2026-10-27T09:19:34Z INFO [ingest] vin=3HCK41E57293C0FGS GET /v1/vehicles/latest 200
+2026-10-27T09:19:36Z INFO [api] vin=3HCKR3WUDM48DZ1X3 event written
+2026-10-27T09:19:45Z INFO [api] vin=1FA085DPUJV58HBSL event written
+2026-10-27T09:19:46Z INFO [ingest] vin=5YJYWXJL48XMZRM1W event written
+2026-10-27T09:19:47Z INFO [billing] vin=1FAAYNJYMXDBKKH0E GET /v1/vehicles/latest 200
+2026-10-27T09:19:48Z INFO [ingest] GET /v1/vehicles/latest 200
+2026-10-27T09:19:48Z INFO [consumer] vin=1FA3RXS3XUE0H9DMR heartbeat accepted
+2026-10-27T09:19:49Z INFO [ingest] vin=2GBB006JFEW2733EJ heartbeat accepted
+2026-10-27T09:19:52Z INFO [ingest] vin=3HC689HHU0C5P4GSW event written
+2026-10-27T09:19:53Z WARN [ingest] vin=3HC4GHP45R3Y623GX slow query 1200ms
+2026-10-27T09:19:56Z INFO [ingest] vin=2GBDAPWPJTVXHA84M invoice line created
+2026-10-27T09:19:56Z INFO [ingest] vin=3HC6H1FV0NECRVFRG event written
+2026-10-27T09:19:57Z ERROR [billing] db connection refused
+2026-10-27T09:20:01Z INFO [api] vin=1FAW2U985FC4XTBFR GET /v1/vehicles/latest 200
+2026-10-27T09:20:03Z INFO [api] vin=5YJJKEAL5ZPK35PFG event written
+2026-10-27T09:20:04Z WARN [consumer] vin=1FAL1LEFY7B4L4LDG consumer lag 350
+2026-10-27T09:20:05Z WARN [ingest] slow query 1200ms
+2026-10-27T09:20:13Z WARN [billing] vin=2GBKPE33Y63DP31B1 odometer jump > 500 km
+2026-10-27T09:20:14Z INFO [billing] GET /v1/vehicles/latest 200
+2026-10-27T09:20:22Z INFO [api] vin=2GBEBEATPCD29V934 heartbeat accepted
+2026-10-27T09:20:26Z INFO [consumer] vin=1FAM0XN6HT8X12HZZ GET /v1/vehicles/latest 200
+2026-10-27T09:20:28Z ERROR [ingest] timeout calling OEM API
+2026-10-27T09:20:29Z ERROR [billing] vin=1FAY5ATPSEZTGAD15 failed to parse message
+2026-10-27T09:20:32Z WARN [ingest] vin=1FACX2UEPXP826KTJ slow query 1200ms
+2026-10-27T09:20:34Z INFO [consumer] vin=2GBTGHR9ACASC701K GET /v1/vehicles/latest 200
+2026-10-27T09:20:37Z WARN [ingest] consumer lag 350
+2026-10-27T09:20:41Z ERROR [api] vin=5YJ9838358LFBRVCU failed to parse message
+2026-10-27T09:20:42Z INFO [api] vin=5YJ9838358LFBRVCU GET /v1/vehicles/latest 200
+2026-10-27T09:20:48Z INFO [api] vin=1FARM6DSH6J6X5945 invoice line created
+2026-10-27T09:20:51Z WARN [api] vin=5YJDS81HS8EA0XJ13 odometer jump > 500 km
+2026-10-27T09:20:54Z INFO [api] vin=1FANYR7Z9WLMVG7JT invoice line created
+2026-10-27T09:20:55Z INFO [consumer] vin=1FAG20Y0KN929CCCJ invoice line created
+2026-10-27T09:21:08Z INFO [api] vin=1FACX2UEPXP826KTJ GET /v1/vehicles/latest 200
+2026-10-27T09:21:09Z INFO [billing] vin=2GB301511FJZHM2JR GET /v1/vehicles/latest 200
+2026-10-27T09:21:09Z WARN [consumer] slow query 1200ms
+2026-10-27T09:21:12Z INFO [api] vin=3HC689HHU0C5P4GSW heartbeat accepted
+2026-10-27T09:21:16Z INFO [consumer] vin=3HC0K7EFFF4G0JDYH invoice line created
+2026-10-27T09:21:19Z WARN [consumer] slow query 1200ms
+2026-10-27T09:21:19Z WARN [api] vin=1FA2XU6A3H3KKGGGV retrying publish
+2026-10-27T09:21:26Z ERROR [billing] vin=2GBXZBZKN8WM8CFDR timeout calling OEM API
+2026-10-27T09:21:34Z ERROR [api] vin=2GBM7SRWK6D33J1ST duplicate key on insert
+2026-10-27T09:21:36Z INFO [consumer] vin=1FA724G85EFXKEJUX event written
+2026-10-27T09:21:40Z INFO [api] vin=2GBES0VL5WAWGJTHG invoice line created
+2026-10-27T09:21:45Z INFO [consumer] vin=3HCVVU9GJ3DUJJSKX heartbeat accepted
+2026-10-27T09:21:47Z INFO [api] vin=2GB7ZZLTFVB1DLPRR event written
+2026-10-27T09:21:50Z INFO [ingest] invoice line created
+2026-10-27T09:21:53Z INFO [api] vin=5YJ1T6V48KNVPDDXD invoice line created
+2026-10-27T09:21:58Z INFO [api] vin=1FA724G85EFXKEJUX invoice line created
+2026-10-27T09:22:00Z INFO [api] vin=3HC50FNDU1CENP7PY GET /v1/vehicles/latest 200
+2026-10-27T09:22:01Z ERROR [consumer] vin=1FA6D0NU0692HBS08 failed to parse message
+2026-10-27T09:22:03Z INFO [billing] vin=2GBXBPK2EWLS1Y1JF GET /v1/vehicles/latest 200
+2026-10-27T09:22:04Z INFO [billing] vin=1FAZJMJ49DHKWLLXR heartbeat accepted
+2026-10-27T09:22:06Z INFO [api] invoice line created
+2026-10-27T09:22:07Z INFO [api] vin=5YJ31FSL1LJUWU8KE GET /v1/vehicles/latest 200
+2026-10-27T09:22:12Z INFO [api] vin=5YJ9838358LFBRVCU heartbeat accepted
+2026-10-27T09:22:16Z ERROR [consumer] vin=3HC4BUBMUWYZAMK2E timeout calling OEM API
+2026-10-27T09:22:20Z INFO [api] vin=1FAUD7ZRLGSSUDR1Z GET /v1/vehicles/latest 200
+2026-10-27T09:22:23Z ERROR [api] vin=1FAP136YL0WXFDKLD duplicate key on insert
+2026-10-27T09:22:24Z INFO [consumer] vin=1FANYR7Z9WLMVG7JT event written
+2026-10-27T09:22:25Z WARN [billing] vin=1FAATH60T10GR7BXR odometer jump > 500 km
+2026-10-27T09:22:27Z INFO [ingest] vin=3HC54AHEKC0K4JCW0 invoice line created
+2026-10-27T09:22:30Z INFO [consumer] vin=5YJVSWHDS36EH8B9S GET /v1/vehicles/latest 200
+2026-10-27T09:22:31Z INFO [billing] vin=2GBWFJXHSWHM0K913 heartbeat accepted
+2026-10-27T09:22:36Z WARN [ingest] vin=3HCFRZRW3Y0TV6H7D odometer jump > 500 km
+2026-10-27T09:22:41Z INFO [api] vin=2GBL377NVXVDFRCM3 GET /v1/vehicles/latest 200
+2026-10-27T09:22:41Z ERROR [consumer] vin=3HC2F026SRWFCF211 db connection refused
+2026-10-27T09:22:42Z INFO [api] vin=3HC420RJ98FDHKL4E GET /v1/vehicles/latest 200
+2026-10-27T09:22:43Z INFO [api] GET /v1/vehicles/latest 200
+2026-10-27T09:22:51Z INFO [ingest] vin=1FA641RS6ZKUNHC3B invoice line created
+2026-10-27T09:22:59Z ERROR [consumer] vin=1FALF84YGCRP7UCEU timeout calling OEM API
+2026-10-27T09:23:06Z WARN [billing] vin=2GB1YB8XM8PZTYUUA consumer lag 350
+2026-10-27T09:23:07Z INFO [billing] vin=3HC54AHEKC0K4JCW0 event written
+2026-10-27T09:23:20Z INFO [ingest] vin=5YJ7XP0X3CRKBT3VK GET /v1/vehicles/latest 200
+2026-10-27T09:23:21Z INFO [ingest] vin=5YJYWXJL48XMZRM1W heartbeat accepted
+2026-10-27T09:23:21Z INFO [ingest] vin=2GB09ULT7VYH6EKR2 event written
+2026-10-27T09:23:34Z ERROR [api] vin=1FA2XU6A3H3KKGGGV failed to parse message
+2026-10-27T09:23:34Z INFO [ingest] vin=2GB9JEU3Y9UAVW8K5 invoice line created
+2026-10-27T09:23:35Z ERROR [consumer] vin=3HC0L0ZPUELSL61UR timeout calling OEM API
+2026-10-27T09:23:37Z ERROR [api] vin=5YJUGJFM4593GBFZF failed to parse message
+2026-10-27T09:23:53Z INFO [api] vin=1FAP136YL0WXFDKLD GET /v1/vehicles/latest 200
+2026-10-27T09:23:54Z INFO [ingest] vin=2GBG1C7RN6ZWRRBN2 heartbeat accepted
+2026-10-27T09:23:55Z INFO [ingest] vin=2GB56X3HZP5W6THFL event written
+2026-10-27T09:24:01Z INFO [billing] vin=3HCYZ6UWTRHNXHMNP event written
+2026-10-27T09:24:04Z ERROR [billing] vin=3HCW2GA90VWG7EYUX timeout calling OEM API
+2026-10-27T09:24:06Z INFO [ingest] vin=3HCUZ92YBHTMTCG4Z event written
+2026-10-27T09:24:19Z INFO [api] vin=1FAR5ZB3D290S1F0R event written
+2026-10-27T09:24:21Z WARN [consumer] vin=5YJ9838358LFBRVCU slow query 1200ms
+2026-10-27T09:24:23Z WARN [ingest] vin=3HCVGNVR0MWAJUCDV retrying publish
+2026-10-27T09:24:25Z WARN [ingest] vin=2GBB006JFEW2733EJ consumer lag 350
+2026-10-27T09:24:33Z INFO [billing] vin=2GBBM81HTT5PV8NHJ invoice line created
+2026-10-27T09:24:40Z WARN [billing] vin=2GB9JEU3Y9UAVW8K5 retrying publish
+2026-10-27T09:24:41Z INFO [consumer] vin=5YJ2MM42BN541APPU GET /v1/vehicles/latest 200
+2026-10-27T09:24:54Z INFO [billing] vin=5YJAV775YMDT7HE28 heartbeat accepted
+2026-10-27T09:24:58Z ERROR [consumer] vin=3HCE9H9NZZKSGKTNM failed to parse message
+2026-10-27T09:24:59Z INFO [billing] vin=1FAP136YL0WXFDKLD GET /v1/vehicles/latest 200
+2026-10-27T09:25:00Z INFO [billing] vin=5YJDS81HS8EA0XJ13 heartbeat accepted
+2026-10-27T09:25:03Z INFO [consumer] vin=3HCTNUJWF9LKLYCBF GET /v1/vehicles/latest 200
+2026-10-27T09:25:05Z INFO [billing] vin=1FASJ7HP6T0LHLWGB event written
+2026-10-27T09:25:09Z INFO [billing] vin=3HCKR3WUDM48DZ1X3 heartbeat accepted
+2026-10-27T09:25:20Z INFO [api] vin=1FAY5ATPSEZTGAD15 event written
+2026-10-27T09:25:25Z ERROR [consumer] vin=1FAF4MVXGFXVW54L5 duplicate key on insert
+2026-10-27T09:25:33Z INFO [ingest] event written
+2026-10-27T09:25:33Z INFO [billing] vin=2GB1YB8XM8PZTYUUA invoice line created
+2026-10-27T09:25:39Z INFO [consumer] vin=1FAP136YL0WXFDKLD event written
+2026-10-27T09:25:40Z INFO [ingest] vin=2GBF8YMXDA5UPLL8F GET /v1/vehicles/latest 200
+2026-10-27T09:25:40Z INFO [billing] vin=5YJT020C2DN0VE195 heartbeat accepted
+2026-10-27T09:25:44Z INFO [consumer] vin=3HC2TAPEC4ZEDE7CV heartbeat accepted
+2026-10-27T09:25:49Z ERROR [billing] vin=5YJ9H1NTC4AN04EYX duplicate key on insert
+2026-10-27T09:25:49Z INFO [consumer] vin=2GB9JEU3Y9UAVW8K5 heartbeat accepted
+2026-10-27T09:25:53Z INFO [ingest] vin=2GBXBPK2EWLS1Y1JF event written
+2026-10-27T09:25:53Z ERROR [billing] vin=5YJVSWHDS36EH8B9S db connection refused
+2026-10-27T09:26:08Z ERROR [consumer] vin=5YJ31FSL1LJUWU8KE failed to parse message
+2026-10-27T09:26:10Z INFO [api] vin=2GBKPE33Y63DP31B1 GET /v1/vehicles/latest 200
+2026-10-27T09:26:12Z INFO [api] vin=3HC2TAPEC4ZEDE7CV heartbeat accepted
+2026-10-27T09:26:13Z ERROR [consumer] vin=3HCK41E57293C0FGS timeout calling OEM API
+2026-10-27T09:26:18Z WARN [api] vin=1FA28MVCAWGYV68J9 slow query 1200ms
+2026-10-27T09:26:18Z INFO [ingest] vin=3HCHYL6TMAYVNM249 invoice line created
+2026-10-27T09:26:19Z INFO [ingest] vin=3HC3X2VJN31MW2AWV heartbeat accepted
+2026-10-27T09:26:25Z ERROR [consumer] vin=1FAAYNJYMXDBKKH0E db connection refused
+2026-10-27T09:26:29Z WARN [api] odometer jump > 500 km
+2026-10-27T09:26:30Z INFO [api] vin=5YJ6TAHUYHV4L6AT9 heartbeat accepted
+2026-10-27T09:26:34Z INFO [api] vin=1FASJ7HP6T0LHLWGB event written
+2026-10-27T09:26:35Z INFO [api] invoice line created
+2026-10-27T09:26:35Z INFO [ingest] vin=1FAAYNJYMXDBKKH0E heartbeat accepted
+2026-10-27T09:26:36Z INFO [consumer] vin=1FAVSEFUK1K1X0GFA invoice line created
+2026-10-27T09:26:40Z INFO [billing] vin=2GBB006JFEW2733EJ event written
+2026-10-27T09:26:48Z INFO [ingest] vin=3HC50FNDU1CENP7PY invoice line created
+2026-10-27T09:26:55Z ERROR [consumer] vin=5YJY5Y4JWXN7XM2XV timeout calling OEM API
+2026-10-27T09:26:55Z INFO [ingest] vin=3HC5HP8F95D6J936D event written
+2026-10-27T09:26:56Z INFO [api] vin=2GBXZBZKN8WM8CFDR event written
+2026-10-27T09:27:12Z ERROR [api] vin=3HCCD0VEF916C5NX7 timeout calling OEM API
+2026-10-27T09:27:15Z INFO [billing] vin=5YJ2MM42BN541APPU GET /v1/vehicles/latest 200
+2026-10-27T09:27:16Z INFO [ingest] vin=1FAVSEFUK1K1X0GFA invoice line created
+2026-10-27T09:27:26Z INFO [ingest] vin=3HCVGNVR0MWAJUCDV invoice line created
+2026-10-27T09:27:33Z INFO [api] vin=3HCW2GA90VWG7EYUX invoice line created
+2026-10-27T09:27:37Z ERROR [consumer] timeout calling OEM API
+2026-10-27T09:27:38Z INFO [ingest] vin=5YJSU8SU5EVSUYXFJ invoice line created
+2026-10-27T09:27:42Z INFO [consumer] vin=5YJY5Y4JWXN7XM2XV invoice line created
+2026-10-27T09:27:44Z INFO [consumer] vin=3HCHYL6TMAYVNM249 heartbeat accepted
+2026-10-27T09:27:47Z INFO [api] vin=1FAWFSH3R155W4WDG invoice line created
+2026-10-27T09:27:48Z ERROR [billing] vin=1FAL1LEFY7B4L4LDG db connection refused
+2026-10-27T09:27:51Z WARN [consumer] vin=1FA641RS6ZKUNHC3B odometer jump > 500 km
+2026-10-27T09:27:54Z INFO [ingest] event written
+2026-10-27T09:27:57Z ERROR [consumer] vin=3HCVVU9GJ3DUJJSKX failed to parse message
+2026-10-27T09:27:58Z INFO [billing] vin=2GBFF8EJJ7LT4PNW2 GET /v1/vehicles/latest 200
+2026-10-27T09:28:00Z INFO [billing] vin=1FAUD7ZRLGSSUDR1Z invoice line created
+2026-10-27T09:28:03Z ERROR [ingest] vin=3HCHYL6TMAYVNM249 timeout calling OEM API
+2026-10-27T09:28:06Z INFO [consumer] vin=1FAATH60T10GR7BXR invoice line created
+2026-10-27T09:28:09Z INFO [consumer] vin=3HC4GHP45R3Y623GX heartbeat accepted
+2026-10-27T09:28:10Z INFO [consumer] vin=3HCSDH6WL29WHV0RR invoice line created
+2026-10-27T09:28:11Z ERROR [api] vin=1FA865XXK5E75WUDZ db connection refused
+2026-10-27T09:28:11Z INFO [consumer] vin=1FAYH4J7ER1FGGX0W heartbeat accepted
+2026-10-27T09:28:16Z INFO [ingest] vin=1FA6BHL56A4NJWLUF event written
+2026-10-27T09:28:19Z INFO [api] vin=1FAUD7ZRLGSSUDR1Z heartbeat accepted
+2026-10-27T09:28:19Z INFO [ingest] vin=3HCWWU8GRJW5XU3FN heartbeat accepted
+2026-10-27T09:28:24Z INFO [consumer] vin=1FAR5ZB3D290S1F0R GET /v1/vehicles/latest 200
+2026-10-27T09:28:30Z INFO [consumer] vin=3HC1U3TF7BDZRECBS event written
+2026-10-27T09:28:31Z INFO [consumer] vin=3HCXST2JW6XEA6GEP heartbeat accepted
+2026-10-27T09:28:31Z INFO [ingest] vin=2GBF8YMXDA5UPLL8F event written
+2026-10-27T09:28:33Z INFO [ingest] vin=2GBYZT7NSUWRWVP8X GET /v1/vehicles/latest 200
+2026-10-27T09:28:37Z ERROR [consumer] vin=3HCPYPT98TDF4UCAY db connection refused
+2026-10-27T09:28:38Z WARN [ingest] vin=1FALF84YGCRP7UCEU odometer jump > 500 km
+2026-10-27T09:28:41Z WARN [billing] vin=3HC0K7EFFF4G0JDYH consumer lag 350
+2026-10-27T09:28:41Z INFO [consumer] heartbeat accepted
+2026-10-27T09:28:46Z WARN [ingest] vin=3HCF296SPZDDV87VA retrying publish
+2026-10-27 INFO [consumer] truncated
+2026-10-27T09:28:58Z INFO [ingest] vin=1FA1YJF490B0WMPY8 GET /v1/vehicles/latest 200
+2026-10-27T09:29:04Z INFO [api] vin=3HCZS3MF0E99B17C1 GET /v1/vehicles/latest 200
+2026-10-27T09:29:15Z INFO [api] vin=3HCS8YT886LZLJ8MD invoice line created
+2026-10-27T09:29:16Z INFO [consumer] vin=1FAF4MVXGFXVW54L5 GET /v1/vehicles/latest 200
+2026-10-27T09:29:18Z ERROR [api] vin=1FAUD7ZRLGSSUDR1Z duplicate key on insert
+2026-10-27T09:29:20Z INFO [api] vin=2GBB006JFEW2733EJ GET /v1/vehicles/latest 200
+2026-10-27T09:29:28Z INFO [api] vin=3HCUZ92YBHTMTCG4Z heartbeat accepted
+2026-10-27T09:29:29Z WARN [ingest] slow query 1200ms
+2026-10-27T09:29:46Z INFO [api] GET /v1/vehicles/latest 200
+2026-10-27T09:29:55Z INFO [consumer] vin=1FALF84YGCRP7UCEU invoice line created
+2026-10-27T09:30:00Z WARN [ingest] vin=3HC3X2VJN31MW2AWV odometer jump > 500 km
+2026-10-27T09:30:05Z INFO [api] vin=1FAXKFSZ29DWTMB25 heartbeat accepted
+2026-10-27T09:30:07Z INFO [api] vin=3HC2TAPEC4ZEDE7CV heartbeat accepted
+2026-10-27T09:30:11Z ERROR [billing] duplicate key on insert
+2026-10-27T09:30:15Z INFO [ingest] vin=1FAW2U985FC4XTBFR GET /v1/vehicles/latest 200
+2026-10-27T09:30:22Z WARN [consumer] vin=5YJJKEAL5ZPK35PFG odometer jump > 500 km
+2026-10-27T09:30:25Z ERROR [billing] failed to parse message
+2026-10-27T09:30:30Z INFO [billing] GET /v1/vehicles/latest 200
+2026-10-27T09:30:30Z INFO [ingest] vin=5YJYKXXZ2J09GXS6H event written
+2026-10-27T09:30:31Z INFO [consumer] vin=3HCUVH12ZKVCVFZ5T event written
+2026-10-27T09:30:51Z ERROR [billing] vin=5YJUAL4YUKPYGF1GZ failed to parse message
+2026-10-27T09:30:51Z WARN [billing] vin=2GB7GS1ZVVB2UAD8V retrying publish
+2026-10-27T09:31:03Z INFO [billing] vin=1FAYG5G6AK3KE7TY2 event written
+2026-10-27T09:31:08Z INFO [ingest] vin=3HC4853UP9HZ4HV8W GET /v1/vehicles/latest 200
+2026-10-27T09:31:09Z INFO [consumer] vin=2GB81Z1G7RL5ECVBX event written
+2026-10-27T09:31:16Z INFO [billing] vin=2GBSKA3BRZAYA1WGP GET /v1/vehicles/latest 200
+2026-10-27T09:31:17Z INFO [api] vin=3HC1U3TF7BDZRECBS GET /v1/vehicles/latest 200
+2026-10-27T09:31:28Z ERROR [consumer] db connection refused
+2026-10-27T09:31:29Z INFO [ingest] GET /v1/vehicles/latest 200
+2026-10-27T09:31:39Z INFO [ingest] vin=3HC16XNS1R3CX711K heartbeat accepted
+2026-10-27T09:31:39Z INFO [api] vin=5YJF5HSPZ4LJPPDZU heartbeat accepted
+2026-10-27T09:31:40Z ERROR [consumer] vin=5YJK3G83UC0P55S0G timeout calling OEM API
+2026-10-27T09:31:44Z INFO [ingest] vin=3HCFRZRW3Y0TV6H7D invoice line created
+2026-10-27T09:31:45Z INFO [api] vin=3HCM75UM48F7Z3YXG event written
+2026-10-27T09:31:51Z INFO [ingest] vin=2GBB2BF4J6MDT1XP6 invoice line created
+2026-10-27T09:31:57Z ERROR [api] vin=1FAFRH6HK8V9U377S failed to parse message
+2026-10-27T09:32:00Z INFO [consumer] vin=5YJ037PSF50EHD9NK invoice line created
+2026-10-27T09:32:06Z INFO [ingest] vin=2GBB2BF4J6MDT1XP6 GET /v1/vehicles/latest 200
+2026-10-27T09:32:09Z WARN [api] retrying publish
+2026-10-27T09:32:10Z ERROR [api] vin=2GBDAPWPJTVXHA84M db connection refused
+2026-10-27T09:32:11Z ERROR [consumer] vin=3HCLD2WR4FGAP7EJR timeout calling OEM API
+2026-10-27T09:32:12Z ERROR [consumer] vin=1FA6D0NU0692HBS08 duplicate key on insert
+2026-10-27T09:32:13Z INFO [ingest] vin=5YJGDV13SLXXNL896 invoice line created
+2026-10-27T09:32:16Z INFO [billing] event written
+2026-10-27T09:32:17Z INFO [ingest] vin=3HC2F026SRWFCF211 heartbeat accepted
+2026-10-27T09:32:28Z ERROR [billing] vin=3HCF296SPZDDV87VA failed to parse message
+2026-10-27T09:32:34Z ERROR [consumer] vin=1FAW9NK0LAX8BH0WS db connection refused
+2026-10-27T09:32:37Z ERROR [ingest] vin=3HCKR3WUDM48DZ1X3 duplicate key on insert
+2026-10-27T09:32:38Z INFO [ingest] vin=5YJF5HSPZ4LJPPDZU heartbeat accepted
+2026-10-27T09:32:44Z INFO [billing] vin=1FAJSVTX2XX5URENJ invoice line created
+2026-10-27T09:32:50Z INFO [ingest] vin=2GBA2CMXRG8KYESZX heartbeat accepted
+2026-10-27T09:32:55Z INFO [consumer] invoice line created
+2026-10-27T09:32:57Z ERROR [consumer] vin=5YJRTN4HRKUKEDLWV failed to parse message
+2026-10-27T09:32:58Z INFO [api] vin=2GBKAUKJTMHBJAZSX event written
+2026-10-27T09:33:02Z INFO [consumer] vin=1FAM0XN6HT8X12HZZ GET /v1/vehicles/latest 200
+2026-10-27T09:33:06Z INFO [ingest] vin=2GBC5DSC25RPDJ9VR GET /v1/vehicles/latest 200
+2026-10-27T09:33:10Z WARN [ingest] odometer jump > 500 km
+2026-10-27T09:33:10Z INFO [ingest] vin=2GBM7SRWK6D33J1ST invoice line created
+2026-10-27T09:33:21Z INFO [consumer] vin=5YJDGD2YGSNN5J4MU GET /v1/vehicles/latest 200
+2026-10-27T09:33:21Z ERROR [billing] vin=5YJ6VWXF6A0NVWS60 timeout calling OEM API
+2026-10-27T09:33:34Z ERROR [consumer] vin=5YJ9838358LFBRVCU timeout calling OEM API
+2026-10-27T09:33:35Z WARN [ingest] vin=3HCW2GA90VWG7EYUX consumer lag 350
+2026-10-27T09:33:36Z ERROR [consumer] vin=5YJJKEAL5ZPK35PFG timeout calling OEM API
+2026-10-27T09:33:42Z INFO [billing] vin=5YJUGJFM4593GBFZF event written
+2026-10-27T09:33:44Z INFO [ingest] vin=3HC54AHEKC0K4JCW0 event written
+2026-10-27T09:33:57Z INFO [billing] vin=2GB09ULT7VYH6EKR2 GET /v1/vehicles/latest 200
+2026-10-27T09:34:10Z INFO [api] vin=3HC16XNS1R3CX711K event written
+2026-10-27T09:34:12Z WARN [api] vin=1FAG20Y0KN929CCCJ retrying publish
+2026-10-27T09:34:16Z INFO [ingest] vin=3HC4853UP9HZ4HV8W GET /v1/vehicles/latest 200
+2026-10-27T09:34:17Z INFO [api] vin=1FARM6DSH6J6X5945 heartbeat accepted
+2026-10-27T09:34:19Z WARN [consumer] vin=1FANH7SP2SXV16ZWT consumer lag 350
+2026-10-27T09:34:21Z INFO [consumer] vin=3HCE9H9NZZKSGKTNM GET /v1/vehicles/latest 200
+2026-10-27T09:34:22Z INFO [consumer] vin=5YJYWXJL48XMZRM1W GET /v1/vehicles/latest 200
+2026-10-27T09:34:23Z INFO [api] vin=1FAP136YL0WXFDKLD heartbeat accepted
+2026-10-27T09:34:27Z INFO [consumer] vin=5YJDGD2YGSNN5J4MU invoice line created
+2026-10-27T09:34:29Z INFO [api] GET /v1/vehicles/latest 200
+2026-10-27T09:34:40Z INFO [billing] vin=2GB3TVWSGD28KD0A4 event written
+2026-10-27T09:34:42Z INFO [ingest] vin=1FAR5ZB3D290S1F0R event written
+2026-10-27T09:34:46Z INFO [billing] vin=1FAJSVTX2XX5URENJ GET /v1/vehicles/latest 200
+2026-10-27T09:34:50Z WARN [billing] vin=5YJS5V5RSW7N056V1 consumer lag 350
+2026-10-27T09:34:54Z INFO [billing] GET /v1/vehicles/latest 200
+2026-10-27T09:34:57Z INFO [billing] vin=1FAZJMJ49DHKWLLXR heartbeat accepted
+2026-10-27T09:34:58Z INFO [ingest] invoice line created
+2026-10-27T09:35:04Z INFO [consumer] vin=3HCUHBY4UETE8690D event written
+2026-10-27T09:35:09Z INFO [consumer] GET /v1/vehicles/latest 200
+2026-10-27T09:35:09Z INFO [api] vin=5YJX655P97LFV9YFS heartbeat accepted
+2026-10-27T09:35:14Z INFO [api] vin=3HCM75UM48F7Z3YXG invoice line created
+2026-10-27T09:35:18Z INFO [api] vin=3HCYKJCV7J75AFBTP invoice line created
+2026-10-27T09:35:19Z INFO [api] vin=5YJ5HSREYBRRAEDRE GET /v1/vehicles/latest 200
+2026-10-27T09:35:19Z ERROR [billing] vin=5YJ6VWXF6A0NVWS60 failed to parse message
+2026-10-27T09:35:23Z ERROR [consumer] vin=3HCS8YT886LZLJ8MD timeout calling OEM API
+2026-10-27T09:35:23Z INFO [ingest] vin=1FA724G85EFXKEJUX GET /v1/vehicles/latest 200
+2026-10-27T09:35:26Z INFO [billing] vin=3HCHYL6TMAYVNM249 GET /v1/vehicles/latest 200
+2026-10-27T09:35:28Z INFO [api] vin=2GBTGHR9ACASC701K heartbeat accepted
+2026-10-27T09:35:30Z INFO [api] vin=5YJGDV13SLXXNL896 GET /v1/vehicles/latest 200
+2026-10-27T09:35:35Z INFO [ingest] heartbeat accepted
+2026-10-27T09:35:37Z INFO [ingest] vin=1FAKUFWF9PKX2EW4S event written
+2026-10-27T09:35:40Z INFO [api] vin=5YJ5XEWCHBYGLSMLY invoice line created
+2026-10-27T09:35:46Z INFO [ingest] heartbeat accepted
+2026-10-27T09:35:54Z INFO [ingest] vin=5YJY5Y4JWXN7XM2XV invoice line created
+2026-10-27T09:35:56Z INFO [api] vin=5YJ6TAHUYHV4L6AT9 heartbeat accepted
+2026-10-27T09:35:57Z INFO [api] vin=3HCXST2JW6XEA6GEP invoice line created
+2026-10-27T09:36:02Z INFO [consumer] vin=3HCF296SPZDDV87VA invoice line created
+2026-10-27T09:36:02Z INFO [api] vin=5YJW7E0TS8N6GJWA2 invoice line created
+2026-10-27T09:36:13Z INFO [ingest] vin=1FAUSRJGF4CBFPR9B invoice line created
+2026-10-27T09:36:18Z INFO [api] vin=3HC3B8VW7S2W6EDL5 invoice line created
+2026-10-27T09:36:19Z INFO [ingest] vin=3HC2TAPEC4ZEDE7CV invoice line created
+2026-10-27T09:36:19Z INFO [ingest] vin=2GBXZBZKN8WM8CFDR invoice line created
+2026-10-27T09:36:22Z ERROR [consumer] vin=2GBFF8EJJ7LT4PNW2 failed to parse message
+2026-10-27T09:36:31Z INFO [api] vin=3HCVVU9GJ3DUJJSKX event written
+2026-10-27T09:36:31Z INFO [ingest] vin=2GBG1C7RN6ZWRRBN2 heartbeat accepted
+2026-10-27T09:36:51Z INFO [api] vin=3HCW2GA90VWG7EYUX heartbeat accepted
+2026-10-27T09:37:01Z INFO [consumer] vin=5YJF5HSPZ4LJPPDZU GET /v1/vehicles/latest 200
+2026-10-27T09:37:02Z ERROR [consumer] vin=2GBES0VL5WAWGJTHG timeout calling OEM API
+2026-10-27T09:37:06Z WARN [consumer] vin=2GBE5GDAFSL387P2D retrying publish
+2026-10-27T09:37:07Z ERROR [api] vin=2GBXZBZKN8WM8CFDR failed to parse message
+2026-10-27T09:37:18Z INFO [consumer] GET /v1/vehicles/latest 200
+2026-10-27T09:37:27Z INFO [ingest] vin=5YJ31FSL1LJUWU8KE event written
+2026-10-27T09:37:29Z INFO [api] invoice line created
+2026-10-27T09:37:30Z ERROR [billing] vin=1FAATH60T10GR7BXR duplicate key on insert
+2026-10-27T09:37:38Z INFO [billing] vin=2GBU20HNMB6P5VE38 event written
+2026-10-27T09:37:42Z INFO [ingest] vin=3HC9BA7JMARTWU41Z heartbeat accepted
+2026-10-27T09:37:44Z INFO [ingest] vin=5YJS5V5RSW7N056V1 heartbeat accepted
+2026-10-27T09:37:45Z WARN [billing] vin=5YJVSWHDS36EH8B9S consumer lag 350
+2026-10-27T09:37:45Z INFO [api] vin=5YJX655P97LFV9YFS event written
+2026-10-27T09:37:50Z ERROR [billing] vin=1FA6BHL56A4NJWLUF failed to parse message
+2026-10-27T09:37:54Z INFO [billing] vin=3HC689HHU0C5P4GSW invoice line created
+2026-10-27T09:37:55Z INFO [ingest] invoice line created
+2026-10-27T09:37:59Z INFO [api] vin=5YJVSWHDS36EH8B9S event written
+2026-10-27T09:38:02Z ERROR [consumer] vin=3HCW2GA90VWG7EYUX duplicate key on insert
+2026-10-27T09:38:05Z INFO [consumer] vin=2GBXBPK2EWLS1Y1JF GET /v1/vehicles/latest 200
+2026-10-27T09:38:08Z INFO [api] vin=3HCF296SPZDDV87VA event written
+2026-10-27T09:38:09Z INFO [api] heartbeat accepted
+2026-10-27T09:38:15Z WARN [api] vin=5YJ9H1NTC4AN04EYX slow query 1200ms
+2026-10-27T09:38:20Z INFO [consumer] vin=2GB81Z1G7RL5ECVBX invoice line created
+2026-10-27T09:38:22Z INFO [consumer] event written
+2026-10-27T09:38:23Z INFO [api] vin=3HC7NGBPLVF7HW278 event written
+2026-10-27T09:38:24Z INFO [api] vin=2GBWFJXHSWHM0K913 event written
+2026-10-27T09:38:27Z INFO [consumer] vin=2GBT6TA6VLE5ZW4T6 invoice line created
+2026-10-27T09:38:37Z ERROR [consumer] vin=1FAW9NK0LAX8BH0WS timeout calling OEM API
+2026-10-27T09:38:41Z INFO [consumer] invoice line created
+2026-10-27T09:38:43Z INFO [api] vin=2GB380D9LEW92JBMN event written
+
+2026-10-27T09:39:10Z INFO [consumer] vin=3HC16XNS1R3CX711K event written
+2026-10-27T09:39:14Z INFO [consumer] vin=3HCZEZSGYJCZYM67M event written
+2026-10-27T09:39:17Z WARN [consumer] vin=3HCHYL6TMAYVNM249 slow query 1200ms
+2026-10-27T09:39:21Z INFO [consumer] vin=2GBC2Y4GAGTR9R502 invoice line created
+2026-10-27T09:39:22Z INFO [consumer] vin=3HCM75UM48F7Z3YXG event written
+2026-10-27T09:39:23Z INFO [billing] vin=1FAWFSH3R155W4WDG GET /v1/vehicles/latest 200
+2026-10-27T09:39:24Z WARN [api] vin=3HCVGNVR0MWAJUCDV retrying publish
+2026-10-27T09:39:30Z INFO [ingest] invoice line created
+2026-10-27T09:39:31Z WARN [billing] vin=1FA865XXK5E75WUDZ retrying publish
+2026-10-27T09:39:41Z INFO [consumer] vin=3HC3B8VW7S2W6EDL5 GET /v1/vehicles/latest 200
+2026-10-27T09:39:52Z INFO [consumer] vin=3HC5HP8F95D6J936D event written
+2026-10-27T09:39:58Z INFO [consumer] GET /v1/vehicles/latest 200
+2026-10-27T09:39:58Z INFO [billing] vin=3HCE9H9NZZKSGKTNM event written
+2026-10-27T09:40:03Z INFO [api] vin=1FAATH60T10GR7BXR event written
+2026-10-27T09:40:06Z ERROR [consumer] vin=1FAP136YL0WXFDKLD db connection refused
+2026-10-27T09:40:09Z WARN [ingest] vin=1FA3ABUVB94MGGKSN retrying publish
+2026-10-27T09:40:10Z WARN [ingest] vin=2GB09ULT7VYH6EKR2 retrying publish
+2026-10-27T09:40:12Z INFO [ingest] vin=1FA2XU6A3H3KKGGGV event written
+2026-10-27T09:40:13Z INFO [billing] vin=3HCYKJCV7J75AFBTP heartbeat accepted
+2026-10-27T09:40:22Z INFO [consumer] vin=1FA1YJF490B0WMPY8 event written
+2026-10-27T09:40:22Z INFO [ingest] vin=2GBC2Y4GAGTR9R502 event written
+2026-10-27T09:40:23Z INFO [consumer] vin=1FA6CVNCNCXW927TC event written
+2026-10-27T09:40:40Z INFO [api] vin=2GB5MLPNJC4F4NKTX GET /v1/vehicles/latest 200
+2026-10-27T09:40:41Z INFO [consumer] heartbeat accepted
+2026-10-27T09:40:45Z INFO [ingest] heartbeat accepted
+2026-10-27T09:40:57Z INFO [ingest] vin=5YJR9ZE2C4B6EX423 event written
+2026-10-27T09:40:59Z INFO [billing] vin=5YJUGJFM4593GBFZF event written
+2026-10-27T09:40:59Z INFO [consumer] heartbeat accepted
+2026-10-27T09:41:00Z WARN [billing] vin=1FAJSVTX2XX5URENJ odometer jump > 500 km
+2026-10-27T09:41:12Z ERROR [api] vin=3HCK41E57293C0FGS duplicate key on insert
+2026-10-27T09:41:19Z INFO [ingest] vin=5YJYWXJL48XMZRM1W heartbeat accepted
+2026-10-27T09:41:19Z INFO [consumer] vin=2GB001CK5005EJ02X invoice line created
+2026-10-27T09:41:20Z WARN [api] vin=5YJ5FXZEVWLM09RHN slow query 1200ms
+2026-10-27T09:41:21Z INFO [consumer] event written
+2026-10-27T09:41:26Z INFO [api] vin=1FA3RXS3XUE0H9DMR invoice line created
+2026-10-27T09:41:29Z INFO [billing] heartbeat accepted
+2026-10-27T09:41:32Z INFO [ingest] vin=1FADA3JREKAP960D7 event written
+2026-10-27T09:41:44Z ERROR [billing] db connection refused
+2026-10-27T09:41:45Z INFO [billing] vin=3HCXST2JW6XEA6GEP GET /v1/vehicles/latest 200
+2026-10-27T09:41:47Z WARN [api] vin=2GBC5DSC25RPDJ9VR slow query 1200ms
+2026-10-27T09:41:48Z INFO [billing] vin=5YJF5HSPZ4LJPPDZU event written
+2026-10-27T09:41:51Z INFO [consumer] vin=2GBDAPWPJTVXHA84M heartbeat accepted
+2026-10-27T09:41:57Z ERROR [ingest] vin=3HC3X2VJN31MW2AWV failed to parse message
+2026-10-27T09:42:02Z INFO [ingest] vin=1FAM0XN6HT8X12HZZ GET /v1/vehicles/latest 200
+2026-10-27T09:42:03Z INFO [ingest] vin=2GBFF8EJJ7LT4PNW2 invoice line created
+2026-10-27T09:42:04Z INFO [consumer] vin=3HCSU8PJ7S73NGG4Z GET /v1/vehicles/latest 200
+2026-10-27T09:42:07Z WARN [ingest] vin=2GBJTD70GHVFLU59K consumer lag 350
+2026-10-27T09:42:08Z INFO [api] vin=5YJY5Y4JWXN7XM2XV heartbeat accepted
+2026-10-27T09:42:09Z INFO [billing] vin=5YJUAL4YUKPYGF1GZ invoice line created
+2026-10-27T09:42:13Z INFO [api] vin=5YJYWXJL48XMZRM1W heartbeat accepted
+2026-10-27T09:42:15Z INFO [consumer] vin=1FANH7SP2SXV16ZWT heartbeat accepted
+2026-10-27T09:42:20Z INFO [ingest] heartbeat accepted
+2026-10-27T09:42:21Z INFO [billing] GET /v1/vehicles/latest 200
+2026-10-27T09:42:28Z INFO [ingest] vin=1FA085DPUJV58HBSL heartbeat accepted
+2026-10-27T09:42:36Z INFO [ingest] GET /v1/vehicles/latest 200
+2026-10-27T09:42:37Z INFO [api] vin=2GBF8YMXDA5UPLL8F invoice line created
+2026-10-27T09:42:40Z INFO [api] vin=5YJSB1Z78Z9X1UMBX GET /v1/vehicles/latest 200
+2026-10-27T09:42:44Z INFO [consumer] vin=2GBM7SRWK6D33J1ST heartbeat accepted
+2026-10-27T09:42:46Z INFO [ingest] vin=1FAJSVTX2XX5URENJ heartbeat accepted
+2026-10-27T09:42:51Z WARN [api] slow query 1200ms
+2026-10-27T09:42:53Z INFO [api] vin=3HCWNKSD2XJB8VT32 heartbeat accepted
+2026-10-27T09:42:53Z INFO [api] GET /v1/vehicles/latest 200
+2026-10-27T09:42:53Z INFO [ingest] vin=2GB1YB8XM8PZTYUUA invoice line created
+2026-10-27T09:42:54Z INFO [ingest] vin=3HC420RJ98FDHKL4E event written
+2026-10-27T09:42:58Z INFO [ingest] vin=3HC2TAPEC4ZEDE7CV GET /v1/vehicles/latest 200
+2026-10-27T09:43:00Z WARN [billing] retrying publish
+2026-10-27T09:43:02Z INFO [api] event written
+2026-10-27T09:43:12Z ERROR [consumer] duplicate key on insert
+2026-10-27T09:43:14Z INFO [ingest] vin=1FA6D0NU0692HBS08 invoice line created
+2026-10-27T09:43:17Z INFO [api] vin=5YJK3G83UC0P55S0G heartbeat accepted
+2026-10-27T09:43:18Z INFO [ingest] vin=3HC2F026SRWFCF211 GET /v1/vehicles/latest 200
+2026-10-27T09:43:20Z INFO [ingest] vin=1FA2XU6A3H3KKGGGV GET /v1/vehicles/latest 200
+2026-10-27T09:43:22Z INFO [api] vin=3HC3X2VJN31MW2AWV event written
+2026-10-27T09:43:23Z INFO [consumer] vin=1FANH7SP2SXV16ZWT invoice line created
+2026-10-27T09:43:24Z INFO [billing] GET /v1/vehicles/latest 200
+2026-10-27T09:43:30Z INFO [consumer] vin=1FAUD7ZRLGSSUDR1Z heartbeat accepted
+2026-10-27T09:43:31Z INFO [api] vin=2GBKBCS7E63N182SK invoice line created
+2026-10-27T09:43:32Z INFO [billing] vin=5YJ31FSL1LJUWU8KE GET /v1/vehicles/latest 200
+2026-10-27T09:43:33Z WARN [ingest] vin=3HC2F026SRWFCF211 consumer lag 350
+2026-10-27T09:43:41Z INFO [api] vin=3HC420RJ98FDHKL4E heartbeat accepted
+2026-10-27T09:43:46Z INFO [api] vin=1FA28MVCAWGYV68J9 heartbeat accepted
+2026-10-27T09:43:57Z INFO [consumer] vin=1FAJSVTX2XX5URENJ event written
+2026-10-27T09:43:57Z INFO [api] vin=1FADVZ04KS3MLMF1S heartbeat accepted
+2026-10-27T09:43:59Z WARN [consumer] vin=2GBA2CMXRG8KYESZX retrying publish
+2026-10-27T09:44:08Z INFO [billing] vin=5YJAV775YMDT7HE28 GET /v1/vehicles/latest 200
+2026-10-27T09:44:35Z INFO [consumer] vin=2GB56X3HZP5W6THFL heartbeat accepted
+2026-10-27T09:44:46Z INFO [api] vin=2GBKEVG9CYJ1KLML5 invoice line created
+2026-10-27T09:44:57Z INFO [ingest] heartbeat accepted
+2026-10-27T09:44:58Z INFO [billing] invoice line created
+2026-10-27T09:45:07Z INFO [consumer] vin=1FAYG5G6AK3KE7TY2 invoice line created
+2026-10-27T09:45:11Z ERROR [api] vin=3HCVVU9GJ3DUJJSKX failed to parse message
+2026-10-27T09:45:15Z INFO [api] vin=1FAATH60T10GR7BXR event written
+2026-10-27T09:45:21Z INFO [billing] vin=3HCW2GA90VWG7EYUX heartbeat accepted
+2026-10-27T09:45:26Z ERROR [api] vin=5YJK3G83UC0P55S0G db connection refused
+2026-10-27T09:45:27Z ERROR [billing] db connection refused
+2026-10-27T09:45:36Z ERROR [billing] vin=1FA641RS6ZKUNHC3B timeout calling OEM API
+2026-10-27T09:45:42Z WARN [api] vin=5YJK9JXXL2WY998W7 slow query 1200ms
+2026-10-27T09:45:42Z INFO [billing] vin=2GBKPE33Y63DP31B1 event written
+2026-10-27T09:45:43Z INFO [api] vin=3HC6H1FV0NECRVFRG event written
+2026-10-27T09:45:50Z ERROR [consumer] vin=1FAR5ZB3D290S1F0R failed to parse message
+2026-10-27T09:45:51Z INFO [billing] vin=1FA1M010M5CT56TRU GET /v1/vehicles/latest 200
+2026-10-27T09:45:55Z ERROR [consumer] vin=5YJS5V5RSW7N056V1 timeout calling OEM API
+2026-10-27T09:46:01Z INFO [ingest] vin=2GBJ3HE7509G59RCW heartbeat accepted
+2026-10-27T09:46:07Z INFO [consumer] vin=3HC6H1FV0NECRVFRG heartbeat accepted
+2026-10-27T09:46:07Z INFO [api] vin=5YJAV775YMDT7HE28 invoice line created
+2026-10-27T09:46:08Z WARN [api] vin=5YJK3G83UC0P55S0G slow query 1200ms
+2026-10-27T09:46:11Z INFO [ingest] event written
+2026-10-27T09:46:16Z ERROR [billing] vin=3HCM75UM48F7Z3YXG db connection refused
+2026-10-27T09:46:19Z WARN [consumer] vin=3HCSU8PJ7S73NGG4Z retrying publish
+2026-10-27T09:46:21Z ERROR [ingest] db connection refused
+2026-10-27T09:46:21Z INFO [billing] heartbeat accepted
+2026-10-27T09:46:25Z ERROR [consumer] vin=2GBB2BF4J6MDT1XP6 db connection refused
+2026-10-27T09:46:25Z ERROR [billing] failed to parse message
+2026-10-27T09:46:30Z INFO [ingest] vin=5YJ8ML8VJMX5DZA8J invoice line created
+2026-10-27T09:46:39Z INFO [api] vin=5YJW7E0TS8N6GJWA2 GET /v1/vehicles/latest 200
+2026-10-27T09:46:43Z WARN [ingest] vin=1FAZJMJ49DHKWLLXR retrying publish
+2026-10-27T09:46:45Z INFO [api] vin=3HCH3WB7TRD7L1KSC GET /v1/vehicles/latest 200
+2026-10-27T09:46:46Z INFO [consumer] vin=3HCSDH6WL29WHV0RR invoice line created
+2026-10-27T09:46:47Z INFO [billing] vin=1FA2XU6A3H3KKGGGV invoice line created
+2026-10-27T09:46:47Z INFO [ingest] vin=1FAREY2XBU58RZ14M invoice line created
+2026-10-27T09:46:47Z ERROR [billing] duplicate key on insert
+2026-10-27T09:46:48Z INFO [consumer] vin=3HCSGZ3KSLM3BMY3S GET /v1/vehicles/latest 200
+2026-10-27T09:46:51Z INFO [billing] event written
+2026-10-27T09:46:55Z INFO [api] vin=1FAF4MVXGFXVW54L5 GET /v1/vehicles/latest 200
+2026-10-27T09:46:55Z INFO [ingest] vin=1FA1YJF490B0WMPY8 heartbeat accepted
+2026-10-27T09:47:03Z INFO [consumer] vin=2GBG1C7RN6ZWRRBN2 event written
+2026-10-27T09:47:14Z INFO [api] vin=1FACX2UEPXP826KTJ event written
+2026-10-27T09:47:15Z INFO [api] vin=3HC3B8VW7S2W6EDL5 invoice line created
+2026-10-27T09:47:26Z ERROR [api] vin=2GBFLSMELA357VCRV db connection refused
+2026-10-27T09:47:26Z WARN [ingest] vin=5YJX655P97LFV9YFS slow query 1200ms
+2026-10-27T09:47:27Z INFO [consumer] vin=3HC5HP8F95D6J936D event written
+2026-10-27T09:47:29Z WARN [consumer] vin=2GB4H6DWMHAJAL8ZT retrying publish
+2026-10-27T09:47:33Z ERROR [ingest] timeout calling OEM API
+2026-10-27T09:47:36Z INFO [ingest] vin=5YJ7XP0X3CRKBT3VK GET /v1/vehicles/latest 200
+2026-10-27T09:47:38Z INFO [api] vin=3HCH3WB7TRD7L1KSC GET /v1/vehicles/latest 200
+2026-10-27T09:47:40Z INFO [ingest] GET /v1/vehicles/latest 200
+2026-10-27T09:47:40Z ERROR [ingest] timeout calling OEM API
+2026-10-27T09:47:45Z INFO [consumer] vin=3HC2F026SRWFCF211 event written
+2026-10-27T09:47:47Z INFO [api] vin=5YJ06K4MU764UXSFU event written
+2026-10-27T09:47:59Z INFO [ingest] vin=5YJ6TAHUYHV4L6AT9 GET /v1/vehicles/latest 200
+2026-10-27T09:48:05Z INFO [api] vin=2GB380D9LEW92JBMN heartbeat accepted
+2026-10-27T09:48:11Z INFO [api] vin=1FAYH4J7ER1FGGX0W heartbeat accepted
+2026-10-27T09:48:11Z ERROR [billing] vin=3HCCD0VEF916C5NX7 duplicate key on insert
+2026-10-27T09:48:17Z INFO [consumer] vin=3HC2F026SRWFCF211 event written
+2026-10-27T09:48:23Z WARN [api] vin=1FA1YJF490B0WMPY8 odometer jump > 500 km
+2026-10-27T09:48:24Z INFO [api] vin=3HC3X2VJN31MW2AWV event written
+2026-10-27T09:48:35Z INFO [ingest] GET /v1/vehicles/latest 200
+2026-10-27T09:48:40Z ERROR [consumer] vin=5YJW3HJCCW8HGSJ16 timeout calling OEM API
+2026-10-27T09:48:58Z INFO [billing] vin=3HCUZ92YBHTMTCG4Z GET /v1/vehicles/latest 200
+2026-10-27T09:49:03Z WARN [consumer] vin=2GBJ3HE7509G59RCW consumer lag 350
+2026-10-27T09:49:04Z INFO [api] vin=2GB09ULT7VYH6EKR2 event written
+2026-10-27T09:49:18Z INFO [consumer] vin=5YJ7XP0X3CRKBT3VK event written
+2026-10-27T09:49:21Z INFO [billing] vin=3HCUVH12ZKVCVFZ5T invoice line created
+2026-10-27T09:49:21Z ERROR [consumer] vin=1FA2XU6A3H3KKGGGV timeout calling OEM API
+2026-10-27T09:49:23Z INFO [consumer] vin=5YJ06K4MU764UXSFU invoice line created
+2026-10-27T09:49:24Z INFO [ingest] vin=1FAGMJ7XSAT1S5UYW GET /v1/vehicles/latest 200
+2026-10-27T09:49:27Z INFO [consumer] vin=5YJZE2P4P8UXVYJ8Y event written
+2026-10-27T09:49:31Z INFO [api] vin=3HC3B8VW7S2W6EDL5 invoice line created
+2026-10-27 ERROR [consumer] truncated
+2026-10-27T09:49:37Z ERROR [consumer] vin=5YJ1T6V48KNVPDDXD duplicate key on insert
+2026-10-27T09:49:39Z ERROR billing timeout calling OEM API
+2026-10-27T09:49:39Z INFO [billing] vin=1FAUSRJGF4CBFPR9B event written
+2026-10-27T09:49:42Z INFO [ingest] vin=1FAW9NK0LAX8BH0WS GET /v1/vehicles/latest 200
+2026-10-27T09:49:44Z INFO [consumer] vin=2GBBM81HTT5PV8NHJ heartbeat accepted
+2026-10-27T09:49:47Z WARN [ingest] vin=1FAZJMJ49DHKWLLXR odometer jump > 500 km
+2026-10-27T09:49:47Z INFO [consumer] vin=1FA641RS6ZKUNHC3B invoice line created
+2026-10-27T09:50:02Z INFO [api] vin=1FA2XU6A3H3KKGGGV GET /v1/vehicles/latest 200
+2026-10-27T09:50:03Z INFO [ingest] vin=1FAW2U985FC4XTBFR heartbeat accepted
+
+2026-10-27T09:50:04Z INFO [billing] vin=1FAW2U985FC4XTBFR GET /v1/vehicles/latest 200
+2026-10-27T09:50:05Z WARN [ingest] slow query 1200ms
+2026-10-27T09:50:08Z INFO [consumer] heartbeat accepted
+2026-10-27T09:50:08Z INFO [consumer] vin=3HC16XNS1R3CX711K heartbeat accepted
+2026-10-27T09:50:09Z INFO [api] vin=3HC16XNS1R3CX711K event written
+2026-10-27T09:50:12Z ERROR [billing] vin=2GBB006JFEW2733EJ failed to parse message
+2026-10-27T09:50:12Z WARN [api] vin=1FAW2U985FC4XTBFR slow query 1200ms
+2026-10-27T09:50:14Z WARN [ingest] vin=2GB3TVWSGD28KD0A4 odometer jump > 500 km
+2026-10-27T09:50:23Z WARN [ingest] vin=3HC689HHU0C5P4GSW consumer lag 350
+2026-10-27T09:50:28Z INFO [consumer] vin=1FADA3JREKAP960D7 invoice line created
+2026-10-27T09:50:33Z ERROR [consumer] vin=1FA6CVNCNCXW927TC db connection refused
+2026-10-27T09:50:35Z WARN [ingest] vin=5YJFYHC6DL428B14M slow query 1200ms
+2026-10-27T09:50:37Z INFO [consumer] vin=1FACX2UEPXP826KTJ event written
+2026-10-27T09:50:45Z ERROR [consumer] vin=1FAUD7ZRLGSSUDR1Z duplicate key on insert
+2026-10-27T09:50:47Z INFO [billing] vin=3HC0L0ZPUELSL61UR invoice line created
+2026-10-27T09:50:48Z INFO [consumer] vin=5YJ87CMU2K2C2YSD7 GET /v1/vehicles/latest 200
+2026-10-27T09:50:48Z INFO [ingest] vin=3HCSDH6WL29WHV0RR GET /v1/vehicles/latest 200
+2026-10-27T09:50:57Z INFO [api] GET /v1/vehicles/latest 200
+2026-10-27T09:51:00Z INFO [ingest] vin=1FAYEYG1VTKYFKZW2 GET /v1/vehicles/latest 200
+2026-10-27T09:51:01Z ERROR [consumer] vin=5YJN9H1W3DKJNY36K timeout calling OEM API
+2026-10-27T09:51:08Z INFO [billing] vin=3HCWWU8GRJW5XU3FN event written
+2026-10-27T09:51:12Z ERROR [consumer] vin=3HC4BUBMUWYZAMK2E failed to parse message
+2026-10-27T09:51:13Z INFO [api] event written
+2026-10-27T09:51:14Z INFO [api] vin=3HCW2GA90VWG7EYUX invoice line created
+2026-10-27T09:51:22Z INFO [api] vin=3HC54AHEKC0K4JCW0 invoice line created
+2026-10-27T09:51:27Z INFO [ingest] vin=3HCSDH6WL29WHV0RR invoice line created
+2026-10-27T09:51:31Z INFO [api] vin=1FAYG5G6AK3KE7TY2 heartbeat accepted
+2026-10-27T09:51:35Z ERROR [consumer] vin=1FANYR7Z9WLMVG7JT timeout calling OEM API
+2026-10-27T09:51:39Z INFO [api] vin=3HC8V2C6FXTXH29A6 GET /v1/vehicles/latest 200
+2026-10-27T09:51:52Z INFO [consumer] vin=3HCVVU9GJ3DUJJSKX invoice line created
+2026-10-27T09:51:53Z ERROR [api] timeout calling OEM API
+2026-10-27T09:52:04Z INFO [api] GET /v1/vehicles/latest 200
+2026-10-27T09:52:05Z INFO [consumer] vin=5YJYKXXZ2J09GXS6H event written
+2026-10-27T09:52:10Z WARN [consumer] vin=3HCNTJGCW5C0JFVX3 consumer lag 350
+2026-10-27T09:52:13Z INFO [ingest] vin=2GB56X3HZP5W6THFL GET /v1/vehicles/latest 200
+2026-10-27T09:52:19Z INFO [ingest] vin=5YJF5HSPZ4LJPPDZU GET /v1/vehicles/latest 200
+2026-10-27T09:52:20Z INFO [ingest] vin=2GBB006JFEW2733EJ heartbeat accepted
+2026-10-27T09:52:26Z WARN [api] vin=1FAW2U985FC4XTBFR slow query 1200ms
+2026-10-27T09:52:26Z INFO [api] event written
+2026-10-27T09:52:26Z INFO [ingest] vin=3HCVVU9GJ3DUJJSKX event written
+2026-10-27T09:52:32Z INFO [api] vin=2GBG1C7RN6ZWRRBN2 GET /v1/vehicles/latest 200
+2026-10-27T09:52:42Z INFO [billing] vin=3HCVVU9GJ3DUJJSKX event written
+2026-10-27T09:52:42Z INFO [api] vin=2GB81Z1G7RL5ECVBX GET /v1/vehicles/latest 200
+2026-10-27T09:52:50Z INFO [consumer] vin=2GBM7SRWK6D33J1ST heartbeat accepted
+2026-10-27T09:52:51Z INFO [billing] vin=1FAG20Y0KN929CCCJ GET /v1/vehicles/latest 200
+2026-10-27T09:52:59Z WARN [billing] vin=3HCZS3MF0E99B17C1 consumer lag 350
+2026-10-27T09:53:02Z ERROR [ingest] vin=2GB380D9LEW92JBMN duplicate key on insert
+2026-10-27T09:53:03Z INFO [ingest] vin=2GBB2BF4J6MDT1XP6 invoice line created
+2026-10-27T09:53:04Z INFO [api] vin=1FARM6DSH6J6X5945 GET /v1/vehicles/latest 200
+2026-10-27T09:53:06Z INFO [api] vin=5YJJKEAL5ZPK35PFG GET /v1/vehicles/latest 200
+2026-10-27T09:53:11Z WARN [api] vin=5YJW3HJCCW8HGSJ16 odometer jump > 500 km
+2026-10-27T09:53:15Z ERROR [api] vin=2GBDAPWPJTVXHA84M duplicate key on insert
+
+2026-10-27T09:53:27Z INFO [api] vin=5YJAV775YMDT7HE28 event written
+2026-10-27T09:53:32Z INFO [api] vin=3HCUZ92YBHTMTCG4Z heartbeat accepted
+2026-10-27T09:53:37Z INFO [ingest] vin=2GB301511FJZHM2JR invoice line created
+2026-10-27T09:53:39Z WARN [consumer] vin=5YJW3HJCCW8HGSJ16 retrying publish
+2026-10-27T09:53:40Z INFO [consumer] vin=5YJFYHC6DL428B14M event written
+2026-10-27T09:53:43Z INFO [consumer] GET /v1/vehicles/latest 200
+2026-10-27T09:53:47Z ERROR [api] vin=3HC6H1FV0NECRVFRG timeout calling OEM API
+2026-10-27T09:53:48Z INFO [ingest] vin=3HC0L0ZPUELSL61UR heartbeat accepted
+2026-10-27T09:53:51Z WARN [ingest] vin=2GB7GS1ZVVB2UAD8V odometer jump > 500 km
+2026-10-27T09:53:57Z INFO [api] vin=5YJDGD2YGSNN5J4MU invoice line created
+2026-10-27T09:54:02Z INFO [api] vin=1FAW13R8RU48B1Y2L heartbeat accepted
+2026-10-27T09:54:03Z ERROR [ingest] vin=3HCVGNVR0MWAJUCDV timeout calling OEM API
+2026-10-27T09:54:04Z INFO [billing] vin=2GBYZT7NSUWRWVP8X heartbeat accepted
+2026-10-27T09:54:05Z WARN [ingest] vin=3HCLD2WR4FGAP7EJR odometer jump > 500 km
+2026-10-27T09:54:10Z WARN [billing] consumer lag 350
+2026-10-27T09:54:10Z INFO [ingest] vin=5YJZE2P4P8UXVYJ8Y GET /v1/vehicles/latest 200
+2026-10-27T09:54:12Z INFO [api] vin=2GBBM81HTT5PV8NHJ invoice line created
+2026-10-27T09:54:14Z INFO [billing] vin=5YJDKUFCR306FG9J2 GET /v1/vehicles/latest 200
+2026-10-27T09:54:20Z INFO [ingest] vin=5YJDS81HS8EA0XJ13 heartbeat accepted
+2026-10-27T09:54:20Z INFO [api] vin=1FA1YJF490B0WMPY8 heartbeat accepted
+2026-10-27T09:54:22Z ERROR [consumer] vin=1FAR5ZB3D290S1F0R timeout calling OEM API
+2026-10-27T09:54:24Z WARN [billing] slow query 1200ms
+2026-10-27T09:54:27Z ERROR [consumer] vin=5YJUGJFM4593GBFZF duplicate key on insert
+2026-10-27T09:54:28Z INFO [ingest] vin=3HCZEZSGYJCZYM67M GET /v1/vehicles/latest 200
+2026-10-27T09:54:30Z INFO [ingest] vin=5YJ6VWXF6A0NVWS60 event written
+2026-10-27T09:54:33Z ERROR [ingest] vin=5YJFYHC6DL428B14M timeout calling OEM API
+2026-10-27T09:54:40Z INFO [api] vin=5YJUGJFM4593GBFZF GET /v1/vehicles/latest 200
+2026-10-27T09:54:41Z INFO [ingest] vin=5YJY5Y4JWXN7XM2XV heartbeat accepted
+2026-10-27T09:54:52Z INFO [billing] vin=2GB4H6DWMHAJAL8ZT invoice line created
+2026-10-27T09:54:53Z INFO [consumer] heartbeat accepted
+2026-10-27T09:54:54Z INFO [api] vin=3HCDYUH04251YM880 invoice line created
+2026-10-27T09:55:00Z INFO [consumer] vin=2GB380D9LEW92JBMN GET /v1/vehicles/latest 200
+2026-10-27T09:55:10Z INFO [api] vin=5YJZ4UDE209LBK5CJ heartbeat accepted
+2026-10-27T09:55:11Z INFO [ingest] vin=3HC3X2VJN31MW2AWV event written
+2026-10-27T09:55:12Z INFO [api] vin=3HC6H1FV0NECRVFRG GET /v1/vehicles/latest 200
+2026-10-27T09:55:13Z INFO [ingest] vin=5YJT020C2DN0VE195 event written
+2026-10-27T09:55:24Z INFO [billing] vin=2GBSKA3BRZAYA1WGP invoice line created
+2026-10-27T09:55:37Z INFO [api] vin=1FAXL60F4GS42F2WY event written
+2026-10-27T09:55:37Z INFO [ingest] vin=5YJ8ML8VJMX5DZA8J event written
+2026-10-27T09:55:42Z ERROR [billing] vin=2GBL377NVXVDFRCM3 db connection refused
+2026-10-27T09:55:49Z INFO [consumer] vin=5YJU315EF29U068XA invoice line created
+2026-10-27T09:55:53Z INFO [ingest] vin=3HCWWU8GRJW5XU3FN event written
+2026-10-27T09:56:01Z ERROR [api] vin=5YJ9838358LFBRVCU db connection refused
+2026-10-27T09:56:02Z WARN [consumer] vin=2GBB006JFEW2733EJ odometer jump > 500 km
+2026-10-27T09:56:02Z ERROR [consumer] vin=1FAW9NK0LAX8BH0WS failed to parse message
+2026-10-27T09:56:02Z ERROR [consumer] vin=5YJYWXJL48XMZRM1W failed to parse message
+2026-10-27T09:56:09Z INFO [api] GET /v1/vehicles/latest 200
+2026-10-27T09:56:11Z ERROR [consumer] vin=2GB9JEU3Y9UAVW8K5 failed to parse message
+2026-10-27T09:56:15Z INFO [api] vin=1FANYR7Z9WLMVG7JT invoice line created
+2026-10-27T09:56:17Z INFO [billing] vin=2GBDAPWPJTVXHA84M heartbeat accepted
+2026-10-27T09:56:22Z INFO [consumer] vin=2GBB006JFEW2733EJ invoice line created
+2026-10-27T09:56:24Z INFO [ingest] vin=3HCXST2JW6XEA6GEP invoice line created
+2026-10-27T09:56:25Z INFO [api] vin=2GBB2BF4J6MDT1XP6 GET /v1/vehicles/latest 200
+2026-10-27T09:56:33Z WARN [api] consumer lag 350
+2026-10-27T09:56:34Z INFO [ingest] vin=5YJN9H1W3DKJNY36K GET /v1/vehicles/latest 200
+2026-10-27T09:56:35Z INFO [consumer] vin=5YJT020C2DN0VE195 event written
+2026-10-27T09:56:36Z INFO [api] vin=3HCCD0VEF916C5NX7 invoice line created
+2026-10-27T09:56:39Z INFO [api] vin=2GBL377NVXVDFRCM3 GET /v1/vehicles/latest 200
+2026-10-27T09:56:39Z INFO [ingest] invoice line created
+2026-10-27T09:56:46Z INFO [consumer] vin=3HC4DVWZG9PK7RGZ0 event written
+2026-10-27T09:56:46Z ERROR [consumer] vin=5YJK3G83UC0P55S0G failed to parse message
+2026-10-27T09:56:47Z ERROR [billing] vin=3HCUZ92YBHTMTCG4Z timeout calling OEM API
+2026-10-27T09:56:48Z INFO [consumer] vin=3HC4853UP9HZ4HV8W event written
+2026-10-27T09:56:55Z INFO [ingest] vin=1FA3ABUVB94MGGKSN invoice line created
+2026-10-27T09:56:57Z WARN [consumer] vin=5YJY5Y4JWXN7XM2XV retrying publish
+2026-10-27T09:57:00Z INFO [billing] vin=2GBC2Y4GAGTR9R502 GET /v1/vehicles/latest 200
+2026-10-27T09:57:03Z INFO [api] vin=3HCNTJGCW5C0JFVX3 event written
+2026-10-27T09:57:08Z INFO [api] heartbeat accepted
+2026-10-27T09:57:09Z INFO [api] vin=1FA6BHL56A4NJWLUF event written
+2026-10-27T09:57:11Z INFO [api] vin=1FANH7SP2SXV16ZWT GET /v1/vehicles/latest 200
+2026-10-27T09:57:13Z INFO [ingest] vin=1FALF84YGCRP7UCEU event written
+2026-10-27T09:57:15Z INFO [billing] vin=1FADA3JREKAP960D7 invoice line created
+2026-10-27T09:57:15Z INFO [billing] vin=3HCDYUH04251YM880 event written
+2026-10-27T09:57:21Z ERROR [consumer] vin=5YJ8ML8VJMX5DZA8J duplicate key on insert
+2026-10-27T09:57:25Z INFO [ingest] vin=2GBKAUKJTMHBJAZSX GET /v1/vehicles/latest 200
+2026-10-27T09:57:26Z INFO [api] invoice line created
+2026-10-27T09:57:30Z INFO [api] vin=5YJUGJFM4593GBFZF event written
+2026-10-27T09:57:33Z INFO [consumer] vin=1FAW2U985FC4XTBFR heartbeat accepted
+2026-10-27T09:57:37Z INFO [ingest] vin=5YJVSWHDS36EH8B9S heartbeat accepted
+2026-10-27T09:57:37Z WARN [ingest] vin=1FANH7SP2SXV16ZWT retrying publish
+2026-10-27T09:57:38Z INFO [api] vin=5YJGDV13SLXXNL896 event written
+2026-10-27T09:57:39Z WARN [billing] slow query 1200ms
+2026-10-27T09:57:43Z INFO [api] vin=1FAUD7ZRLGSSUDR1Z GET /v1/vehicles/latest 200
+2026-10-27T09:57:46Z INFO [consumer] vin=3HCKR3WUDM48DZ1X3 heartbeat accepted
+2026-10-27T09:57:55Z ERROR billing timeout calling OEM API
+2026-10-27T09:57:56Z INFO [consumer] invoice line created
+2026-10-27T09:58:02Z INFO [ingest] vin=3HCNTJGCW5C0JFVX3 heartbeat accepted
+2026-10-27T09:58:06Z INFO [ingest] vin=3HCCD0VEF916C5NX7 event written
+2026-10-27T09:58:10Z INFO [consumer] vin=5YJ2MM42BN541APPU event written
+2026-10-27T09:58:21Z INFO [api] vin=3HCZEZSGYJCZYM67M heartbeat accepted
+2026-10-27T09:58:26Z INFO [billing] vin=1FA38S785BFVR2SW0 heartbeat accepted
+2026-10-27T09:58:28Z INFO [api] vin=5YJDS81HS8EA0XJ13 event written
+2026-10-27T09:58:31Z WARN [consumer] vin=3HCYKJCV7J75AFBTP slow query 1200ms
+2026-10-27T09:58:35Z INFO [api] invoice line created
+2026-10-27T09:58:36Z INFO [ingest] vin=2GBXBPK2EWLS1Y1JF GET /v1/vehicles/latest 200
+2026-10-27T09:58:42Z INFO [consumer] vin=2GBFLSMELA357VCRV invoice line created
+2026-10-27T09:58:45Z INFO [ingest] heartbeat accepted
+2026-10-27T09:58:46Z INFO [consumer] vin=2GB4H6DWMHAJAL8ZT event written
+2026-10-27T09:58:49Z INFO [billing] vin=2GB4H6DWMHAJAL8ZT event written
+2026-10-27T09:58:51Z INFO [api] vin=1FAW13R8RU48B1Y2L invoice line created
+2026-10-27T09:59:00Z INFO [api] vin=5YJDKUFCR306FG9J2 heartbeat accepted
+2026-10-27T09:59:05Z WARN [consumer] vin=1FA2XU6A3H3KKGGGV slow query 1200ms
+2026-10-27T09:59:07Z ERROR [consumer] vin=2GBFLSMELA357VCRV db connection refused
+2026-10-27T09:59:09Z WARN [consumer] retrying publish
+2026-10-27T09:59:09Z INFO [api] vin=1FAWFSH3R155W4WDG invoice line created
+2026-10-27T09:59:25Z ERROR [ingest] vin=3HC3B8VW7S2W6EDL5 db connection refused
+2026-10-27T09:59:26Z ERROR [consumer] vin=2GBKAUKJTMHBJAZSX failed to parse message
+2026-10-27T09:59:27Z INFO [ingest] vin=2GBC5DSC25RPDJ9VR heartbeat accepted
+2026-10-27T09:59:29Z WARN [ingest] vin=5YJ8ML8VJMX5DZA8J slow query 1200ms
+2026-10-27T09:59:30Z INFO [api] vin=2GBC2Y4GAGTR9R502 event written
+2026-10-27T09:59:32Z INFO [api] vin=2GBDAPWPJTVXHA84M invoice line created
+2026-10-27T09:59:37Z INFO [api] vin=2GB56X3HZP5W6THFL GET /v1/vehicles/latest 200
+2026-10-27T09:59:45Z ERROR [consumer] db connection refused
+2026-10-27T09:59:50Z INFO [consumer] vin=1FA641RS6ZKUNHC3B invoice line created
+2026-10-27T09:59:56Z INFO [api] vin=3HC54AHEKC0K4JCW0 event written
+2026-10-27T09:59:59Z INFO [consumer] vin=3HCCD0VEF916C5NX7 GET /v1/vehicles/latest 200
+2026-10-27T09:59:59Z INFO [consumer] vin=2GBDAPWPJTVXHA84M heartbeat accepted
+2026-10-27T10:00:00Z ERROR [billing] vin=1FAUSRJGF4CBFPR9B timeout calling OEM API

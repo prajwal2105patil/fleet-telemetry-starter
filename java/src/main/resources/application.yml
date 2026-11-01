@@ -1,0 +1,40 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: fleet-telemetry
+  datasource:
+    url: jdbc:postgresql://${DB_HOST:localhost}:${DB_PORT:5432}/${DB_NAME:fleet}
+    username: ${DB_USER:fleet}
+    password: ${DB_PASSWORD:fleet}
+    hikari:
+      maximum-pool-size: 10
+      connection-timeout: 3000
+      initialization-fail-timeout: -1   # start even if the DB is down; /health reports it
+  kafka:
+    bootstrap-servers: ${KAFKA_BOOTSTRAP:localhost:9092}
+    producer:
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: org.apache.kafka.common.serialization.StringSerializer
+      acks: all
+      properties:
+        enable.idempotence: true
+        linger.ms: 5
+    consumer:
+      group-id: telemetry-writer
+      auto-offset-reset: earliest
+      enable-auto-commit: false
+      key-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+      value-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+    listener:
+      ack-mode: record          # offset committed after each record is processed successfully
+
+app:
+  consumer-enabled: ${CONSUMER_ENABLED:true}
+  overspeed-kmph: ${OVERSPEED_KMPH:100}
+  overspeed-min-pings: ${OVERSPEED_MIN_PINGS:3}
+
+logging:
+  level:
+    org.apache.kafka: WARN
